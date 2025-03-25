@@ -1,16 +1,1 @@
-# Scavenge Game Locale
-Localization files for the "Scavenge Game" by Orsoniks.
-
-# Authors
-| File                       | Contributors                                                                                                        |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------|
-| [English (EN)](/EN.json)   | [Orsoniks](https://github.com/Orsoniks)                                                                             |
-| [Français (FR)](/FR.json)  | [Azurian](https://github.com/clemtomera)                                                                            |                                                                             |
-| [Русский (RU)](/RU.json)   | [Tairel](https://github.com/Tairelol), [olv](https://github.com/Ol1vver)                                            |
-| [Português (PT)](/PT.json) | [a-cake](https://github.com/a-cake), [a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu)     |
-| [اَلْعَرَبِيَّةُ (AR)](/AR.json)   | [Enderwolf](https://github.com/Enderw0lf)                                                                           |
-| [简体中文 (ZH)](/ZH.json)   | [影月炎YUN](https://github.com/YUN2474)                                                                              |
-| [한국어 (KO)](/KO.json)     | [DrawinDarwin](https://github.com/DrawinDarwin), [Kedr2806](https://github.com/Kedr2806)                            |
-
-# Maintainers
-* [@Orsoniks](https://github.com/Orsoniks)
+not sure if its ok to include game references in the dain bramage lines anyways it should be painfully obvious by now that if you look up "shelly" in the discord server i have the most messages about it outside orson and its probably because i obtained a very weird obsession towards shelly even though i never liked anthropomorphic characters in particular i guess shelly's armor kinda gives me away oh well i just really like shelly's scorpion female thing i think it sets it apart from other furry characters as in my opinion scorpion characters are a very unpopular yet fun concept but in all honesty i really just think shes kind of neat alongside her mute thing of which leaves room for interpretation and im sure noone will notice if i say meowdread i love you and also i hope i can give my utmost respect away with this locale also its a github fork simply because i wanna do this on my free school computer time but dont have good means outside github to do so
