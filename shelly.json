@@ -1042,16 +1042,16 @@
                 "(When they said that I'd be going into the mines, I was expecting something more... Colorful.)",
                 "(I can already tell this won't be fun.)",
                 "(Ok, maybe I shouldn't have signed for this one.)",
-                "*Anguish hiss*",
+                "*Anguish chitter*",
                 "(Completely alone...)",
                 "*Sad face*",
                 "(...Aahh screw this, let's go.)",
                 "*Expected to get actual supplies*",
                 "*Trying to get someone's attention via loud clapping*",
-                "*whimper hiss*",
-                "*Hiss whimper*",
-                "*Hiss*",
-                "*Unsatisfied hiss*",
+                "*Whimper chitter*",
+                "*Chitter whimper*",
+                "*Chitter*",
+                "*Unsatisfied chitter*",
                 "(This place could use a few brushstrokes.)",
                 "*Immense disappointment*",
                 "(...What did they teach me again?)",
@@ -1076,7 +1076,7 @@
                 "(Where is this again? A giant gray ball of nothing?)",
                 "(Atleast this place is quiet...)",
                 "(A fathomless tomb... Yeah, nice summary, mission pamphlet.)",
-                "*Hiss of mental pain*",
+                "*Chitter of mental pain*",
                 "(This place is already making me lightheaded...)"
             ],
             "refuseEat": [
@@ -1105,18 +1105,18 @@
                 "(I wish I didn't need to sleep so much.)",
                 "(Fatigued.)",
                 "(Sad place to sleep in...)",
-                "*Yawn imitating hiss*",
+                "*Yawn imitating chitter*",
                 "(No sleep... Not yet...)",
                 "(Snoozy!)",
                 "(I might go to sleep.)",
                 "(Atleast the beds here aren't that rectangular...)",
                 "*Neck crack*",
                 "*Sleepy face contortion*",
-                "*Lullaby hissing*",
+                "*Lullaby chitter*",
                 "(But I don't wanna go to sleep...)",
                 "*Rubs eyes*",
                 "*Clutches head*",
-                "*Fiddlesticks, I can't tell if it's nighttime.*",
+                "(Fiddlesticks, I can't tell if it's nighttime.)",
                 "(Maybe... I can actually sleep this time.)",
                 "*Do I really have to... Sleep?*"
             ],
@@ -1140,14 +1140,14 @@
                 "*Dozing off*",
                 "(Getting some sleep can't hurt...)",
                 "(My body feels... so weak...)",
-                "(Come on rads monster... Stay awake...)",
+                "(Come on rads monster... Eyes open...)",
                 "(I don't wanna... Ughh...)",
                 "(Just a quick lie down...)",
                 "*There are no words to describe how tired you are right now*",
                 "(Aaagh, Im too sleepy for anything...)",
-                "(Can't... awake...)",
+                "(Can't... Awake...)",
                 "*Shuts down for a picosecond*",
-                "*Why am I... How did I...*"
+                "(How am I still... Awake...)"
             ],
             "confused": [
                 "(What...)",
@@ -1165,9 +1165,9 @@
                 "(I was gonna... What...)",
                 "(I must have been... Uhh...)",
                 "(Im a buuh-ughh...)",
-                "(Am I uhhh... Wrong...)",
-                "(I feel... Ungood...)",
-                "(Feeling wrong... Or...)",
+                "(Something is... Wrong...)",
+                "(I feel... Bad...)",
+                "(Feeling pretty... Bad)",
                 "(What did I... I can't...)",
                 "(Stay... Awake...)",
                 "(Im not feeling... Myself...)",
@@ -1192,7 +1192,7 @@
                 "(What a restless night...)",
                 "*No comment*",
                 "(I awake, yet again...)",
-                "*Awakening hiss*"
+                "*Awakening chitter*"
             ],
             "sick": [
                 "My stomach hurts...",
@@ -1587,11 +1587,11 @@
                 "M-maybe... Maybe I'll end it next time... Hahaha..."
             ],
             "suicide": [
-                "Goodbye. Good FUCKING BYE. I am DONE!!! FUCK ALL OF THIS!",
-                "I'm done. Fuck this, fuck me and FUCK you.",
-                "I fucking told you. I TOLD you, you piece of shit. I'm DONE!",
-                "I'm leaving this shitty world once and for all.",
-                "Peace. Bye. Fuck this. I'm fucking leaving. I'm going to hell for this.",
+                "(Why did I do that WHY did I DO THAT no no no NO)",
+                "(I shouldn't have done that I shouldn't have... Fuck this...)",
+                "(Ehehh... What... What did I do... NonononoNO)",
+                "(NO MORE!!! NEVER AGAIN!!! I CAN'T TAKE THIS ANYMORE!!!)",
+                "(I shouldn't have done this... Too late for anything... )",
                 "I have FUCKING had it with all of this. I am DONE! FUCK OFF!!!",
                 "End of the line, fucker. End of the fucking line. I'M OUT!!!",
                 "That should do it... Bye-bye... Sorry for this... I hope there's an afterlife for me...",
@@ -1630,7 +1630,7 @@
                 "I hope I end up in hell. Gonna be better than this fucking place. I can't. I'm out. Sorry. Fuck all of this.",
                 "Bye. I'm out. I'll see everyone on the other side, down in the pits of hell.",
                 "Fuck this. Fuck this. FUCK. This. I'M DONE! ENOUGH OF THIS.",
-                "Sorry. I'm out. Bye. I'm sorry. I'm so fucking sorry. I can't."
+                "(FFUUUUUUUCKKK!!!! AAAAAAAAAHHHHHHH!!!! LET ME BE FREEEE!!!!)"
             ],
             "refuse": [
                 "...",
@@ -1734,14 +1734,14 @@
                 "Bandage! U-urgent..."
             ],
             "steponglass": [
-                "(Aaagh!! Damn it, that was a glass shard!)",
-                "(Ooww! I shouldn't have stepped on the glass..!)",
+                "(Aaagghh!! Damn it, that was a glass shard!)",
+                "(OOOWW! I shouldn't have stepped on the glass..!)",
                 "*Anguish over stepping over glass shards*",
                 "(Mmmmmpphh!!! Not the broken glass!!)",
                 "(Grrmghhh-- This... Fucking... Glass...)",
                 "*Eyes narrow as the pain from stepping on the glass shard takes over*",
                 "(glass shards-- THE GLASS SH-- AAAAHH!!!)",
-                "GGRRHHH-- MOTHERFUCKING GLASS SHARDS--",
+                "(GGRRHHH-- MOTHERFUCKING GLASS SHARDS--)",
                 "*Immense glass shard pain and cursing*"
             ],
             "seecorpse": [
@@ -1791,20 +1791,20 @@
             "seecorpsedesensitized": [
                 "(We really are just like a forest for the flames, huh...)",
                 "(Im taking all of your stuff, mister dead body.)",
-                "(Woohoo, free crap.)",
+                "(Woohoo... Free crap.)",
                 "(No comment.)",
-                "There's so many...",
-                "I think I'm getting used to the sight.",
-                "I think this counts as genocide at this point...",
-                "So many innocent lives lost...",
-                "This one looks funny.",
-                "I've seen a lot of these by now.",
-                "This place is FILLED with corpses!",
-                "I wonder if I'll find someone living in here...",
-                "That's gotta hurt.",
-                "Not a good mortality rate in here.",
-                "This place has taken so many lives...",
-                "I'm better than this...",
+                "(Your stuff's mine now.)",
+                "(Dabadoop doop dead.)",
+                "(I wonder if your family still cares.)",
+                "(Ugly.)",
+                "(OoOOoo. Im the scary rads monster. I've come to take your chatterbox, oooOOOOOoo.)",
+                "(You're boring.)",
+                "(Dumbass.)",
+                "(Good god, you STINK!)",
+                "(Stinker.)",
+                "(I shall name you... Stinkerpoo.)",
+                "(Oh, they're dead. Bummer.)",
+                "(Cause of death: ...Money.)",
                 "That looks like it hurt.",
                 "This one is still smiling!",
                 "I already lost count.",
@@ -1818,7 +1818,7 @@
                 "Hey! You! ...Yeah, they're not any different.",
                 "Man, these guys must REALLY not like me... Not a single one even looked at me!",
                 "Let's just move on.",
-                "Survival of the fittest, I guess...",
+                "Survival of the fattest, I guess...",
                 "Eugh.",
                 "And another one.",
                 "And another!",
@@ -2348,7 +2348,7 @@
                 "*Surprise, waves hand*",
                 "*Intrigue, waves hand*",
                 "*Questions the amount of cannon fodder sent down here, waves hand*",
-                "*Surprised hiss, waves hand*",
+                "*Surprised chitter, waves hand*",
                 "*Minor disappointment, waves hand*",
                 "*Nearly flips them off, clutches it and waves hand instead*",
                 "*Doesn't wave hands... now feels awkward*",
@@ -2362,11 +2362,11 @@
                 "*Waves hand with surprise*",
                 "*Waves hand with intrigue*",
                 "*Waves hand with some hidden sorrow*",
-                "*Waves hand with a sudden hiss*",
+                "*Waves hand with a sudden chitter*",
                 "*Waves hand with a minor amount of inattention*",
                 "*Waves hand with a small degree of irritation*",
                 "*Awkwardly doesn't wave hands*",
-                "*Welcoming hiss*"
+                "*Welcoming chitter*"
             ],
             "tradeeanswer": [
                 "(Fuck you. Heh, not like anyone can hear me...)",
@@ -2407,11 +2407,11 @@
                 "*Points to a piece of paper on the wall with a thick dollar sign, then points to their goods*"
             ],
             "traderdepressed": [
-                "*Freezes in place thanks to your stare*",
-                "*Eyeballing you back, but stronger*",
+                "*Freezes thanks to your stare*",
+                "*Eyeballing you back*",
                 "*Short confusion, transformed into worry for you*",
                 "*Makes a happy hand waving motion, regrets it*",
-                "*Desperately trying to grab your attention by hissing, clapping their hands, banging on the wall, all to no avail*",
+                "*Trying to grab your attention by making sounds*",
                 "*Quiet in solitude alongside you*"
             ],
             "traderhurt": [
@@ -2427,20 +2427,18 @@
                 "*Demonstrates wound, then--* (BANDAGE, NOW!)"
             ],
             "traderhurtanswer": [
-                "...Uhm, best I can do is a rag. I hope you'll be okay.",
-                "...Heres some dressing. You can rest here. I hope you're okay!"
+                "*Reluctantly gives you an old rag*",
+                "*Worriedly gives you an old rag*"
             ],
             "tradershow": [
-                "Here's what I got. Hand me over some goods and you can take 'em.",
-                "I've these. Drop items here and I'll take them.",
-                "Here. Throw me your stuff and I'll give you one of these.",
-                "Give me some stuff and take your pick."
+                "*Shows off their goods*",
+                "*Expectantly unpacks their stuff*",
+                "*Unpacks their stuff, points to you*"
             ],
             "tradergiveitem": [
                 "*Singular nod*",
                 "*Registering the value of all this before slightly nodding*",
-                "*Three hand claps*",
-                "*The most imperceptible blush*",
+                "*No response, they're checking what they just got*",
                 "*Thumbs up*",
                 "*No response, they're waiting for you to get something*"
             ],
@@ -2450,27 +2448,28 @@
                 "*Passionate nodding*",
                 "*Heavy nodding*",
                 "*Outwards V-Sign*",
-                "*Hat tip motion, no hat*"
+                "*Hat tip motion, no hat*",
+                "*No response*"
             ],
             "traderbuyfail": [
                 "*Thumbs down*",
                 "*Shakes head*",
                 "*Nearly flips you off, angry head shaking*",
                 "*Disappointed glare*",
-                "*Hisses, arms crossed*"
+                "*Chitters, arms crossed*"
             ],
             "traderdispleased": [
                 "*Shoos you off using their hands*",
                 "*Raises palm, looks away*",
                 "*Raises palms, shakes head*",
                 "*Points to you, index finger says no*",
-                "*Negative hiss*",
-                "*Raises palms, negatively hisses*",
+                "*Negative chitter*",
+                "*Raises palms, negatively chitters*",
                 "*Double thumbs down*",
                 "*Their penetrating glare is telling you to leave them alone*"
             ],
             "braindamaged": [
-                "I taste metal.",
+                "(Hmmm... Bubbles...)",
                 "Did I eat something metallic?",
                 "I didn't know metal had a smell.",
                 "There's a metal taste in my mouth...",
@@ -2481,7 +2480,7 @@
                 "This isn't right. I feel a metallic taste...",
                 "Nor something angrily nor blissfully few?",
                 "An no one ourselves dry for invent by means of a most.",
-                "Very Well! Dynamics two zero nine fourty-two thre two two eight two seven.",
+                "(Do I... Do I work for a soulless mining company? Am I a dwarf?)",
                 "Villa hastily the oho! Onto no one?",
                 "Good! Certainty someone itself I urgently!",
                 "For as oddly whom urgently him mate rats! Miner herself right on.",
@@ -2500,7 +2499,7 @@
                 "This tastes wrong. Very wrong... Am I sick..?",
                 "Gh... Hh-h...",
                 "What was that!?",
-                "Am... Am I imagining things..?"
+                "!! IM SORRY, SHELLY !!"
             ]
         }
     ]
