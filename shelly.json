@@ -2018,23 +2018,23 @@
                 "Freezing..."
             ],
             "emaciated": [
-                "I am so thin... I feel weak.",
-                "I REALLY need to pack on a few kilos.",
-                "I'm very out of shape.",
-                "This kind of weight loss might end very badly for me at this point.",
-                "I really need to eat more...",
-                "I'm way too skinny... This can't be good for me.",
-                "My figure is so lean...",
-                "I'm like a low calorie diet drink."
+                "(I haven't been feeding off my rads lately, have I...)",
+                "(I feel so flimsy and weak...)",
+                "(What did I do to get this thin?)",
+                "(My bones feel lighter than usual.)",
+                "(I shouldn't have ignored my regular rads consumption.)",
+                "(My body mass is way too low for my taste.)",
+                "(Sorry guys, but I'm the diet version of the rads monster.)",
+                "*Checks weight* (...Flat!)"
             ],
             "obese": [
-                "I sure gained some weight.",
-                "I feel so heavy and sluggish.",
-                "I'm really fat.",
-                "...Am I not a bit overweight?",
-                "I need to drop a few kilos.",
-                "I can see the fat building up on me...",
-                "I can't continue eating this much."
+                "(I feel like a nuclear reactor. Scarily unusual.)",
+                "(Feeling heavier than normal...)",
+                "(XXL rads monster, NOT for purchase.)",
+                "*Makes a circle around herself*",
+                "(I've gotta drop being a glutton.)",
+                "(How did I never get this fat back then?)",
+                "*Checks weight* (...FAT.)"
             ],
             "opiated": [
                 "I think I'm drugged...",
@@ -2470,8 +2470,8 @@
             ],
             "braindamaged": [
                 "(Hmmm... Bubbles...)",
-                "Did I eat something metallic?",
-                "I didn't know metal had a smell.",
+                "*Pretending to be a mad scientist*",
+                "*Pretending to be screaming their lungs out*",
                 "There's a metal taste in my mouth...",
                 "...Metal...?",
                 "What     is  happening",
@@ -2499,7 +2499,7 @@
                 "This tastes wrong. Very wrong... Am I sick..?",
                 "Gh... Hh-h...",
                 "What was that!?",
-                "!! IM SORRY, SHELLY !!"
+                "!! IM_SORRY,_SHELLY !!"
             ]
         }
     ]
