@@ -1207,7 +1207,7 @@
                 "(Gotta keep it together...)",
                 "(I feel terrible... Hope this gets better.)",
                 "(A bit lightheaded...)",
-                "I'm sick...",
+                "*Sweating*",
                 "I should watch what I eat...",
                 "Ghh... stomach...",
                 "I feel ill.",
@@ -1463,7 +1463,7 @@
                 "I'm unhappy."
             ],
             "depressed": [
-                "I can't take this anymore.",
+                "*Staring into the distance*",
                 "...Why am I trying this?",
                 "I should... just... let go...",
                 "I can't keep going on like this...",
@@ -1516,7 +1516,7 @@
                 "Hahahaha..."
             ],
             "miserable": [
-                "I want to end my life.",
+                "*Staring into the abyss*",
                 "I'll do it. I'll do it. I swear.",
                 "...Why am I trying this?",
                 "End my life.",
@@ -1751,19 +1751,19 @@
                 "*Immense glass shard pain and cursing*"
             ],
             "seecorpse": [
-                "Oh... Oh god.",
-                "Shit.",
-                "Better you than me, buddy...",
-                "That's not very reassuring.",
-                "Hey! Are you... O-oh...",
-                "Fuck me man... That's a bad sight.",
-                "No no no no. Oh god...",
-                "I feel bad for them...",
-                "I hope I won't end up like this.",
-                "Yikes... Ew... Man.",
-                "I don't think they're breathing...",
-                "Yrp, that's a corpse alright...",
-                "I can't help but stare...",
+                "(Oh shit... They're dead...)",
+                "(Fuck... No...)",
+                "(Oooohh... That's not good... Not good at all...)",
+                "(Are you-- Ooohh noo.)",
+                "(That's one of them... Dead...)",
+                "(Oh nononono... I never wanted this...)",
+                "(Buddy... You're... No...)",
+                "(I... Wished for better...)",
+                "(Fuck... Not like this...)",
+                "(I shouldn't have held my hopes high... Damn.)",
+                "(They're not... Breathing...)",
+                "(God... DAMN IT!)",
+                "*Long stare*",
                 "Fuck that... Ough... That sucks.",
                 "Poor little guy.",
                 "Fuck...",
@@ -1771,8 +1771,8 @@
                 "I knew there were more of us here...",
                 "It's gonna be okay... It's gonna be okay.",
                 "Oh fuck. They're dead...",
-                "*gasp*",
-                "*frown*",
+                "*Sorrowful*",
+                "*Frown*",
                 "Someone should give them a proper burial.",
                 "I shouldn't touch them...",
                 "God fucking damn it. Ugh. They're dead.",
@@ -1780,7 +1780,8 @@
                 "How many of us have died here...? God... That's not a nice sight.",
                 "I better not end up like this.",
                 "...",
-                "...!",
+                "...",
+                "...",
                 "Oh damn it. Fuck. I hate that...",
                 "I wish I could've given this guy a hug before they passed away.",
                 "God...",
@@ -1795,7 +1796,7 @@
                 "They're... They're not breathing..."
             ],
             "seecorpsedesensitized": [
-                "(We really are just like a forest for the flames, huh...)",
+                "(I wish you a good afterlife...        Let's move on.)",
                 "(Im taking all of your stuff, mister dead body.)",
                 "(Woohoo... Free crap.)",
                 "(No comment.)",
@@ -1902,7 +1903,7 @@
                 "Did I HAVE to do that..? Y-yuck..."
             ],
             "cold": [
-                "It's cold in here.",
+                "*Furrowed eyes*",
                 "It's chilly!",
                 "I feel cold.",
                 "It's chilly in here.",
@@ -2205,7 +2206,7 @@
                 "My insides..."
             ],
             "pain": [
-                "Ow!",
+                "*Wince*",
                 "Ouch!",
                 "Oww...",
                 "Ouchhh...",
