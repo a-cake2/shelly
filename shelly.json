@@ -1089,21 +1089,12 @@
                 "(Hmghh...)"
             ],
             "bigpain": [
-                "OW!!!",
-                "AGH!!!",
-                "AUUGHH!",
-                "FUUUCK!",
-                "OOOWHHG!",
-                "NHHGFFF!",
-                "GAAH!",
-                "HELP! AAHG!",
-                "HELP!!!",
-                "NGHH!",
-                "AGH...",
+                "(MMPHH!!!)",
+                "(Narrowing eyes painfully)",
                 "PLEASE!!",
                 "STOP!!!",
                 "(*Gibberish full of pain*)",
-                "DAMN IT!!!"
+                "*Curling limb in pain*"
             ],
             "scream": [
                 "(Shit!)",
@@ -1208,16 +1199,17 @@
                 "(Uh-huh, uh-huh.)",
                 "(Yeah, whatever you say.)",
                 "(Maybe I should be gesting something..?)",
-                "*Impatient*",
                 "(I somehow expected you to say just that...)",
-                "*Joy wearing off*",
-                "(O.       K.)",
+                "(O. K.)",
                 "(I don't care. Hurry up, please.)",
                 "(Yeah yeah yeah...)",
                 "(1... 2... 3... 4... Are you finished yet?)",
                 "(I looooove one sided conversations.)",
                 "(Mmmmhh.)",
-                "(Ugh, the envy...)"
+                "(Ugh, the envy...)",
+                "(*Static*)",
+                "*Impatience*",
+                "*Joy wearing off*"
             ],
             "tradeeanswersamecharacter": [
                 "*Starts to feel immense pity for themselves*",
@@ -1230,7 +1222,6 @@
                 "*Examines you*",
                 "*Minor stretching*",
                 "*Pondering*",
-                "*\"Dunno what I should be doing\" chitter*",
                 "*Visibly bored, then gets an idea*",
                 "*Thinks of something, rubs hands*",
                 "*Bored chitter*"
@@ -1303,40 +1294,34 @@
             ],
             "traderdispleased": [
                 "*Shoos you off using their hands*",
-                "*Raises palm, looks away*",
                 "*Raises palms, shakes head*",
-                "*Points to you, index finger says no*",
+                "*Points to you, index finger saying no*",
                 "*Negative chitter*",
                 "*Raises palms, negatively chitters*"
             ],
             "traderwarning": [
-                "LEAVE.",
-                "Leave. NOW.",
-                "OUT! GET OUT!",
-                "Leave this pod.",
-                "I don't like you being here. Leave.",
-                "LEAVE!",
-                "OUT.",
-                "GET OUT OF HERE!",
-                "Get lost.",
-                "Fuck off!",
-                "Fuck off.",
-                "I'm not going to repeat myself."
+                "*Angry foot tapping*",
+                "*Arms crossed*",
+                "*Angrily pointing you outside*",
+                "*Glancing you towards the door*",
+                "*Furrowing 4-eyebrows*",
+                "*Narrowing 4-eyes*",
+                "*Unease*",
+                "*Agitated*",
+                "*Sad*"
             ],
             "tradercombat": [
-                "Fucker. Fucker. I'm done with your shit.",
-                "Fuck OFF!",
-                "I'M DONE WITH YOU!",
-                "FUCK YOU!",
-                "OUT! GET OUT! NOW! OUT!",
-                "YOU FUCK! GET OUT!"
+                "*Combat stance*",
+                "*Visible anger*",
+                "*Neck cut hand motion*",
+                "*Shaking fist*",
+                "*Middle finger*",
+                "----- WAIT! Aren't these lines COMPLETELY counter-productive? Imagine that you, socially neglected anthro radscorpion, put against a bajillion unfair social experiments, who is unable to socially connect thanks to your radiation and lack of mouth-- Wouldn't you actively appreciate any kind of social interaction people can even REMOTELY afford with you? Like, these lines were counter-productive on their own in the base game, but they just feel really dumb for a character like Shelly. Plus she's radioactive, so it's not like players can even stay for that long near her. Eehh, I'll just finish these lines. Not like I own the character or anything... -----"
             ],
             "traderlightbreak": [
-                "Dude, what the fuck? Why would you do that? Fuck off.",
-                "...Did you really think I would not see that. You fucker. Get out!",
-                "Hey! What the hell! I needed that! Get the fuck out!",
-                "Ahh! You THIEF! Get the hell out!",
-                "Dude. Okay... Okay then. Okay... I... Uh... Please leave."
+                "*Confusion, hostility*",
+                "*Triggered*",
+                "*Startled, angry*"
             ],
             "swingresponse": [
                 "I'M SORRY!",
@@ -1354,10 +1339,10 @@
             "braindamaged": [
                 "(Hmmm...               Bubbles...)",
                 "(Dain bramage!)",
-                "(Drain bamage!)",
                 "(Dama brainge!)",
                 "(Brama dainge!)",
-                "(I have a nose?    Noselly.    Shellose.)",
+                "(Brage damain!)",
+                "(I have a nose?    Shellose.    Noselly.)",
                 "(I may or may not have encountered myself upon the line of self questioning         by which pertains to a curious quirk about my present circumstance.)",
                 "(NO, NO, and probably NO since this thing feeds on radiation.)",
                 "(What does SMFT stand for?)",
@@ -1376,7 +1361,7 @@
                 "(They)",
                 "(Lly)",
                 "(You fools... SPONSOR MY DEMONS! FEED ME THE NUUUUUKES!)",
-                "(I may or may not have left the oven on. I should go back to my cubicle and check.)",
+                "(I may or may not have left the oven on. I should go back and check.)",
                 "(Fuck this.         Fuck EVERYTHING.            I'm doing what everyone thought I couldn't do.)                                                                            (I'm finding Karl myself.)",
                 "(COUGH           COUGH)",
                 "(The shit you got is a jerrycan, you want to drown full!)",
@@ -1388,8 +1373,10 @@
                 "(Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly! Shelly!)",
                 "(God's fondness of repetition is truly nauseating.)                                                      *Brain vomits*",
                 "(Haha turbo cancer go brrrr.         Me too.          Brrrr.)",
-                "(Hello Expirement, how are you on this fine Duney day? My roommate, 'Shelle, was looking for you. She-lvet said it was urgent, that a great Baroness was upon us, for yet another Orange test.)",
-                "Ah, yes. You see, my cerebral faculties—those once-proud bastions of reason, recollection, recognition, and refined rumination—have suffered, alas, the most egregious and irreversible of betrayals. I speak, of course, of brain damage: a catastrophic collapse of cortical coherence, an internal insurrection of the grey matter, a betrayal most foul carried out by neurons who once swore fealty to the sovereign state of Sanity. The jelly within my skull—once a palace of potential, a temple of thought, a humming, synaptic symphony—has now become a war-torn wasteland, a slag-heap of smoldering dendrites and misfired chemical telegrams. Ideas, once sleek and swift as falcons, now limp and wheeze like asthmatic pigeons. My short-term memory has become a revolving door in a wind tunnel: everything enters, spins violently, then is hurled into oblivion. Where did I put my shells? What was I saying? Who are you? The elegant executive functions which once presided like robed magistrates over the courtroom of my cognition have long since abdicated their posts, replaced by a council of shrieking toddlers, a parliament of sleep-deprived baboons, each one clutching a broken abacus and a 3-day-old banana. My inner monologue has been reduced to a series of startled grunts and nostalgic fragments of advertising jingles. It is no longer \"I think, therefore I am\", but rather \"I stare blankly at the microwave, therefore something is terribly wrong\". Language itself has become an unreliable narrator. Words I once wielded like a master swordsman now arrive on the scene drunk, injured, or entirely nude. I reach for \"metaphor\" and grab \"megaphone.\" I aim for \"synthesis\" and end up with \"cinnamon.\" Syntax crumbles mid-sentence, leaving me to trail off into wild gesticulations and frantic eyebrow semaphore, like a Victorian ghost trying to order takeout. And oh, the attention span! Once I could read tomes—Tomes!—and comprehend them, reflect on them, even critique them with a sense of smug satisfaction. Now I struggle to complete a paragraph before being distracted by a passing shadow or the sensual allure of a nearby paperclip. Concentration, for me, is a tightrope strung across a hurricane, and I am a pigeon with vertigo attempting to pirouette upon it while reciting the periodic table backward in Latin. Emotionally, I have become a landscape of unpredictable weather events. Joy, rage, grief, confusion—all erupt without warning, colliding like freight trains made of feelings. My ability to regulate these affective surges is about as reliable as a soup made of bees. It is as though my soul is being puppeteered by a small, anxious marsupial who has recently consumed a gallon of espresso and a theology textbook written in crayon. And socially? Let’s not mince words: I am a conversational landmine field. I detonate mid-story, wander off-topic like a monk on mushrooms, or respond to basic questions with the emotional weight of a Greek tragedy. Ask me how I am and I might deliver a three-act opera about the existential weight of toast. Invite me to dinner and I will forget both the date and the concept of food. In summary—and I use that term loosely, for no summary can truly encompass this baroque cathedral of malfunction—I am, in clinical, academic, and poetic terms, extremely, extravagantly, unrelentingly, and indeed flamboyantly brain damaged. A creature caught between tragedy and farce, a walking sonnet to misfiring neurons, a man whose internal compass now spins wildly in search of the concept of \"north\". But I remain. Not intact, no—far from it. But present. Gloriously, pathetically, stubbornly present. Now, what was I thinking about?",
+                "(Hello Expirement, how are you on this fine Duney day? My roommate, Velveted, was looking for you. Rozaid it was urgent, that a great Baroness was upon us, for yet another Orange test.)",
+                "(If I was... A rads monster... Wouldn't I be able to...         Scorpion?)",
+                "(What do I have this stinger tail for?)",
+                "(Ah, yes. You see, my cerebral faculties—those once-proud bastions of reason, recollection, recognition, and refined rumination—have suffered, alas, the most egregious and irreversible of betrayals. I speak, of course, of brain damage: a catastrophic collapse of cortical coherence, an internal insurrection of the grey matter, a betrayal most foul carried out by neurons who once swore fealty to the sovereign state of Sanity. The jelly within my skull—once a palace of potential, a temple of thought, a humming, synaptic symphony—has now become a war-torn wasteland, a slag-heap of smoldering dendrites and misfired chemical telegrams. Ideas, once sleek and swift as falcons, now limp and wheeze like asthmatic pigeons. My short-term memory has become a revolving door in a wind tunnel: everything enters, spins violently, then is hurled into oblivion. Where did I put my shells? What was I saying? Who are you? The elegant executive functions which once presided like robed magistrates over the courtroom of my cognition have long since abdicated their posts, replaced by a council of shrieking toddlers, a parliament of sleep-deprived baboons, each one clutching a broken abacus and a 3-day-old banana. My inner monologue has been reduced to a series of startled grunts and nostalgic fragments of advertising jingles. It is no longer \"I think, therefore I am\", but rather \"I stare blankly at the microwave, therefore something is terribly wrong\". Language itself has become an unreliable narrator. Words I once wielded like a master swordsman now arrive on the scene drunk, injured, or entirely nude. I reach for \"metaphor\" and grab \"megaphone.\" I aim for \"synthesis\" and end up with \"cinnamon.\" Syntax crumbles mid-sentence, leaving me to trail off into wild gesticulations and frantic eyebrow semaphore, like a Victorian ghost trying to order takeout. And oh, the attention span! Once I could read tomes—Tomes!—and comprehend them, reflect on them, even critique them with a sense of smug satisfaction. Now I struggle to complete a paragraph before being distracted by a passing shadow or the sensual allure of a nearby paperclip. Concentration, for me, is a tightrope strung across a hurricane, and I am a pigeon with vertigo attempting to pirouette upon it while reciting the periodic table backward in Latin. Emotionally, I have become a landscape of unpredictable weather events. Joy, rage, grief, confusion—all erupt without warning, colliding like freight trains made of feelings. My ability to regulate these affective surges is about as reliable as a soup made of bees. It is as though my soul is being puppeteered by a small, anxious marsupial who has recently consumed a gallon of espresso and a theology textbook written in crayon. And socially? Let’s not mince words: I am a conversational landmine field. I detonate mid-story, wander off-topic like a monk on mushrooms, or respond to basic questions with the emotional weight of a Greek tragedy. Ask me how I am and I might deliver a three-act opera about the existential weight of toast. Invite me to dinner and I will forget both the date and the concept of food. In summary—and I use that term loosely, for no summary can truly encompass this baroque cathedral of malfunction—I am, in clinical, academic, and poetic terms, extremely, extravagantly, unrelentingly, and indeed flamboyantly brain damaged. A creature caught between tragedy and farce, a walking sonnet to misfiring neurons, a man whose internal compass now spins wildly in search of the concept of \"north\". But I remain. Not intact, no—far from it. But present. Gloriously, pathetically, stubbornly present. Now, what was I thinking about?)",
                 "!! I'M_SORRY,_SHELLY !!"
             ]
         }
