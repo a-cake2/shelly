@@ -157,7 +157,7 @@
                 "(I'm a buuh-ughh...)",
                 "(Something is... Wrong...)",
                 "(I feel... Bad...)",
-                "(Feeling pretty... Bad)",
+                "(Mmmgh...)",
                 "(What did I... I can't...)",
                 "(Stay... Awake...)",
                 "(I'm not feeling... Myself...)",
@@ -200,7 +200,7 @@
                 "(*Sickly gibberish*)",
                 "(This sickness is... Infuriating...)",
                 "(My blood burns...)",
-                "()",
+                "(*Gibberish*)",
                 "I feel bad.",
                 "I don't feel well.",
                 "My belly hurts.",
@@ -1085,6 +1085,7 @@
                 "*Inspects <limb>, hurts*",
                 "*Holding <limb> in pain*",
                 "(Just hurting... A little...)",
+                "(*Painful gibberish*)",
                 "(Hmghh...)"
             ],
             "bigpain": [
@@ -1101,7 +1102,7 @@
                 "AGH...",
                 "PLEASE!!",
                 "STOP!!!",
-                "(*Big pain gibberish*)",
+                "(*Gibberish full of pain*)",
                 "DAMN IT!!!"
             ],
             "scream": [
