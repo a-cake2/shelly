@@ -520,10 +520,9 @@
                 "(...Hoping for a way out... How naive, Shelly...)",
                 "*Crying*",
                 "(Shelly!! Shelly!! Kill yourself, Shelly!!)",
-                "*Imagining suicide*",
+                "(*Picturing suicide*)",
                 "(I give up. I give up. I can't do this. I CAN'T DO THIS.)",
-                "I WILL turn myself into a yellow fucking paste.",
-                "I'm going to DEVOUR whoever put me here.",
+                "*Handgun to head hand motion*",
                 "Is this a fucking joke?",
                 "I'm going to fucking cannibalize myself.",
                 "I. Am. Going. To. FUCKING. SNAP.",
@@ -1057,7 +1056,7 @@
                 "(I feel unfathomably shit. I really need to get drugged dead.)",
                 "('COLD TURKEY' MY ASS!! GIVE ME THE DRUUUGS!!!)",
                 "*Addicted and feverish*",
-                "(I feel explosive. I might just do that without the candy dose.)"
+                "(I feel explosive. I might just do that without my candy.)"
             ],
             "cantBreathe": [
                 "I can't breathe!",
@@ -1082,19 +1081,17 @@
                 "(<limb>'s hurting.)",
                 "(<limb>... Aagh...)",
                 "(My <limb> is aching...)",
-                "*Inspects <limb>, hurts*",
                 "*Holding <limb> in pain*",
                 "(Just hurting... A little...)",
                 "(*Painful gibberish*)",
                 "(Hmghh...)"
             ],
             "bigpain": [
-                "(MMPHH!!!)",
-                "(Narrowing eyes painfully)",
-                "PLEASE!!",
-                "STOP!!!",
+                "(!!!!!!!)",
+                "*Eyes narrowing in pain*",
+                "(*Painful gibberish*)",
                 "(*Gibberish full of pain*)",
-                "*Curling limb in pain*"
+                "*Trembling in pain*"
             ],
             "scream": [
                 "(Shit!)",
@@ -1124,7 +1121,7 @@
                 "(KRERLKHH---!!!!)",
                 "(WWHHH--!!!)",
                 "(AHLEFF--!!!)",
-                "(*Terror gibberish*)",
+                "(*Terrorized gibberish*)",
                 "*Horrified*",
                 "*Terrified*",
                 "*Panicking*"
@@ -1137,7 +1134,7 @@
                 "(I feel...  M O I S T.)",
                 "(I am so unbelievably drenched.)",
                 "(Feeling waterlogged.)",
-                "(How did those guys like water so much? This sucks.)",
+                "(How did those guys back home like water so much? This sucks.)",
                 "(Anyone want some water? ...I don't.)",
                 "(Tail? Wet. Shells? Drenched.)",
                 "(I'm too humid for this.)",
@@ -1158,7 +1155,7 @@
                 "*Flabbergasted*",
                 "*Flinch*",
                 "*Spooked*",
-                "*Tinnitus*",
+                "(*Tinnitus*)",
                 "*Terror*"
             ],
             "regret": [
@@ -1338,12 +1335,17 @@
             ],
             "braindamaged": [
                 "(Hmmm...               Bubbles...)",
+                "(I like candy.)",
+                "(FFFFUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCCCKKKK!!!!!!!!!!!!!!!!!)",
+                "(The question mark!)",
+                "(Orsonickolas Sawyiang once told me they're)",
+                "(My name is water bottle, and I'm trying to learn how to be a good friend.)",
                 "(Dain bramage!)",
                 "(Dama brainge!)",
                 "(Brama dainge!)",
                 "(Brage damain!)",
                 "(I have a nose?    Shellose.    Noselly.)",
-                "(I may or may not have encountered myself upon the line of self questioning         by which pertains to a curious quirk about my present circumstance.)",
+                "(I may or may not have encountered myself upon the line of self questioning by which pertains to a curious quirk about my present circumstance.)",
                 "(NO, NO, and probably NO since this thing feeds on radiation.)",
                 "(What does SMFT stand for?)",
                 "(FLSTH'KHUN)",
