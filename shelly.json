@@ -538,7 +538,7 @@
                 "I died the moment I arrived here."
             ],
             "selfharm": [
-                "-----These lines were so uncharacteristic I just skipped them. I also don't have enough self-experience to do a good job on this part, so feel free to do them yourself, person from beyond the screen.-----",
+                "-----These lines were so uncharacteristic I just skipped them. I also don't have enough self-experience to do a good job on this part, so feel free to do them yourself, person from beyond the screen.-----"
             ],
             "suicide": [
                 "(Why did I do that WHY did I DO THAT no no no NO)",
@@ -662,8 +662,8 @@
                 "(glass shards-- THE GLASS SH-- AAAAHH!!!)",
                 "(GGRRHHH-- MOTHERFUCKING GLASS SHARDS--)",
                 "*Anguish over stepping over glass shards*",
-                "*Immense glass shard pain and cursing*",
-                "*Eyes narrow as the pain from stepping on the glass shard takes over*"
+                "*Immense pain and cursing*",
+                "*Painfully overwhelmed*"
             ],
             "seecorpse": [
                 "(Oh shit... They're dead...)",
@@ -1087,18 +1087,13 @@
                 "*Trembling in pain*"
             ],
             "scream": [
-                "(Shit!)",
-                "(Duhh!!)",
-                "(Aaahh!)",
-                "(Wheee!)",
-                "(Aah..!)",
-                "(Frick!)",
-                "(Uh-Oohh!)",
-                "(Crap!)",
-                "(Damn--!)",
-                "(Aaa-ack!)",
-                "(Fuu-uh!)",
-                "(Aaaaa!)"
+                "(BUH-UH--!!)",
+                "(BAHBARHG--!!)",
+                "(AAAHH!!)",
+                "(FUUUCK!)",
+                "*Shock*",
+                "*Fear*",
+                "*Freeze*"
             ],
             "terrified": [
                 "(FFUUUUUCK!!!)",
@@ -1142,6 +1137,12 @@
             ],
             "watchdislike": [
                 "(This watch thing is annoying.)"
+            ],
+            "drillend": [
+                "...That took a while.",
+                "I swear that thing had no soundproofing.",
+                "Pretty long ride there...",
+                "My ears hurt after that."
             ],
             "loud": [
                 "*Deafened thought*",
