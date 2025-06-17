@@ -14,7 +14,9 @@
     "character": [
         {
             "wallnotes": [
-                "(This note has nothing noteworthy outside a cool S drawn with a green marker.)"
+                "*This note has nothing noteworthy outside a cool S drawn with a green marker.*",
+                "Good thing I learned how to swim... Nearly drowned out there... Y'know, I always wondered what all the fuss about the labs were back then. Never had to go through all that stuff people are so eager to vent about. I *am* down here now, but I'm managing just fine.",
+                "Weh! Weh weh weh weh weh!! You silly little goober... No experiment could come close to your level of cuteness...       \n\n\nMy precious..."
             ],
             "seeGravel": [
                 "(I thought I had more time to prepare...)",
@@ -790,9 +792,7 @@
                 "(You've made it out, and left me here?)",
                 "(I better not meet you once I'm done.)",
                 "(I hope you burn in hell, too.)",
-                "*Uses fingers to convey a smile, tears a little*",
                 "(I hope it was agonizing.)",
-                "*Minor hysteria*",
                 "(Maybe... I'll be off the hook...)",
                 "(So... Peaceful.)",
                 "(I envy you.)",
@@ -801,7 +801,9 @@
                 "(I hope I don't see any of you ever again, once I...)",
                 "(It's not like any of you would understand...)",
                 "(God didn't want you, so he threw you down here.)",
-                "(Haunting me, even all the way down here?)"
+                "(Haunting me, even all the way down here?)",
+                "*Hysteria*",
+                "*Uses fingers to convey a smile, tears a little*"
             ],
             "seecorpsesamecharacter": [
                 "(So thats what happens when I... God...)",
@@ -815,10 +817,8 @@
                 "*Discomfort*"
             ],
             "breakcorpse": [
-                "*Immense regret*",
                 "(I have no excuse for doing what I just did.)",
                 "(EEEEWWWWWWW!!!!)",
-                "*Immense disgust*",
                 "(Why did I... What am I, a mouthless dune or something??)",
                 "(Eeugh... That was... SO STUPID...)",
                 "(Oh fucking hell, why did I do this?)",
@@ -829,34 +829,34 @@
                 "(This is... Awfully disgusting...)",
                 "(Ughh... Shelly, what the fuck are you doing?!)",
                 "(Looking at this mess is making me sick.)",
-                "*Trying to clean blood off hands*",
                 "(O-hooo... I shouldn't have done this...)",
-                "(Eeeuugh... Eeeeewwwhh... Ugh...)"
+                "(Eeeuugh... Eeeeewwwhh... Ugh...)",
+                "*Trying to clean blood off hands*",
+                "*Immense disgust*",
+                "*Immense regret*"
             ],
             "cold": [
-                "*Furrowed eyes*",
                 "(Shiver me timbers, it's cold.)",
-                "*Shiver me chitters*",
                 "(I should look for something to warm up with...)",
                 "(This cold is making me shiver a bit.)",
                 "(It's frigid down here.)",
                 "(Theres a bit of a breeze down here.)",
                 "(Just a tiny chill...)",
                 "(I need to go warm up somewhere.)",
-                "*Cold go away chitter*",
                 "(I gotta get warmer.)",
                 "(I feel kinda cold.)",
                 "(I'm gonna look like a popsicle if I get colder, haha.)",
                 "(It's chilly in here!)",
+                "(This cold ain't that great compared to back home.)",
+                "*Shiver me chitters*",
+                "*Narrowed eyes*",
+                "*Cold go away chitter*",
                 "*Hand rubbing because of the cold*",
-                "*Arms crossed because of the cold*",
-                "(This cold ain't that great compared to back home.)"
+                "*Arms crossed because of the cold*"
             ],
             "warm": [
-                "*Minor radioactive sweating*",
                 "(I really need to COOL IT.)",
                 "(I gotta cool down... Heh...)",
-                "*Fanning self*",
                 "(Gee, when did it get so warm?)",
                 "(I'm starting to sweat it.)",
                 "(This place could use an air conditioner.)",
@@ -864,13 +864,14 @@
                 "(Can't break a sweat... What does that even mean, anyways?)",
                 "(Pretty hot down here.)",
                 "(It's hot... Beware of the nuclear meltdown..! Haha.)",
+                "*Minor radioactive sweating*",
+                "*Fanning self*",
                 "*Heat go away chitter*"
             ],
             "hot": [
                 "(I'm boiling hot...)",
                 "(Any ice cubes, anyone?)",
                 "(It's damn hot here...)",
-                "*Radioactive sweating*",
                 "(My thermometer is gonna explode...)",
                 "(I'm gonna melt... Oohh I did NOT just make that joke.)",
                 "(I really really need some coolant.)",
@@ -886,6 +887,7 @@
                 "(Hot hot hot...)",
                 "(Feels like I'm being microwaved alive...     Uhh...)",
                 "(I'm sweating in places I didn't know I could sweat.)",
+                "*Radioactive sweating*",
                 "*Intensely fanning self*"
             ],
             "exerted": [
@@ -904,44 +906,37 @@
                 "(I need a moment to rest...)",
                 "(Ugh... I'm spent...)",
                 "(Agh, relentless work...)",
-                "*Imagined breathing*",
+                "*Quick breathing*",
                 "(...Hard working... Rads monster...)"
             ],
             "exhausted": [
-                "*Radioactive sweating*",
-                "*Exhaustive chitter screaming*",
-                "*Heavy \"breathing\"*",
                 "(I need... A breather...)",
-                "*Trembling*",
                 "(...All this work... Feels bad...)",
                 "(My arms hurt...)",
                 "(Holy... Fucking shit...)",
-                "*Imagined breathing, almost real*",
                 "(Aaaghh..! I really need to stop...)",
                 "(I feel... Like breaking...)",
                 "(I really need... A break..!)",
-                "(A break..! A BREAak..!)",
                 "(I feel... So sore...)",
-                "*Furrowed eyes*",
                 "(My bones... About to burst...)",
                 "(Might collapse..!)",
                 "(Everything hurts..!)",
-                "Out of... energy...",
-                "Feeling drained...",
-                "Could... sit down a bit...",
-                "Can't catch a breath..."
+                "(I have... To stop this...)",
+                "(Just... Need a minute..!)",
+                "(My head... Is gonna burst at this rate...)",
+                "*Radioactive sweating*",
+                "*Exhaustive chitter screaming*",
+                "*Heavy breathing*",
+                "*Trembling*",
+                "*Narrowed eyes*"
             ],
             "freezing": [
                 "(Atleast... I don't have any jokes for this shit...)",
                 "(So, so cold...)",
-                "*Tightly crossed arms*",
-                "*Trembling a lot*",
                 "(Too... Cold...)",
                 "(This cold is getting a hold of my skin...)",
                 "(I think this cold is... Making me numb...)",
                 "(It feels all so tingly...)",
-                "*Cold please don't kill me chitter*",
-                "*Heat generation chitter*",
                 "(Shivering really bad...)",
                 "(Anything to not freeze to death...)",
                 "(Dead frigid...)",
@@ -951,6 +946,10 @@
                 "(I am... Freezing to death...)",
                 "(So cold... Can't feel my face...)",
                 "(So much... Damn cold...)",
+                "*Heat generation chitter*",
+                "*Tightly crossed arms*",
+                "*Trembling a lot*",
+                "*Cold please don't kill me chitter*",
                 "*Checks body for physical response, bad result*"
             ],
             "emaciated": [
@@ -966,13 +965,13 @@
             "obese": [
                 "(I feel like a nuclear reactor. Scarily unusual.)",
                 "(Feeling heavier than normal...)",
-                "(XXL rads monster, NOT for purchase.)",
-                "*Makes a circle around herself*",
+                "(XXXXL rads monster, NOT for purchase.)",
                 "(I've gotta drop being a glutton.)",
                 "(Ugh... It's a shame I got to this point of mass.)",
                 "(I hope I don't get back like this...)",
                 "(How did I never get this fat back then?)",
-                "*Checks weight* (...FAT.)"
+                "*Checks weight* (...FAT.)",
+                "*Makes a circle around herself*"
             ],
             "opiated": [
                 "(Weeeed... Mooonster...)",
@@ -1052,23 +1051,21 @@
                 "(I feel explosive. I might just do that without my candy.)"
             ],
             "cantBreathe": [
-                "I can't breathe!",
-                "I... can't breathe...",
-                "Help... I'm suffocating...",
-                "Cough! Cough! Ack!",
-                "Help- Ack! Cough!",
-                "H-help...",
-                "My... chest...",
-                "My lungs...",
-                "*gasping*",
-                "I feel like I'm dying...",
-                "I'm gonna... pass out...",
-                "Can't... breathe...",
-                "My insides..."
+                "(Can't... Breathe!!)",
+                "(I... I c-can't breathe..!)",
+                "(I'm gonna... Pass out..!)",
+                "(Aa-air..! I need air..!)",
+                "(My l-lungs... Hurt so m-much..!)",
+                "(Aaagghhh--- Need to... Breathe!!)",
+                "*Lack of air panic*",
+                "*Headache*",
+                "*Trying to loosen the chest shells*",
+                "*Labored breathing*",
+                "*Gasping for air*"
             ],
             "pain": [
                 "*Wince*",
-                "(Augh!)",
+                "(Ugghh...)",
                 "(Oooww...)",
                 "(Mmghh... It hurts...)",
                 "(<limb>'s hurting.)",
@@ -1079,11 +1076,23 @@
                 "(*Painful gibberish*)",
                 "(Hmghh...)"
             ],
+            "hit": [
+                "(!!!!)",
+                "(Hhhkk--!!)",
+                "(Shit!)",
+                "(Aagh!!)",
+                "(Aaahh!)",
+                "(A-ack!)",
+                "*Wince*",
+                "*Hurt chitter*",
+                "*Shaking*"
+            ],
             "bigpain": [
-                "(!!!!!!!)",
+                "(!!!!!!!!!!!)",
                 "*Eyes narrowing in pain*",
                 "(*Painful gibberish*)",
                 "(*Gibberish full of pain*)",
+                "*Spasm*",
                 "*Trembling in pain*"
             ],
             "scream": [
@@ -1157,6 +1166,7 @@
                 "*Shaking*",
                 "*Trembling*",
                 "*Covering face*",
+                "*Hyperventilating*",
                 "*First stage of grief*",
                 "-----These lines are ass.-----"
             ],
@@ -1298,8 +1308,7 @@
                 "*Furrowing 4-eyebrows*",
                 "*Narrowing 4-eyes*",
                 "*Unease*",
-                "*Agitated*",
-                "*Sad*"
+                "*Agitated*"
             ],
             "tradercombat": [
                 "*Combat stance*",
@@ -1315,25 +1324,26 @@
                 "*Startled, angry*"
             ],
             "swingresponse": [
-                "I'M SORRY!",
-                "STOP IT!",
-                "AGH!",
-                "QUIT!",
-                "FUCKER!",
-                "Stop!",
-                "AAH!",
-                "NGH!",
-                "FUCK.",
-                "Fuck. Fuck. Fuck!",
-                "YOU!"
+                "(FUCK OFF!!!)",
+                "(LEAVE ME ALONE!!)",
+                "(AHH--AHAHA-AAHHHH!!!)",
+                "(NOT MY FAULT!!)",
+                "(!!!!!!!)",
+                "(Piece of shit..!)",
+                "(Fuck! Fuck!!)",
+                "*Trembling*",
+                "*Confused anger*",
+                "*Chitter scream*"
             ],
             "braindamaged": [
                 "(Hmmm...               Bubbles...)",
                 "(I like candy.)",
+                "(Cinnamon!)",
+                "(Shelly the brawler, Shelly the cup, Shelly the team admin, Shelly the monster's wife, Shelly the sister, Shelly the myself...)",
                 "(FFFFUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCCCKKKK!!!!!!!!!!!!!!!!!)",
                 "(The question mark!)",
                 "(Orsonickolas Sawyiang once told me they're)",
-                "(My name is water bottle, and I'm trying to learn how to be a good friend.)",
+                "(My name is Water Bottle, and I'm trying to learn how to be a good friend.)",
                 "(Dain bramage!)",
                 "(Dama brainge!)",
                 "(Brama dainge!)",
