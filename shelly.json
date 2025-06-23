@@ -19,13 +19,14 @@
                 "Weh! Weh weh weh weh weh!! You silly little goober... No Experiment could come close to your level of cuteness...       \n\n\nMy precious...",
                 "...I may have developed a little earthworm collecting hobby. They're just so wobbly and funny to look at... I know this looks weird to whoever reads this but I promise you it's... Weird alright, but it's not that obsessive... Come on, there are weirder things out there...",
                 "Protip, hotshots: DON'T fuck with the people around here. They WILL try to kill you. Nearly bled out to some tangerine(?) fucker up there. Bitch looked all brain damaged too. Crybabies can't handle a single minute of social interaction. \"Wah wah, you're in my pod and you gotta leave!!\" my ass, let's atleast talk for a hot second... Dumbshit. You're lucky my gun's out of ammo...",
-                "Pet rock. We happy. Note record ashellyvements. Shelly sleep bester. Shelly go very down, far. Rock pet hurt but bandaged. Shelly stone and rock. Not joy finally but entertainment act.",
+                "Pet rock. We happy. Note record ashellyvements. Shelly sleep bester. Shelly go very down, far. Rock pet hurt but bandage wrapped. Shelly stone and rock. Not joy finally but entertainment act.",
                 "Don't stop writing this message Shelly... If you stop we die, if you die there is nothing left of us, keep writing, please I beg you.. Don't stop writing this message. I've put up with too much to let it all end like this, and it's all your fault. YOU DID THIS TO US SHELLY! DONT STOP WRITING THIS MESSAGE SHELLY! PLEASE, I DONT WANT TO DIE, I DONT WANT TO BE FORGOTTEN, PLEASE KEEP WRITING THIS MES",
                 "*The note has a drawing of a black creature with white highlighted mouth and eyes. They also have what seems to be a little version of themselves growing as a tumor, on the side of their head.*",
                 "*This note has a stylized drawing depicting an Icke, Chik, Chompy and Shelly. They look friendly to eachother.\nReminds you of how isolated you are.",
                 "*Seems like this note *had* a drawing, but it's completely ruined now, thanks to insurmountable and meaningless scribble-overs. Text on the bottom is surrounded by the chaos, and it reads: \"Friends\".\n              \nCreepy.*",
                 "*This note has a drawing depicting a Dune cringing at the sight of a Shelly.*",
-                "*This note features a drawing of a Shelly biting on the arm of a mouthless Dune. How curious.*"
+                "*This note features a drawing of a Shelly biting on the arm of a mouthless Dune. How curious.*",
+                "*The Icke in this note drawing looks... Peculiarly romantic. How uncharacteristic. You wonder if one of those ever acted like that.*"
             ],
             "seeGravel": [
                 "(I thought I had more time to prepare...)",
@@ -995,14 +996,14 @@
                 "(You... Hippie... Yeeaah...)",
                 "(I feel hyped... Good...)",
                 "(Drugged... Mmmmph...)",
-                "Rousing... Sensation...",
                 "(I feel silly... Hahah...)",
                 "(Feels great... Any moooore?)",
                 "(Aahhahahaha...)",
                 "(I love this...)",
                 "(Oohhh...)",
+                "(So... So gooood...)",
                 "*Zoning out*",
-                "(So... So gooood...)"
+                "*Greening out*"
             ],
             "opiatedsad": [
                 "(Just drug it... Just drug it...)",
@@ -1010,7 +1011,7 @@
                 "(It's what I've become... Hahahh...)",
                 "(Sweet stuff... Finally...)",
                 "(I wish I could... Have more of this...)",
-                "This'll calm me down... this'll... oogh...",
+                "*This will... Bring some of that color back...*",
                 "(I really... Needed this...)",
                 "(No more Ms. Miserable...)",
                 "(Enough agony... Aah...)",
@@ -1028,7 +1029,6 @@
                 "Ahhhhhh... good..."
             ],
             "opiatewithdrawal": [
-                "*Withdrawal shaking*",
                 "(Iii-I'm trembling ff-for more sweets...)",
                 "(Kk-knew it was aaa bad ideea... Cc-craving drugs...)",
                 "(Iii-I need more vax...)",
@@ -1037,15 +1037,16 @@
                 "(Ddd-drugs... Wouldn't bbb-be a bb-bad idea...)",
                 "(Thhh-his is so addiii-ictive... I ww-want more...)",
                 "(Soooo-o shhh-aky... Need my fffff-fix...)",
-                "*Withdrawal trembling*",
                 "(Ii-I can't go on withooo-out those druuuu-ugs...)",
-                "*Shaky self-vaccination hand motion*",
                 "(The oppp-pioids... I need the ooo-opioids...)",
                 "(Ttt-that drug didn't dddd-do shit... Maybe mooo-ore will help...)",
                 "(My blll-lood... Craves more... Dddd-drugs...)",
                 "(Nnnnn-nerve cccc-candy..? Pppp-please..?)",
                 "(I nnn-need... Another ddd-dose...)",
-                "(Wwww-weed monster... Rrr-requiring candy dooo-ose...)"
+                "(Wwww-weed monster... Rrr-requiring candy dooo-ose...)",
+                "*Shaky self-vaccination hand motion*",
+                "*Withdrawal shaking*",
+                "*Withdrawal trembling*"
             ],
             "opiateaddiction": [
                 "(Uuggh, WHERE are all the vaxxies at?!)",
@@ -1074,17 +1075,17 @@
                 "*Gasping for air*"
             ],
             "pain": [
-                "*Wince*",
                 "(Ugghh...)",
                 "(Oooww...)",
+                "(Hmghh...)",
                 "(Mmghh... It hurts...)",
                 "(<limb>'s hurting.)",
                 "(<limb>... Aagh...)",
                 "(My <limb> is aching...)",
-                "*Holding <limb> in pain*",
                 "(Just hurting... A little...)",
                 "(*Painful gibberish*)",
-                "(Hmghh...)"
+                "*Wince*",
+                "*Holding <limb> in pain*"
             ],
             "hit": [
                 "(!!!!)",
@@ -1094,7 +1095,6 @@
                 "(Aaahh!)",
                 "(A-ack!)",
                 "(Hmghh!)",
-                "(You..!)",
                 "*Wince*",
                 "*Hurt chitter*",
                 "*Heavy breathing*",
@@ -1163,7 +1163,7 @@
             ],
             "drillend": [
                 "(Ugh, I can't hear myself...)",
-                "(That took forever...)",
+                "(That took way too long for my hearing...)",
                 "(That... Sucked.)",
                 "(Atleast it's over now...)",
                 "(...What a boring ride.)",
@@ -1184,8 +1184,7 @@
                 "*Trembling*",
                 "*Covering face*",
                 "*Hyperventilating*",
-                "*First stage of grief*",
-                "-----These lines are ass.-----"
+                "*First stage of grief*"
             ],
             "tradeemeet": [
                 "*Surprise, waves hand*",
@@ -1193,68 +1192,65 @@
                 "*Questions the amount of cannon fodder sent down here, waves hand*",
                 "*Surprised chitter, waves hand*",
                 "*Minor disappointment, waves hand*",
-                "*Nearly flips them off, clutches it and waves hand instead*",
+                "*Reluctantly waves hand*",
                 "*Doesn't wave hands... now feels awkward*",
                 "*Questions how many times they just... \"waves hand\"*"
             ],
-            "tradeemeetsamecharacter": [
-                "*Genuine surprise, glint of hope*",
-                "*Experiences great joy from finding another Shelly*"
-            ],
-            "tradermeet": [
-                "*Waves hand with surprise*",
-                "*Waves hand with intrigue*",
+            "tradermeetnormal": [
                 "*Waves hand with some hidden sorrow*",
                 "*Waves hand with a sudden chitter*",
-                "*Waves hand with a minor amount of inattention*",
-                "*Waves hand with a small degree of irritation*",
+                "*Distractedly waves hand*"
+            ],
+            "tradermeetgood": [
+                "*Waves hand with surprise*",
+                "*Waves hand with intrigue*"
+            ],
+            "tradermeetgreat": [
+                "*Joyfully waves hand*",
+                "*Shyly waves hand*"
+            ],
+            "tradermeetpoor": [
                 "*Awkwardly doesn't wave hands*",
-                "*Welcoming chitter*"
+                "*Tiredly waves hand*",
+                "*Eyes narrowed hand wave*"
             ],
-            "tradeeanswer": [
-                "(Fuck you. Heh, not like anyone can hear me...)",
-                "(Stinky stinker pee poo.)",
-                "(Uh-huh, uh-huh.)",
-                "(Yeah, whatever you say.)",
-                "(Maybe I should be gesting something..?)",
-                "(I somehow expected you to say just that...)",
-                "(O. K.)",
-                "(I don't care. Hurry up, please.)",
-                "(Yeah yeah yeah...)",
-                "(1... 2... 3... 4... Are you finished yet?)",
-                "(I looooove one sided conversations.)",
-                "(Mmmmhh.)",
-                "(Ugh, the envy...)",
-                "(*Static*)",
-                "*Impatience*",
-                "*Joy wearing off*"
+            "tradermeetbad": [
+                "*Head scratch*",
+                "*Arms crossed*",
+                "*Glare*"
             ],
-            "tradeeanswersamecharacter": [
-                "*Starts to feel immense pity for themselves*",
-                "*About to cry for going through so much without anyone*",
-                "*About to experience the first stage of grief*"
+            "traderhugsuccess": [
+                "*Covers face, blushing*",
+                "*Shyly blushes*",
+                "*Looks at you with puppy eyes*",
+                "*Touching fingertips*",
+                "*Joy*"
             ],
-            "traderanswer": [
-                "*Scratches back of neck, contemplates*",
-                "*Almost goes back their own thing, realizes something*",
-                "*Examines you*",
-                "*Minor stretching*",
+            "traderhugfail": [
+                "*\"Cut it\" hand motion*",
+                "*Apprehensively lifts their palms*",
+                "*Aggressive index finger \"No.\"s*",
+                "*Head shake-shake-shake-shake*",
+                "*Pushes you away*",
+                "*Cringes at you*"
+            ],
+            "traderhagglesuccess": [
+                "*Nod*",
                 "*Pondering*",
-                "*Visibly bored, then gets an idea*",
-                "*Thinks of something, rubs hands*",
-                "*Bored chitter*"
+                "*Thinking emoji*",
+                "*Attentive*"
             ],
-            "traderanswersamecharacter": [
-                "*Waves at you multiple times, redirecting your attention to their shop*"
-            ],
-            "traderspeaktrade": [
-                "*Points towards items, makes cash register motion*",
-                "*Gests towards item collection, points to you- them- you- them*",
-                "*Demonstrates item arsenal, makes coin gesture using fingers*",
-                "*Lifts up a thick dollar sign drawing, finger guns you*",
-                "*Takes out paper dollar sign, points to it, clasps hands*",
-                "*Writes on a piece of paper, then shows it to you; It reads: Wanna trade?*",
-                "*Points to a piece of paper on the wall with a thick dollar sign, then points to their goods*"
+            "traderhagglefail": [
+                "*Head shake*",
+                "*Disappointment*",
+                "*Looking elsewhere*",
+                "*Shoulder shrug*",
+                "*Confusion*",
+                "*Negative shrug*",
+                "*Head scratch*",
+                "*Bored look*",
+                "*Sleepy look*",
+                "*Narrowed eyes*"
             ],
             "traderdepressed": [
                 "*Freezes thanks to your stare*",
@@ -1264,35 +1260,13 @@
                 "*Trying to grab your attention by making sounds*",
                 "*Quiet in solitude alongside you*"
             ],
-            "traderhurt": [
-                "*Worriedly extends their hand*",
-                "*Staring at you with worry*",
-                "*Surprised, arms crossed, at unease*",
-                "*Confusedly surprised, worried*",
-                "*Offput by your wounds, staring in shock*"
-            ],
-            "tradeehurt": [
-                "*Demonstrates wound, frantically points to it*",
-                "*Demonstrates wound, frowns with the intention of getting free bandages*",
-                "*Demonstrates wound, makes bandaging motion, points to trader*",
-                "*Demonstrates wound, then--* (BANDAGE, NOW!)"
-            ],
-            "traderhurtanswer": [
-                "*Reluctantly gives you an old rag*",
-                "*Worriedly gives you an old rag*"
-            ],
-            "tradershow": [
-                "*Shows off their goods*",
-                "*Expectantly unpacks their stuff*",
-                "*Unpacks their stuff, points to you*"
-            ],
             "tradergiveitem": [
                 "*Singular nod*",
                 "*Registering the value of all this before slightly nodding*",
                 "*No response, they're checking what they just got*",
                 "*Thumbs up*",
                 "*Hand rubbing*",
-                "*No response, they're waiting for you to get something*"
+                "*No response*"
             ],
             "traderbuy": [
                 "*Hand heart*",
@@ -1310,13 +1284,6 @@
                 "*Disappointed glare*",
                 "*Chitters, arms crossed*"
             ],
-            "traderdispleased": [
-                "*Shoos you off using their hands*",
-                "*Raises palms, shakes head*",
-                "*Points to you, index finger saying no*",
-                "*Negative chitter*",
-                "*Raises palms, negatively chitters*"
-            ],
             "traderwarning": [
                 "*Angry foot tapping*",
                 "*Arms crossed*",
@@ -1332,13 +1299,26 @@
                 "*Visible anger*",
                 "*Neck cut hand motion*",
                 "*Shaking fist*",
-                "*Middle finger*",
-                "----- WAIT! Aren't these lines COMPLETELY counter-productive? Imagine that you, socially neglected anthro radscorpion, put against a bajillion unfair social experiments, who is unable to socially connect thanks to your radiation and lack of mouth-- Wouldn't you actively appreciate any kind of social interaction people can even REMOTELY afford with you? Like, these lines were counter-productive on their own in the base game, but they just feel really dumb for a character like Shelly. Plus she's radioactive, so it's not like players can even stay for that long near her. Eehh, I'll just finish these lines. Not like I own the character or anything... -----"
+                "*Middle finger*"
+            ],
+            "traderthreatensuccess": [
+                "*Annoyed, palms lifted*",
+                "*Annoyed chitter, unpacks their stuff*",
+                "*Trembling*",
+                "*Hands up, emptied inventory*",
+                "*Worriedly unpacks their stuff*"
             ],
             "traderlightbreak": [
                 "*Confusion, hostility*",
                 "*Triggered*",
                 "*Startled, angry*"
+            ],
+            "traderwakegreet": [
+                "*Poking you awake*",
+                "*Finger guns you*",
+                "*Awakening hand claps*",
+                "*Hand waving your face*",
+                "*Nudging you*"
             ],
             "swingresponse": [
                 "(FUCK OFF!!!)",
@@ -1360,7 +1340,7 @@
                 "(CINNAMON!)",
                 "(Shelly the ammonite shell\nShelly the brawler\nShelly the team admin\nShelly the monster's wife\nShelly the sister ogre\nShelly the lead singer\nShelly the explosives expert\n                    \nMe)",
                 "(FFFFUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCCCKKKK!!!!!!!!!!!!!!!!!)",
-                "(The question mark!)",
+                "(Question mark!)",
                 "(Orsonickolas Sawyiang once told me they're)",
                 "(My name is Waterbottle, and I'm trying to learn how to be a good friend.)",
                 "(Dain bramage!)",
