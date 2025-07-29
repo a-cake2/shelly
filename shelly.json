@@ -1300,7 +1300,7 @@
             ],
             "traderwakegreet": [
                 "*Poking you awake*",
-                "*Finger guns you*",
+                "*Alarm chitter*",
                 "*Awakening hand claps*",
                 "*Hand waving your face*",
                 "*Nudging you*"
@@ -1372,22 +1372,30 @@
     "notes": [
         [
             {
-                "Item1": "this is horrifying. there's so many corpses... im scared. why did they send so many of us here? i dont understand. i really dont understand. they knocked me out cold with some kind of dart and forced me into a pod to be sent here. i hate this planet.",
+                "Item1": "no name",
                 "Item2": ""
             },
             {
-                "Item1": "I inquired others around the ability to see our physical status in our minds, and it turns out this is something shared by almost everyone else here. Quite interesting - this is not something we've ever been able to do back in our homes. Have we been implanted with something? There are no visible attachments on any of us. I have also noted that very few people here do not share this experience, seemingly lacking whatever lets us do this. Odd.",
-                "Item2": "Sprites/noteDrawings/puppet"
+                "Item1": "1.X dont change \n possible drawings: puppet - underweight - x - alone - brokenleg - experiment - dune - milky - spider - pool - radiation - growplant - bloodbag - scientist - drown - xaloris",
+                "Item2": ""
             }
         ],
         [
             {
-                "Item1": "ugh, this place sucks. i keep being bitten by random spiders i cant see in time. i think theyre venomous, as they leave nasty looking infected wounds in me... the glowplant fruit do help with those though",
-                "Item2": "Sprites/noteDrawings/spider"
+                "Item1": "Protip, hotshots: DON'T fuck with the people around here. They WILL try to kill you. Nearly bled out to some tangerine(?) fucker up there. Bitch looked all brain damaged too. Crybabies can't handle a single minute of social interaction. \"Wah wah, you're in my pod and you gotta leave!!\" my ass, let's atleast talk for a hot second... Dumbshit. You're lucky my gun's out of ammo...",
+                "Item2": "Sprites/noteDrawings/voyager"
             },
             {
-                "Item1": "I inquired others around the ability to see our physical status in our minds, and it turns out this is something shared by almost everyone else here. Quite interesting - this is not something we've ever been able to do back in our homes. Have we been implanted with something? There are no visible attachments on any of us. I have also noted that very few people here do not share this experience, seemingly lacking whatever lets us do this. Odd.",
-                "Item2": "Sprites/noteDrawings/puppet"
+                "Item1": "*This note has a drawing depicting a Dune cringing at the sight of a Shelly. Guess they don't taste so good.*",
+                "Item2": "Sprites/noteDrawings/dunecringecompilation"
+            },
+            {
+                "Item1": "*This note features a drawing of a Shelly biting on the arm of a mouthless Dune. How curious.*",
+                "Item2": "Sprites/noteDrawings/yummers"
+            },
+            {
+                "Item1": "no name \n possible drawings: puppet - underweight - x - alone - brokenleg - experiment - dune - milky - spider - pool - radiation - growplant - bloodbag - scientist - drown - xaloris",
+                "Item2": ""
             }
         ]
     ]
