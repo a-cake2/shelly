@@ -13,8 +13,6 @@
         },
     "character": [
         {
-            "wallnotes": [
-            ],
             "seeGravel": [
                 "We're here...",
                 "Okay... Let's do this.",
@@ -1298,14 +1296,6 @@
                 "I'm so shaky and lightheaded... I-I need more opioids...",
                 "Need more... D-drugs..."
             ],
-            "opiateaddiction": [
-                "I want more drugs...",
-                "I could... Go for another shot...?",
-                "I'd gladly chug some painkillers...",
-                "I think I'm addicted...",
-                "Another shot...? Please?",
-                "I need to relax..."
-            ],
             "cantBreathe": [
                 "I can't breathe!",
                 "I... can't breathe...",
@@ -1375,7 +1365,7 @@
                 "Fuck- Wait... My <limb>... Awh...",
                 "My <limb> is so sore..."
             ],
-            "hit": [
+            "hitgroundhard": [
                 "Agh!",
                 "Gack!",
                 "Fuck!",
@@ -1418,7 +1408,7 @@
                 "STOP!!!",
                 "DAMN IT!!!"
             ],
-            "scream": [
+            "fallscream": [
                 "AAAAH!!",
                 "AAAAHHH!",
                 "CRAAAP!",
@@ -1440,7 +1430,7 @@
                 "AAH!",
                 "AAAAAAAAAAHHH!"
             ],
-            "terrified": [
+            "hitbycreature": [
                 "AAAHHHHH!",
                 "AAAAAAAAHHHHH!",
                 "AHHH!! FUCK!!!",
@@ -1480,6 +1470,32 @@
                 "Way too moist in here!",
                 "Get this water off of my skin."
             ],
+            "dirty": [
+                "Ugh... I'm so dirty!",
+                "I really need a bath.",
+                "I'm covered in bog.",
+                "I'm all covered in dirt.",
+                "Eugh... My fur is all dirty.",
+                "I think I need a shower.",
+                "It might just be me, but I think I'm starting to smell.",
+                "All this dirt on me... I feel like an animal.",
+                "This is not very hygienic...",
+                "Can't I take a quick bath?",
+                "I should clean myself.",
+                "I need to clean off all this dirt.",
+                "Way too dirty.",
+                "Really should wash all the dirt off...",
+                "Lets not get THIS unclean...",
+                "Time for a bath!",
+                "I'm pretty sure those lifepods have showers in them... I really could use one.",
+                "How'd I get so dirty?",
+                "Gosh, I am COVERED in gunk!",
+                "My fur is so yucky!",
+                "Guh! I'm completely covered in filth.",
+                "There's soot in my fur.",
+                "I feel filthy. I really need a bath, or something...",
+                "Could do with a shower!"
+            ],
             "watchlike": [
                 "I like this watch-thing. It's comfy."
             ],
@@ -1496,7 +1512,7 @@
                 "CRAP! ... Ouuchhh... That was so loud...",
                 "NO!!! Fuck me, man... Aghhh, that was loud..."
             ],
-            "regret": [
+            "murderregret": [
                 "Why... Why did I do that..? F-fuck...",
                 "Gh... God... Why..?",
                 "I... That was horrible.. I'm a monster...",
@@ -1523,18 +1539,14 @@
             ],
             "tradermeetgood": [
                 "Ah! Hi!!",
-                "Hello! How are ya?"
-            ],
-            "tradermeetgreat": [
+                "Hello! How are ya?",
                 "Aah! Hello!! Hi!"
-            ],
-            "tradermeetpoor": [
-                "...Hey.",
-                "...Hm. Hello."
             ],
             "tradermeetbad": [
                 "Hheeyy...I dislike your presence..?",
-                "H... Hello... Uhh..."
+                "H... Hello... Uhh...",
+                "...Hey.",
+                "...Hm. Hello."
             ],
             "traderhugsuccess": [
                 "Awww... Thank you.",
@@ -1647,6 +1659,22 @@
                 "Hope you slept well.",
                 "Wakey wakey!"
             ],
+            "traderseegun": [
+                "...Woah there! Put that gun away, man... Anyway.",
+                "Hey! What's with the gun? Put that away, please. ...So.",
+                "I hope you're not using that gun, haha.",
+                "Ey, I don't have a gun, so put yours away, bud."
+            ],
+            "tradermeetimpairedspeech": [
+                "...Huh? What? Is there something in your mouth? I can't understand you...",
+                "Mmmff mff mmmmfff mhfff! That's what you sound like.",
+                "I get that this is a bad scenario we're in, but you can atleast put in some effort into speaking clearly..."
+            ],
+            "traderseehurt": [
+                "Since you're hurt, I'll let ya grab a bandage for free if you can find one around here...",
+                "Aww, you're hurt. If you can find a bandage on me, you can take it! I don't remember if I have one...",
+                "Ohh, you don't seem to be doing well... Tell ya what, you can grab a bandage for free if you see one."
+            ],
             "swingresponse": [
                 "I'M SORRY!",
                 "STOP IT!",
@@ -1694,5 +1722,137 @@
                 "Am... Am I imagining things..?"
             ]
         }
+    ],
+    "notes": [
+        [
+            {
+                "Item1": "this is horrifying. there's so many corpses... im scared. why did they send so many of us here? i dont understand. i really dont understand. they knocked me out cold with some kind of dart and forced me into a pod to be sent here. i hate this planet.",
+                "Item2": ""
+            },
+            {
+                "Item1": "I inquired others around the ability to see our physical status in our minds, and it turns out this is something shared by almost everyone else here. Quite interesting - this is not something we've ever been able to do back in our homes. Have we been implanted with something? There are no visible attachments on any of us. I have also noted that very few people here do not share this experience, seemingly lacking whatever lets us do this. Odd.",
+                "Item2": "Sprites/noteDrawings/puppet"
+            },
+            {
+                "Item1": "i keep losing weight. i need to eat more to stay in shape. all this running around makes you consume calories really fast. i guess i need to be full more often.",
+                "Item2": "Sprites/noteDrawings/underweight"
+            },
+            {
+                "Item1": "this is horrible. this is fucking horrible. i cant do it anymore. this is a death mission. abandon all hope. there is no point to this",
+                "Item2": "Sprites/noteDrawings/x"
+            },
+            {
+                "Item1": "i dont get why we're here. what for? i know im supposed to retrieve some kind of battery cell or something. im assuming others have the same mission. arent there more efficient ways of doing this? logically? why send us here. i miss my friends. i dont want to die.",
+                "Item2": "Sprites/noteDrawings/alone"
+            },
+            {
+                "Item1": "i fell down. bad. my leg is mangled. this is really bad. trying to move at all is a pain. i need some painkillers for this.",
+                "Item2": "Sprites/noteDrawings/brokenleg"
+            },
+            {
+                "Item1": "i overheard our captors calling us a mutated amalgamation of a \"human, fox and rat\", whatever any of that means. how much is there being kept from us? information wise? the thought scares me. ive never considered anything being outside of where we were raised. and now im here. i cant wrap my head around all of this.\n(On the paper is what looks to be a self-portrait.)",
+                "Item2": "Sprites/noteDrawings/experiment"
+            },
+            {
+                "Item1": "I have found drawing to be a decent escape to the situation I have found myself in. It seems all of us are struggling with our mental states, one way or another. It is nice to get a distraction from the harsh reality at times.",
+                "Item2": ""
+            },
+            {
+                "Item1": "planet is good .  eat a lot of good flesh .  dune happy\n(You can make out what looks like a very poorly made self-portrait.)",
+                "Item2": "Sprites/noteDrawings/dune"
+            },
+            {
+                "Item1": "The distribution of species here seems very disproportional. The Experiments are everywhere, yet other species like ours seem to be much lesser in numbers. Odd... Either way, I dislike the amount of casualties here. More of us need to be helped.",
+                "Item2": "Sprites/noteDrawings/milky"
+            }
+        ],
+        [
+            {
+                "Item1": "ugh, this place sucks. i keep being bitten by random spiders i cant see in time. i think theyre venomous, as they leave nasty looking infected wounds in me... the glowplant fruit do help with those though",
+                "Item2": "Sprites/noteDrawings/spider"
+            },
+            {
+                "Item1": "the red blinking lights in the dark are spike traps. watch out for them. please. please. someone just walked into one in the distance, i just heard a yelp and silence after. stay safe",
+                "Item2": ""
+            },
+            {
+                "Item1": "its cold here. so cold. much colder than our previous home. honestly, i like it. bathing in the pools feels nice, its refreshing. im liking this vacation",
+                "Item2": "Sprites/noteDrawings/pool"
+            },
+            {
+                "Item1": "i met up with someone, we agreed to try to go out to the surface through one of those holes to the outside. my friend stepped out first, and immediately they started stumbling in shock. they seemed to be in a lot of pain. they vomited a bunch, then collapsed and stopped breathing soon after. their skin started blistering too, especially around the head and neck. something is preventing us from leaving. im scared.",
+                "Item2": "Sprites/noteDrawings/radiation"
+            },
+            {
+                "Item1": "Getting wet seems to be rather dangerous if you're not careful. The temperature here is much lower than at our home, and it seems being drenched for too long can get us in a hypothermic state. Try doing some physical exercise if you need to warm up quickly, I've discovered that helps.",
+                "Item2": ""
+            },
+            {
+                "Item1": "i really need to stop losing my lights. anything does the job, even those weird glowy plant things. i keep leaving forgetting about them, then tripping up and getting hurt by accident. not good.",
+                "Item2": "Sprites/noteDrawings/glowplant"
+            }
+        ],
+        [
+            {
+                "Item1": "apparently those boxes with the weird computers next to them can be opened if you spill some red blood on them. it has to specifically be red blood, otherwise it wont work. it has some crates inside, you can open them and take stuff with you. useful.",
+                "Item2": "Sprites/noteDrawings/bloodbag"
+            },
+            {
+                "Item1": "Investigating the chemical composition of the different colored blood bags I have found here, it seems they are considerably different in their composition. The red blood is completely different than ours and the blood that the creatures here possess. It seems to be somewhat metallic in composition for whatever reason, how odd. Better not use that on ourselves.",
+                "Item2": ""
+            },
+            {
+                "Item1": "(There is a poorly made drawing of what looks to be one of your captors. They are holding what you can make out as a tazer. Their face is scratched out with a big X. The weapon brings back horrible memories.)",
+                "Item2": "Sprites/noteDrawings/scientist"
+            },
+            {
+                "Item1": "i almost drowned just a moment ago. ive never swam before, and its very exhausting. its hard to keep myself above the surface when im tired. i imagine sinking forever to be pretty painful... be careful.",
+                "Item2": "Sprites/noteDrawings/drown"
+            },
+            {
+                "Item1": "overhearing a little bit from our captors, apparently the cargo we are supposed to get is some kind \"advanced energy source\". something about storing a large amount of power and distributing it \"wirelessy\". i do not know what most of that means, but maybe it will be useful to know. stay safe",
+                "Item2": ""
+            },
+            {
+                "Item1": "Recently found a drill of sorts, but it's missing a few parts. I can't seem to figure out what it needs, aside from the covering panel for all the mechanisms... Could prove helpful if I was to get it to a working state.",
+                "Item2": ""
+            }
+        ],
+        [
+            {
+                "Item1": "ugh. its so hot in here. really need to space out my movements and be careful as to not fall numb from the heat. ive found that taking dives in the water pools here helps... maybe even the brown ones if desperate.",
+                "Item2": ""
+            }
+        ],
+        [
+            {
+                "Item1": "There seems to be a high amount of radioactive waste in this area. While that does make it difficult to navigate, we should keep in mind that we can take brief doses of ionizing radiation without too much issue, as long as the exposure doesn't last too long. We're already riddled with cancer due to presumably being unnatural, thus the effect on our entire lifespan is negligible.",
+                "Item2": ""
+            }
+        ],
+        [
+            {
+                "Item1": "dune see big monster. motivated to kill      dune chase monster and kill and eat . great food . great hunter of beast !",
+                "Item2": ""
+            }
+        ],
+        [
+            {
+                "Item1": "way too cold in here. have to try my best to not get wet at all, or ill be in big trouble. lucky us, there are a lot of those weird sporey plants that give off some heat, along with those weird machines. run between those when possible, i guess. better not get stuck in the freezing cold.",
+                "Item2": "Sprites/noteDrawings/xaloris"
+            }
+        ],
+        [
+            {
+                "Item1": "It's odd how it rains here. I've never actually seen real rain before... It's rather pretty, even if unsanitary. I still wonder how it is possible for there to be such a higher water concentration down here. Perhaps, the water from the above ice cap is dripping down to here?",
+                "Item2": ""
+            }
+        ],
+        [
+            {
+                "Item1": "",
+                "Item2": ""
+            }
+        ]
     ]
 }
