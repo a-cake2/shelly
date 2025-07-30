@@ -1033,19 +1033,6 @@
                 "*Withdrawal shaking*",
                 "*Withdrawal trembling*"
             ],
-            "opiateaddiction": [
-                "(Uuggh, WHERE are all the vaxxies at?!)",
-                "(I. NEED. MY. DRUGS.   MY. DRUGS!)",
-                "(Addicted to hell and back, suuure. Now WHERE did this planet hide all of it's drugs!?)",
-                "*Visibly addicted frustration*",
-                "*Pretending to stab arm with the miracle drug*",
-                "(Drugs. Drugs. Drugs. DRUGS. DRUGS. DRUGS. WHERE. ARE. THEY.)",
-                "(I hate this. I hate all of this. I'm not doing this without my nerve candy.)",
-                "(I feel unfathomably shit. I really need to get drugged dead.)",
-                "('COLD TURKEY' MY ASS!! GIVE ME THE DRUUUGS!!!)",
-                "*Addicted and feverish*",
-                "(I feel explosive. I might just do that without my candy.)"
-            ],
             "cantBreathe": [
                 "(Can't... Breathe!!)",
                 "(I... I c-can't breathe..!)",
@@ -1139,6 +1126,33 @@
                 "(Need some way to get this water off me...)",
                 "*Trying to get water off*",
                 "*Wiping face*"
+            ],
+            "dirty": [
+                "(I've never been this dirty, right?)",
+                "(I have to find SOME way of cleaning myself up.)",
+                "(I look dirtier than a Dune after... Bleugh.)",
+                "(Dirty, all over!)",
+                "(I guess I should have expected this much dirt.)",
+                "(Anyone have any soap?)",
+                "(Shelly, you brown glowstick.)",
+                "(I miss NOT being this dirty.)",
+                "(Hope those lifepod showers are any good.)",
+                "(I should wash this gunk off me.)",
+                "(Time for a shower, Showerlly!)",
+                "(All this dirt is sickening.)",
+                "(My smell might kill faster than my rads at this point.)",
+                "(Eeuugh... It's... Time for a shower..!)",
+                "(Shelly, more like Smelly.)",
+                "(Time to go nearly drown in soap again.)",
+                "(Not that dirty, right..? --Nevermind.)",
+                "(On my way down to get EVEN DIRTIER.)",
+                "(Don't think the water around here can help me much.)",
+                "(Gunky!)",
+                "(Smelloids!)",
+                "(I look more disgusting than average.)",
+                "(*Stink airhorn sound effect*)",
+                "*Fanning the smell*",
+                "*Smelling the Smelly smell*"
             ],
             "watchlike": [
                 "(Watch thing. Yeah.)"
@@ -1376,7 +1390,7 @@
                 "Item2": ""
             },
             {
-                "Item1": "1.X dont change \n possible drawings: puppet - underweight - x - alone - brokenleg - experiment - dune - milky - spider - pool - radiation - growplant - bloodbag - scientist - drown - xaloris",
+                "Item1": "no name, dont change \n possible drawings: puppet - underweight - x - alone - brokenleg - experiment - dune - milky - spider - pool - radiation - growplant - bloodbag - scientist - drown - xaloris",
                 "Item2": ""
             }
         ],
@@ -1394,7 +1408,7 @@
                 "Item2": "Sprites/noteDrawings/yummers"
             },
             {
-                "Item1": "no name \n possible drawings: puppet - underweight - x - alone - brokenleg - experiment - dune - milky - spider - pool - radiation - growplant - bloodbag - scientist - drown - xaloris",
+                "Item1": "no name, dont change \n possible drawings: puppet - underweight - x - alone - brokenleg - experiment - dune - milky - spider - pool - radiation - growplant - bloodbag - scientist - drown - xaloris",
                 "Item2": ""
             }
         ]
