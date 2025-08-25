@@ -1058,7 +1058,7 @@
                 "*Wince*",
                 "*Holding <limb> in pain*"
             ],
-            "hit": [
+            "hitgroundhard": [
                 "(!!!!)",
                 "(Hhhkk--!!)",
                 "(Shit!)",
@@ -1080,7 +1080,7 @@
                 "*Spasm*",
                 "*Trembling in pain*"
             ],
-            "scream": [
+            "fallscream": [
                 "(BUH-UH--!!)",
                 "(BAHBARHG--!!)",
                 "(AAAHH!!)",
@@ -1089,7 +1089,7 @@
                 "*Fear*",
                 "*Freeze*"
             ],
-            "terrified": [
+            "hitbycreature": [
                 "(FFUUUUUCK!!!)",
                 "(GET AWAY!! GET AWAAY!!!)",
                 "(NOOO!!!)",
@@ -1176,7 +1176,7 @@
                 "*Spooked*",
                 "*Terror*"
             ],
-            "regret": [
+            "murderregret": [
                 "(...)",
                 "*Shaking*",
                 "*Trembling*",
@@ -1195,27 +1195,23 @@
                 "*Questions how many times they just... \"waves hand\"*"
             ],
             "tradermeetnormal": [
-                "*Waves hand with some hidden sorrow*",
+                "*Inattentively waves hand*",
                 "*Waves hand with a sudden chitter*",
                 "*Distractedly waves hand*"
             ],
             "tradermeetgood": [
                 "*Waves hand with surprise*",
-                "*Waves hand with intrigue*"
-            ],
-            "tradermeetgreat": [
+                "*Waves hand with intrigue*",
                 "*Joyfully waves hand*",
                 "*Shyly waves hand*"
-            ],
-            "tradermeetpoor": [
-                "*Awkwardly doesn't wave hands*",
-                "*Tiredly waves hand*",
-                "*Eyes narrowed hand wave*"
             ],
             "tradermeetbad": [
                 "*Head scratch*",
                 "*Arms crossed*",
-                "*Glare*"
+                "*Glare*",
+                "*Awkwardly doesn't wave hands*",
+                "*Tiredly waves hand*",
+                "*Eyes narrowed hand wave*"
             ],
             "traderhugsuccess": [
                 "*Covers face, blushing*",
@@ -1318,7 +1314,28 @@
                 "*Hand waving your face*",
                 "*Nudging you*"
             ],
+            "traderseegun": [
+                "*Quick freeze, worriedly points to gun and single-shoulder shrugs*",
+                "*Hands up, covers face after realizing you're not immediately hostile*",
+                "*Startled back, met with sorrow after realizing you're not out for blood*",
+                "*Slight hyperventilation, the hand gestures tell you to lower your gun*"
+            ],
+            "tradermeetimpairedspeech": [
+                "*Makes chitter noises mocking your impaired speech*",
+                "*Nods stoically*",
+                "*Blank stares you*",
+                "*Mouthless grimace*",
+                "*Facepalm*",
+                "*Mocking thumbs up*",
+                "*Hand clapping*"
+            ],
+            "traderseehurt": [
+                "*Hand gestures seem to indicate that you may get a bandage for free*",
+                "*Points to you and does a bandaging motion, worriedly*",
+                "*Covers the mouthless region, hand claps to get your attention*"
+            ],
             "swingresponse": [
+                "are these lines even in the right context??",
                 "(FUCK OFF!!!)",
                 "(LEAVE ME ALONE!!)",
                 "(AHH--AHAHA-AAHHHH!!!)",
