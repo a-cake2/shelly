@@ -35,7 +35,6 @@
                 "(No mouth, must scream.)",
                 "(This sucks.)",
                 "(I've got nothing on my pod... Hoo-ooray...)",
-                "(...)",
                 "(This place looks awful.)",
                 "(Where is this again? A giant grey ball of nothing?)",
                 "(Atleast this place is quiet...)",
@@ -43,6 +42,16 @@
                 "(I'm scared...)",
                 "(Time to get to... Work...)",
                 "(I don't feel safe down here...)",
+                "(It'll be a quick trip, no need to worry...)",
+                "(Keep your cool, and you'll be out in no time...)",
+                "(I just have to keep going... Dooowwwnnn...)",
+                "(Nothing bad's gonna happen, right..?)",
+                "(I'm scaaaared...)",
+                "(Enough whining... Let's just go.)",
+                "(This is quite the concerning place to be in.)",
+                "(So, so dark around here...)",
+                "(I... I have nothing to say. Let's just get moving.)",
+                "(...)",
                 "*Apprehension*",
                 "*Shivers*",
                 "*Anguish*",
@@ -66,7 +75,7 @@
                 "(SHELLY! Enough looking at random junk you find!)",
                 "(This is unasshellable.)",
                 "(Yum yum, radiation. Oh wait, this isn't it! ...What a shock.)",
-                "(This has no value... For me atleast.)",
+                "(I should give this to someone who ACTUALLY eats this crap.)",
                 "(If I keep staring at this for long enough, I'll grow a mouth just to devour myself.)",
                 "(This sucks...)",
                 "(Ughhh... I hate myself...)",
@@ -297,7 +306,7 @@
                 "(I feel sickly malnourished. This sucks.)",
                 "(WHERE ARE ALL THE FUCKING RADS!!?)",
                 "(I'm gonna melt into a spicy green paste at this point.)",
-                "*Feeling a lot of weakness*",
+                "*Feeling lots of weakness*",
                 "*Frustration over starvation*"
             ],
             "limbmuscle": [
@@ -308,9 +317,9 @@
                 "(I can't move my <limb>...)",
                 "(I... I can't move my <limb>..!)",
                 "(Can't move my <limb>... I'm scared...)",
+                "(I think... I think my <limb>'s broken...)",
                 "*Trying to \"fix\" the <limb>*",
-                "*Trying to get <limb> to move*",
-                "(I think... I think my <limb>'s broken...)"
+                "*Trying to get <limb> to move*"
             ],
             "limbinfected": [
                 "(My <limb> looks bloated.)",
@@ -331,7 +340,7 @@
                 "(Need something to cover my <limb>.)",
                 "(My <limb> is way too exposed...)",
                 "(Ugh... My <limb> is missing it's shells...)",
-                "(Heh... Really managed to destroy my <limb>...)",
+                "(Geez... Really managed to destroy my <limb>...)",
                 "(I should cover my <limb> with something.)",
                 "(The skin on my <limb> doesn't look so good.)",
                 "(My <limb> is missing it's shells.)",
@@ -700,7 +709,6 @@
                 "(Thats not good... At all...)",
                 "(I can't keep going if this is what awaits me...)",
                 "(T-this...    This can't be right...)",
-                "*Slight teardrop*",
                 "*Hands covering where a mouth would be*",
                 "*Slight tremble*",
                 "*Arms tightly crossed*"
@@ -1156,9 +1164,6 @@
                 "*Fanning the smell*",
                 "*Smelling the Smelly smell*"
             ],
-            "watchlike": [
-                "(Watch thing. Yeah.)"
-            ],
             "watchdislike": [
                 "(This watch thing is annoying.)"
             ],
@@ -1233,6 +1238,8 @@
             ],
             "traderhagglesuccess": [
                 "*Nod*",
+                "*Thoughtful nod*",
+                "Slow nod",
                 "*Pondering*",
                 "*Thinking emoji*",
                 "*Attentive*"
@@ -1295,7 +1302,6 @@
                 "*Combat stance*",
                 "*Visible anger*",
                 "*Neck cut hand motion*",
-                "*Shaking fist*",
                 "*Middle finger*"
             ],
             "traderthreatensuccess": [
