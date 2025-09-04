@@ -565,11 +565,11 @@
                 "(...Just a little more and you can do it, Shelly... Finally... Leave e-everything behind...)",
                 "(...How cathartic... Now this... This is something I deserve...)",
                 "(I'm sorry. I'm so, so sorry. I can't do this. I'm done. I failed everyone. I'M SORRY.)",
-                "(Rads monster... Nuclear waste... Glowstick mistake... Soon nothing more than a c-corpse...)",
-                "(Mouthless piece of radioactive stinging shit... Should have starved in your little pod...)",
+                "(Just a m-mistake... Nothing more than a-a mm-mistake... And nothing m-more than... J-Just a corpse...) *Whimper*",
+                "(W-Worthless piece of shit..! Should have stayed in your l-little pod... And died l-like the rr-rest of us... Hh-Hhahahhaah...)",
                 "(No more t-thinking... No more pain... I can finally rest... --Let go of all this suffering...)",
                 "(Noone ever cared for me... This is why I'm down here... Just to die...)",
-                "(Poor rads monster never stood a chance... Yet another corpse to the pile...)",
+                "(I n-never sss-stood a chance... I... I think I'll j-just... Lie down n-now... And s-stay as an ss-statistic...)",
                 "(I'm just garbage disposal. I'm going to hell for this. I shouldn't have been born.)",
                 "(Better safe than sorry. Better safe than sorry. Better safe than sorry. Better-- Haahhahahaha!!)",
                 "(I'm finally done... I'm finally getting out of this place..! D-Dear friends, here I come...)",
@@ -596,8 +596,8 @@
                 "I'm taking my life. Sorry. I can't. I fucking can't take it anymore. I'm so fucking sorry.",
                 "I hope I end up in hell. Gonna be better than this fucking place. I can't. I'm out. Sorry. Fuck all of this.",
                 "Bye. I'm out. I'll see everyone on the other side, down in the pits of hell.",
-                "(NO MORE!!! NEVER AGAIN!!! I CAN'T TAKE THIS ANYMORE!!!)",
-                "(FFUUUUUUUCKKK!!!! AAAAAAAAAHHHHHHH!!!! LET ME BE FREEEE!!!!)",
+                "(N-No more... N-Never again... I can’t... I can’t t-take it... I can’t...)",
+                "*Drawing on themselves using their own blood* (F-FUCK... Fuuuck... Just l-let me out... P-Please just let me o-out... Pp-Please...)",
                 "*Hysteria* (This is what it all amounts to... Another body to the pile...)",
                 "(*Giggle* You've finally done it, Shelly! You've finally nailed your own coffin!!) *Hysteria*",
                 "(*Humming* 'Close your eyes and count to none, the day is gone and you're undone...' *Humming*)"
@@ -656,11 +656,11 @@
                 "(Just hold the blood in... This is totally fine...)",
                 "(Not good, not good, not good...)",
                 "(Oh shit... That's my blood...)",
-                "(I'm losing my coolan--    ...Now's not the time...)",
+                "(I'm losing my... Mustard --Haha! Ahh... Fuck.)",
                 "(*Panicked gibberish*)",
                 "*Distress*",
                 "*Nervous*",
-                "*Trying to hold the blood in*",
+                "*Trying to staunch the flow*",
                 "*Anguish*"
             ],
             "bleedingheavy": [
@@ -879,22 +879,21 @@
                 "*Shiver me chitters*",
                 "*Narrowed eyes*",
                 "*Cold go away chitter*",
-                "*Hand rubbing because of the cold*",
-                "*Arms crossed because of the cold*"
+                "*Cold hand rubbing*",
+                "*Arms coldly crossed*"
             ],
             "warm": [
                 "(I really need to COOL IT.)",
                 "(I gotta cool down... Heh...)",
                 "(Gee, when did it get so warm?)",
                 "(I'm starting to sweat it.)",
-                "(This place could use an air conditioner.)",
+                "(This place could use a fan.)",
                 "(It's kinda hot in here.)",
                 "(Can't break a sweat... What does that even mean, anyways?)",
                 "(Pretty hot down here.)",
-                "(It's hot... Beware of the nuclear meltdown..! Haha.)",
+                "(It's so hot... I could use some... Coolant... Ugh.)",
                 "*Minor radioactive sweating*",
-                "*Fanning self*",
-                "*Heat go away chitter*"
+                "*Fanning self*"
             ],
             "hot": [
                 "(I'm boiling hot...)",
@@ -907,12 +906,12 @@
                 "(This heat is making me terribly dizzy.)",
                 "(It's a miracle I can still think while this hot...)",
                 "(Not much different from burning at this point.)",
-                "(The rads monster is gonna explode guys. Don't replicate Chernobyl..!)",
+                "(Feels like I'm... B-Burning alive...)",
                 "(I'm cooking up into a nice radioactive smoothie.)",
                 "(With all of this heat, you could use a-hh... a Roza, I... Guess..?)",
                 "(Damn scorching heat...)",
                 "(Hot hot hot...)",
-                "(Feels like I'm being microwaved alive...     Uhh...)",
+                "(Feels like I'm being microwaved alive... Uhh...)",
                 "(I'm sweating in places I didn't know I could sweat.)",
                 "(Ugh, screw these heat jokes... They never help...)",
                 "*Radioactive sweating*",
@@ -986,19 +985,25 @@
                 "(What did I do to get this thin?)",
                 "(My bones feel lighter than usual.)",
                 "(I shouldn't have ignored my regular rads consumption.)",
-                "(My body mass is way too low for my taste.)",
-                "(Hey guys, diet rads monster here.)",
-                "*Checks weight* (...Flat!)"
+                "(I feel very light... And that's probably not good.)",
+                "(I'm AWFULLY skinny.)",
+                "(I'm way too slim for my taste.)",
+                "*Checks weight* (...Flat!)",
+                "*Thinness check*"
             ],
             "obese": [
                 "(I feel like a nuclear reactor. Scarily unusual.)",
                 "(Feeling heavier than normal...)",
-                "(XXXXL rads monster, NOT for purchase.)",
                 "(I've gotta drop being a glutton.)",
                 "(Ugh... It's a shame I got to this point of mass.)",
                 "(I hope I don't get back like this...)",
                 "(How did I never get this fat back then?)",
+                "(How the heck did I get like this??)",
+                "(I... Really wasn't aware I could get fat like this.)",
+                "(As if I wasn't heavy enough BEFORE getting this much fat...)",
+                "(I should watch how much I eat.)",
                 "*Checks weight* (...FAT.)",
+                "*Chubbiness check*",
                 "*Makes a circle around herself*"
             ],
             "opiated": [
@@ -1362,7 +1367,7 @@
                 "*Mouthless grimace*",
                 "*Facepalm*",
                 "*Mocking thumbs up*",
-                "*Hand clapping*"
+                "*Smug hand clapping*"
             ],
             "traderseehurt": [
                 "*Hand gestures seem to indicate that you may get a bandage for free*",
