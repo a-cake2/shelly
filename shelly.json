@@ -66,6 +66,19 @@
                 "*Contemplation*",
                 "*Realization*"
             ],
+            "seeModifier": [
+                "(What's with all this fog? I can't see anything...)",
+                "(Eugh, it's even warmer than back at the labs. Great.)",
+                "(Out of the frying pan, straight into the fire...)",
+                "(This place is chilly! -Thought it would be a bit warmer.)",
+                "(Fuck... Whats with all this cold..?)",
+                "(This place is like... A beach party! ...I guess.)",
+                "(This place looks much drier than I thought. Good for me.)",
+                "(I keep seeing spiders EVERYWHERE, but no Velvets. Odd.)",
+                "(I didn't know I'd be sent into a Rain World...)",
+                "*Sniffing... Disgust*",
+                "(Why do I feel a headache already? And wheres the status panel from training?)"
+            ],
             "refuseEat": [
                 "(I can't eat this.)",
                 "(I have no mouth.)",
@@ -558,21 +571,23 @@
             "selfharm": [
                 "-----these lines were so uncharacteristic i just skipped them. i also dont have ANY self-experience to do a good job on this part, so how about you go do them yourself, NOOB!-----"
             ],
+            "angeronitem": [
+                "(Piece of SHIT...)",
+                "(EURGH! ENOUGH!)",
+                "(Fuckin'... Die already...)",
+                "(these lines are used for the plushie aren't they)"
+            ],
             "suicide": [
                 "(I ss-shouldn’t have... Shouldn’t h-have... F-Fuck... Fuuuck... W-What did I d-do..?)",
                 "(Ehehh... What... W-What did I do... O-oho... I see... H-Have fun..! Hhhaahah...)",
                 "(I ss-shouldn’t have... Shouldn’t have... T-Too late... Too l-late for... Ee-Everything...)",
-                #"(...Just a little more and you can do it, Shelly... Finally... Leave e-everything behind...)",
                 "(This... T-This is what I d-deserve... J-Just a little longer a-and... Aa-And...)",
-                #"(I'm sorry. I'm so, so sorry. I can't do this. I'm done. I failed everyone. I'M SORRY.)",
                 "(Just a m-mistake... Nothing more than a-a mm-mistake... And nothing m-more than... J-Just a corpse...) *Whimper*",
                 "(W-Worthless piece of shit..! Should have stayed in your l-little pod... And died l-like the... Rr-Rest of us... Hh-Hhahahhaah...)",
-                #"(No more t-thinking... No more suffering... I can finally rest... --Let go of all this suffering...)",
                 "(N-No one ever cared... Never... That's why I'm here... J-Just to dd-die...) *Whimper*",
                 "(I n-never sss-stood a chance... I... I think I'll j-just... Lie down n-now... And s-stay as an ss-statistic...)",
                 "(I’m j-just garbage disposal... N-Nothing more... N-Nothing... I... S-Shouldn’t have b-been born...)",
                 "(It’s fine... It’s fine- It’s fine- It’s fine... N-Nothing’s fine... Hhh-hhhahaahh..!)",
-                #"(I'm finally done... I'm finally getting out of this place..! D-Dear friends, here I come...)",
                 "(C-Crossed the line... N-No happy ending... Just me... J-Just me... Ddd-Dead...)",
                 "(S-So tired... Tired of trying... T-Tired of breathing... T-Tired... Nn-No one is... G-Getting out a-alive...)",
                 "(Grrhh... J-Just... Relax... Just... Sink down... Into n-nothing... No more w-worries... No m-more...)",
@@ -595,8 +610,12 @@
                 "()",
                 "(I guess that lab gg-gets it's wish. One less Shelly, one less mistake to hold onto... I hh-hope this planet accepts m-me.)",
                 "()",
-                "()",
+                "(redo the lines below me)",
                 #"(N-No more... N-Never again... I can’t... I can’t t-take it... I can’t...)",
+                #"(...Just a little more and you can do it, Shelly... Finally... Leave e-everything behind...)",
+                #"(I'm sorry. I'm so, so sorry. I can't do this. I'm done. I failed everyone. I'M SORRY.)",
+                #"(No more t-thinking... No more suffering... I can finally rest... --Let go of all this suffering...)",
+                #"(I'm finally done... I'm finally getting out of this place..! D-Dear friends, here I come...)",
                 "*Drawing on themselves using their own blood* (F-Fuck... Just l-let me out... P-Please just let me o-out... Pp-Please...)",
                 "*Hysteria* (So this is it... T-This is what it all c-comes to... J-Just another body... J-Just another... Vv-Victim...)",
                 "(*Giggle* Y-You did it, Shelly... Hhh-Haha... Y-You buried yourself... All on your o-own... Hh-Hahah-Hhaahah...)",
@@ -1190,6 +1209,27 @@
                 "(*Stink airhorn sound effect*)",
                 "*Fanning the smell*",
                 "*Smelling the Smelly smell*"
+            ],
+            #"encumbered": [
+                "Carrying a bit much.",
+                "Do I need this much on me..?",
+                "I'm kind of weighed down...",
+                "I should drop some things...",
+                "I should leave some of my belongings, they're really heavy...",
+                "Ough, I'm way too weighed down.",
+                "Carrying too much...",
+                "I'm hoarding too much...",
+                "As much as I feel like all of these things will be useful, I'm really weighed down...",
+                "The load is a little much...",
+                "I feel weighed down by all I am carrying.",
+                "Let's lighten the load a little.",
+                "I'm a bit overloaded with gear.",
+                "Carrying uncomfortably much...",
+                "I'd love to lessen the load a little...",
+                "I need to leave some stuff behind, there's too much on me.",
+                "I really should free up a hand or two. I'm carrying a lot...",
+                "Ugh! Too much gear on me. I feel weighed down.",
+                "Hoarding a little too much... All this gear is heavy."
             ],
             "watchdislike": [
                 "(This watch thing is annoying.)"
