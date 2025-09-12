@@ -1,6 +1,6 @@
 {
     "name": "Shelly",
-    "gameVer": "I'm Shellying it, I'm Shellying it, so good, AAAAHHHHH",
+    "gameVer": 9,
     "main": {
     },
     "buildings": {
@@ -569,7 +569,25 @@
                 "*Extreme shivering*"
             ],
             "selfharm": [
-                "-----these lines were so uncharacteristic i just skipped them. i also dont have ANY self-experience to do a good job on this part, so how about you go do them yourself, NOOB!-----"
+                "(Eugh... Mmmhh...)",
+                "(Mmmpph... Ahhhaha...)",
+                "(Feels... Feels fucking a-amazing..! Mmmhh...)",
+                "(Ahahh... Haahhahahah...)",
+                "(W-Well... Deserved... Glowstick shit... Haahahah...)",
+                "(F-Fuck... God, yes... Aagh...)",
+                "(That's... H-Hurting so good... Fuuuuck...)",
+                "(J-Juuust a little more... Aah...)",
+                "(Hehhehheaahhaha... M-Maybe next time...)",
+                "(Mmgh... Aah... Ahahah... Hahahhahah..!)",
+                "(Ii-I got time... Just nn-need some more... Of t-this...)",
+                "(T-That's... What you get... D-Dumbshit...)",
+                "(J-Just a nice... Well d-deserved... Clean cut... Hahaha...)",
+                "(T-Thats what you get... You radioactive mistake... *Giggle*)",
+                "*Moan* (...Ugh, ooooowwww...) *Maybe not*",
+                "*Broken hysteria*",
+                "-----these lines were so uncharacteristic i just skipped them. i also dont have ANY self-experience to do a good job on this part, so how about you go do them yourself, NOOB!-----",
+                "-----edit: oh god fucking damnit here we fucking go eaeurehguhgr-----",
+                "-----note: FFFFUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCCCCKKKK!!!!!!!!!-----"
             ],
             "angeronitem": [
                 "(Piece of SHIT...)",
@@ -609,10 +627,13 @@
                 "*Shaking* (It's over. I've... Finally done it. I'm... I'm just gonna... Cc-Cry down...)",
                 "*Quiet chitter* (Sshhh... Don't c-cry now, Shelly... D-Don't cry... We're done now... You're ff-fine...)",
                 "(*Giggle* I-I told you you'd m-make it out! Just not... The way you w-wanted... Hhh-Hahahaahh...)",
-                "(Just me... This cut... The darkness... And my way o-out. This... This is how it was always meant to end. G-Goodbye, everyone...)",
+                "(Just m-me... This cut... The d-darkness... And my way o-out. This is... H-How it was always m-meant to end. G-Goodbye, everyone...)",
                 "(I guess that lab gg-gets it's wish. One less Shelly, one l-less mistake to hold onto... I hh-hope this planet accepts m-me.)",
-                "()",
-                "()",
+                "(M-Maybe they'll find me... Mm-Maybe they'll use me... So the n-next mistakes... Are l-less of a sss-shame...)",
+                "(...Just a w-wide open throat... And m-my last wish is... Ii-Is that I don't w-wake up... E-Ever again...)",
+                "(Aa-And so the way is d-down... Down and d-down... Until yy-you get the oo-objective... Aa-And m-make it back to u-us... N-Neck ss-spilling...)",
+                "(All y-you do... Is g-get the c-cargo... Aa-And you'll h-have earned... Their p-pretty, empty p-promise... Of ff-freedom... Hahhah-haah...)",
+                "(I w-wonder what they'll t-think of this... A bb-brave Shelly... C-Crawling in... To ee-earn r-respect... And fff-freedom... Hahahhah...)",
                 "(redo the hashtagged lines below me)",
                 #"(N-No more... N-Never again... I can’t... I can’t t-take it... I can’t...)",
                 #"(...Just a little more and you can do it, Shelly... Finally... Leave e-everything behind...)",
