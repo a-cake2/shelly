@@ -2,19 +2,32 @@
     "name": "Shelly",
     "gameVer": 9,
     "main": {
-    },
+        },
     "buildings": {
+        "deadshelly": "Sp nt f  l",
+        "deadshellydsc": "An o  ly t rri  ing  ner y e  na es f om   ." //put color tags here and maybe above
+        "deadshellyseen": "Corpse",
+        "deadshellyseendsc": "..."
     },
     "moodles": {
+        "vlowrads": "Starving",
+        "lowrads": "Hungry",
+        "highrads": "Full",
+        "vhighrads": "Nuclear",
+
+        "vlowradsdsc": "You're starving for ANY kind of rads. Your body may shutdown at this rate. Diseases may wipe you out, although decay increases much slower.",
+        "lowradsdsc": "You're very peckish for getting some radiation. You feel somewhat weaker than usual. Diseases are worsened, although decay increases a bit slower.",
+        "highradsdsc": "You have a bit too many rads. You feel bloated and a little weak. Decay increases a bit faster, but diseases are less severe.",
+        "vhighradsdsc": "You have so many rads, it feels like you might explode. Go easy on yourself, fatass. Decay increases much faster, but diseases are harmless."
     },
     "other": {
-        "tutexp1": "...",
+        "tutshe1": "...",
         "tutexp2": "Not much for talking, I assume.",
-        "tutexp3": "*Chitter + Head shake*",
-        "tutexp4": "*Points to elevator exit*",
+        "tutshe3": "*Chitter + Head shake*",
+        "tutshe4": "*Points to elevator exit*",
         "tutexp5": "No, I don't feel like it. Go ahead.",
-        "tutexp6": "*Slow nod*",
-        "tutexp7": "*Tired sigh*"
+        "tutshe6": "*Slow nod*",
+        "tutshe7": "*Tired sigh*"
     },
     "character": [
         {
