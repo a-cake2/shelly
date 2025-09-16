@@ -5,7 +5,7 @@
         },
     "buildings": {
         "deadshelly": "Sp nt f  l",
-        "deadshellydsc": "An o  ly t rri  ing  ner y e  na es f om   ." //put color tags here and maybe above
+        "deadshellydsc": "An o  ly t rri  ing  ner y e  na es f om   ." // put color tags here and maybe above
         "deadshellyseen": "Corpse",
         "deadshellyseendsc": "..."
     },
@@ -14,11 +14,45 @@
         "lowrads": "Hungry",
         "highrads": "Full",
         "vhighrads": "Nuclear",
-
+        "decay1": "Lagging",
+        "decay2": "Decomposing",
+        "decay3": "Melting down",
+        "decay4": "Cancer-driven",
+        
         "vlowradsdsc": "You're starving for ANY kind of rads. Your body may shutdown at this rate. Diseases may wipe you out, although decay increases much slower.",
         "lowradsdsc": "You're very peckish for getting some radiation. You feel somewhat weaker than usual. Diseases are worsened, although decay increases a bit slower.",
         "highradsdsc": "You have a bit too many rads. You feel bloated and a little weak. Decay increases a bit faster, but diseases are less severe.",
-        "vhighradsdsc": "You have so many rads, it feels like you might explode. Go easy on yourself, fatass. Decay increases much faster, but diseases are harmless."
+        "vhighradsdsc": "You have so many rads, it feels like you might explode. Go easy on yourself, fatass. Decay increases much faster, but diseases are harmless.",
+        "decay1dsc": "Decay at controllable levels. You feel mentally slower, but it's manageable.",
+        "decay2dsc": "Decay at problematic levels. Consciousness decreased, weakness ensured.",
+        "decay3dsc": "Decay at dangerous levels. Immunity compromised.",
+        "decay4dsc": "Decay at life-threatening levels. Your entire body is slowly shutting down.",
+        
+        "male": "Male",
+        "notanumber": "Non-binary",
+        "invalid": "Invalid",
+        "synonymfordumb": "Intellectually challenged",
+        "gayfrog": "'Gay Frogger' diseased",
+        "neurotypical": "Neurotypical",
+        "shellynt": "Shellyn't",
+        "shame": "Infinite self-shame",
+        "mouth": "Mouthlly",
+        "g4a": "G4-A",
+        "tall": "Tall",
+        "momma": "The Original",
+        
+        "maledsc": "Your upper chest shells are missing. Damage taken on the upper torso massively increased.",
+        "notanumberdsc": "You emit microwaves instead of ionizing radiation. You are much hungrier in comparison to everyone else.",
+        "invaliddsc": "You got contagious-albinism at a young age and never shook it off ever since. Feeding off radiation accelerates decay insanely fast.",
+        "synonymfordumbdsc": "You got F's on every single one of your training tests. All drug/healing items are very ineffective.",
+        "gayfrogdsc": "You recently caught a strain of the poorly-named emotion-removing fungus. All signs of the mood stat removed.",
+        "neurotypicaldsc": "You were born and will die as nothing but a statistic. Inner dialogue and body expressions non-existent.",
+        "shellyntdsc": "A genetic disease has cursed you with an absolutely horrid body shape. Damage taken on your arms and legs significantly increased.",
+        "shamedsc": "You have no mouth and you must scream. Trying to eat an inedible item makes you explode and die on the spot.",
+        "mouthdsc": "You have a mouth (just for show) and God is chasing you down for your universe-breaking antics. Enemies are constantly spawning, all moving towards you.",
+        "g4adsc": "You consider yourself everything but a Shelly. Stats randomized to a different species' every layer (Shellies not included).",
+        "talldsc": "You were made significantly taller and thicker than other Shellies. Not as much as Momma Shelly, but still.",
+        "mommadsc": "You didn't deserve any of this."
     },
     "other": {
         "tutshe1": "...",
@@ -1032,7 +1066,7 @@
                 "(I feel very light... And that's probably not good.)",
                 "(I'm AWFULLY skinny.)",
                 "(I'm way too slim for my taste.)",
-                "*Checks weight* (...Flat!)",
+                "*Checks weight* (...Flat.)",
                 "*Thinness check*"
             ],
             "obese": [
@@ -1046,7 +1080,7 @@
                 "(As if I wasn't heavy enough BEFORE getting this much fat...)",
                 "(I should watch how much I eat.)",
                 "(I'm feeling... Nuclear..!) *Instant regret*",
-                "*Checks weight* (...FAT.)",
+                "*Checks weight* (...Fatass.)",
                 "*Chubbiness check*"
             ],
             "opiated": [
