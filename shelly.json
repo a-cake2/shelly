@@ -1,13 +1,19 @@
 {
     "name": "Shelly",
-    "gameVer": 9,
+    "gameVer": 0,
     "main": {
-        },
+        "armwarmers": "Arm warmers",
+        "armwarmersdsc": "A pair of blue arm warmers. Provides some insulation against the cold. Uncomfortable, itchy texture. These also look ugly on you.",
+        "mindwipe": "Mindwipe",
+        "mindwipedsc": "A synthetic drug that metaphorically kills you; emotions, memories, personality, all gone. Also orally taken, which may or may not be a good thing."
+    },
     "buildings": {
-        "deadshelly": "Sp nt f  l",
-        "deadshellydsc": "An o  ly t rri  ing  ner y e  na es f om   ." // put color tags here and maybe above
+        "deadshelly": "<color=\"green\">Sp nt f  l",
+        "deadshellydsc": "<color=\"green\">An o  ly t rri  ing  ner y e  na es f om   .",
         "deadshellyseen": "Corpse",
-        "deadshellyseendsc": "..."
+        "deadshellyseendsc": "...",
+        "radbarrel": "<color=\"green\"> urvi or",
+        "radbarreldsc": "<color=\"green\">A ot  r unluc y v c im. At l   t th  're st ll b ea  in ."
     },
     "moodles": {
         "vlowrads": "Starving",
@@ -18,6 +24,11 @@
         "decay2": "Decomposing",
         "decay3": "Melting down",
         "decay4": "Cancer-driven",
+        "impairedselfawareness": "Impaired self-awareness",
+        "rippedeye1": "Quarter blidness",
+        "rippedeye2": "Half blindness",
+        "rippedeye3": "Overwhelmingly blind",
+        "rippedeye4": "Miserably blind",
         
         "vlowradsdsc": "You're starving for ANY kind of rads. Your body may shutdown at this rate. Diseases may wipe you out, although decay increases much slower.",
         "lowradsdsc": "You're very peckish for getting some radiation. You feel somewhat weaker than usual. Diseases are worsened, although decay increases a bit slower.",
@@ -27,6 +38,11 @@
         "decay2dsc": "Decay at problematic levels. Consciousness decreased, weakness ensured.",
         "decay3dsc": "Decay at dangerous levels. Immunity compromised.",
         "decay4dsc": "Decay at life-threatening levels. Your entire body is slowly shutting down.",
+        "impairedselfawareness": "Something is making you mentally and physically unreadable, even by your standards.",
+        "rippedeyedsc": "One of your eyes has been ripped out, blurring some of your vision. Don't lose the rest!",
+        "rippedeye2dsc": "Two of your eyes have been ripped out, blurring a lot of your vision. Traumatizing.",
+        "rippedeye3dsc": "Three of four of your eyes have been ripped out, obscuring most of your vision. That one's your last chance.",
+        "rippedeye4dsc": "All of your eyes have been ripped out. Pray that you can still feel your way through the mission.",
         
         "male": "Male",
         "notanumber": "Non-binary",
@@ -39,7 +55,6 @@
         "mouth": "Mouthlly",
         "g4a": "G4-A",
         "tall": "Tall",
-        "momma": "The Original",
         
         "maledsc": "Your upper chest shells are missing. Damage taken on the upper torso massively increased.",
         "notanumberdsc": "You emit microwaves instead of ionizing radiation. You are much hungrier in comparison to everyone else.",
@@ -51,10 +66,15 @@
         "shamedsc": "You have no mouth and you must scream. Trying to eat an inedible item makes you explode and die on the spot.",
         "mouthdsc": "You have a mouth (just for show) and God is chasing you down for your universe-breaking antics. Enemies are constantly spawning, all moving towards you.",
         "g4adsc": "You consider yourself everything but a Shelly. Stats randomized to a different species' every layer (Shellies not included).",
-        "talldsc": "You were made significantly taller and thicker than other Shellies. Not as much as Momma Shelly, but still.",
-        "mommadsc": "You didn't deserve any of this."
+        "talldsc": "You were made significantly taller and thicker than other Shellies. Not as much as Momma Shelly, but still."
     },
     "other": {
+        "FootFShort": "Foot",
+        "FootBShort": "Foot",
+        "shelly": "Shelly",
+        "mouth": "Neck",
+        "discretionwarning": "This game contains Shellies\n<color=\"grey\">Press LMB to continue",
+        
         "tutshe1": "...",
         "tutexp2": "Not much for talking, I assume.",
         "tutshe3": "*Chitter + Head shake*",
@@ -62,6 +82,11 @@
         "tutexp5": "No, I don't feel like it. Go ahead.",
         "tutshe6": "*Slow nod*",
         "tutshe7": "*Tired sigh*"
+        
+        "haggledsc": "Try to negotiate lower prices. Might upset the trader if done wrong.\n<color=\"orange\">Shellies aren't good with this.",
+        "hugdsc": "Give them a hug. You might scare them if they're unsure about you./n<color=\"orange\">Shellies aren't good for this.",
+        "threatendsc": "Threaten them to get a free item or two. Might backfire significantly.\n<color=\"green\">Shellies look menacing this close.",
+        "jsonthing": "i fucking hate these scav game updates. it feels like some of them have more scope creep than they do content."
     },
     "character": [
         {
@@ -1486,6 +1511,7 @@
             "braindamaged": [
                 "                                                                                                                   ",
                 "A",
+                "<sprite index=20>",
                 "(Hmmm...               Bubbles...)",
                 "(I like candy.)",
                 "(CINNAMON!)",
@@ -1560,6 +1586,10 @@
             {
                 "Item1": "*This note features a drawing of a Shelly biting on the arm of a mouthless Dune. How curious.*",
                 "Item2": "Sprites/noteDrawings/yummers"
+            },
+            {
+                "Item1": "placeholder text",
+                "Item2": "Sprites/noteDrawings/shelly"
             },
             {
                 "Item1": "no name, dont change \n possible drawings: puppet - underweight - x - alone - brokenleg - experiment - dune - milky - spider - pool - radiation - growplant - bloodbag - scientist - drown - xaloris",
