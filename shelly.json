@@ -69,6 +69,11 @@
         "talldsc": "You were made significantly taller and thicker than other Shellies. Not as much as Momma Shelly, but still."
     },
     "other": {
+        "layertitletutorial": "Earth\nTraining hell",
+        "layertitle4": "Shellyland",
+        "layertitle10": "WHERE I MUST REACH",
+        "layertitle12": "OUTER SHELL",
+        
         "FootFShort": "Foot",
         "FootBShort": "Foot",
         "shelly": "Shelly",
@@ -86,7 +91,7 @@
         "haggledsc": "Try to negotiate lower prices. Might upset the trader if done wrong.\n<color=\"orange\">Shellies aren't good with this.",
         "hugdsc": "Give them a hug. You might scare them if they're unsure about you./n<color=\"orange\">Shellies aren't good for this.",
         "threatendsc": "Threaten them to get a free item or two. Might backfire significantly.\n<color=\"green\">Shellies look menacing this close.",
-        "jsonthing": "i fucking hate these scav game updates. it feels like some of them have more scope creep than they do content."
+        "jsonthing": "jasãodatinga"
     },
     "character": [
         {
@@ -1560,6 +1565,24 @@
                 "*Chitter chittering*",
                 "*Chittering chitter*",
                 "!! I'M_SORRY,_SHELLY !!"
+            ],
+            "lastmoments": [
+                "I don't... want to die... I don't want to die...",
+                "Please... Please... Someone save... Save me...",
+                "I don't want to die... Please... Please...",
+                "Not... Not like this... Please... Help me...",
+                "H-help... Someone... I don't w-want to die...",
+                "I don't... I don't want to leave this world...",
+                "Save me... Save me... S-save me... Please...",
+                "This.. Is... H-h... Is this how... How it ends...",
+                "All... Everything I've done... To... To lead up to t-this... Save m-me...",
+                "No.. No.... N-no... Please... Please... I don't... I-I don't want to d-die... Help me...",
+                "Ffhh... Gh.... Help me... Please... Anyone...",
+                "Nhh... Not like t-this... Please... P-please... Save me...",
+                "Please... I don't... I don't want to die... Save me... Anyone... Anything... I-I'm not r-ready...",
+                "W-Will it be.. Over s-soon..?",
+                "Stop... Stop... Stop... Please... S-stop... Not l-like this... Save me...",
+                "Fuck... Fuck... Help me... I don't... Want to d-die... H-h.."
             ]
         }
     ],
