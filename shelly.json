@@ -78,7 +78,8 @@
         "FootBShort": "Foot",
         "shelly": "Shelly",
         "mouth": "Neck",
-        "discretionwarning": "This game contains Shellies\n<color=\"grey\">Press LMB to continue",
+        "napinfo2": "Sleep quality is determined by the ground you sleep on\nCan't sleep if in pain/sick/not tired\n<color=\"red\">Sadness affects your acceptance to sleep",
+        "discretionwarning": "This game contains <color=\"purple\">Shellies\n<color=\"grey\">Press LMB to continue",
         
         "tutshe1": "...",
         "tutexp2": "Not much for talking, I assume.",
@@ -1567,9 +1568,9 @@
                 "!! I'M_SORRY,_SHELLY !!"
             ],
             "lastmoments": [
-                "I don't... want to die... I don't want to die...",
-                "Please... Please... Someone save... Save me...",
-                "I don't want to die... Please... Please...",
+                "(Nn-Not like this... N-Not like this... Please...)",
+                "(Anyone out there... P-Please... Hh... Hh-Help...)",
+                "(N-No... No-no... Nononono... God... P-Please...)",
                 "Not... Not like this... Please... Help me...",
                 "H-help... Someone... I don't w-want to die...",
                 "I don't... I don't want to leave this world...",
