@@ -1,9 +1,13 @@
 {
     "name": "Shelly",
-    "gameVer": 0,
+    "gameVer": 5,
     "main": {
         "armwarmers": "Arm warmers",
         "armwarmersdsc": "A pair of blue arm warmers. Provides some insulation against the cold. Uncomfortable, itchy texture. These also look ugly on you.",
+        "armwarmerspink": "Pink arm warmers",
+        "armwarmerspinkdsc": "A pair of pink arm warmers. Provides a little insulation against the cold. Very soft latex-ish texture. Your poor fashion sense wants this.",
+        "armwarmerslab": "Lab coat arm warmers",
+        "armwarmerslabdsc": "A pair of sleeves torn from a lab coat, repurposed as arm warmers. Provides some insulation against the cold. Makes you feel smarter... In theory..! Joke's over.",
         "mindwipe": "Mindwipe",
         "mindwipedsc": "A synthetic drug that metaphorically kills you; emotions, memories, personality, all gone. Also orally taken, which may or may not be a good thing."
     },
@@ -13,7 +17,9 @@
         "deadshellyseen": "Corpse",
         "deadshellyseendsc": "...",
         "radbarrel": "<color=\"green\"> urvi or",
-        "radbarreldsc": "<color=\"green\">A ot  r unluc y v c im. At l   t th  're st ll b ea  in ."
+        "radbarreldsc": "<color=\"green\">A ot  r unluc y v c im. At l   t th  're st ll b ea  in .",
+        "radbarrelseen": "Food barrel",
+        "radbarrelseendsc": "Looks yummy. Feast responsibly.",
     },
     "moodles": {
         "vlowrads": "Starving",
@@ -44,11 +50,11 @@
         "rippedeye3dsc": "Three of four of your eyes have been ripped out, obscuring most of your vision. That one's your last chance.",
         "rippedeye4dsc": "All of your eyes have been ripped out. Pray that you can still feel your way through the mission.",
         
-        "male": "Male",
+        "male": "Male", \\ ive really got to move this garbage elsewhere... oh wait! the leftovers file exists
         "notanumber": "Non-binary",
         "invalid": "Invalid",
         "synonymfordumb": "Intellectually challenged",
-        "gayfrog": "'Gay Frogger' diseased",
+        "gayfrog": "'Gay Frogger' victim",
         "neurotypical": "Neurotypical",
         "shellynt": "Shellyn't",
         "shame": "Infinite self-shame",
@@ -66,13 +72,15 @@
         "shamedsc": "You have no mouth and you must scream. Trying to eat an inedible item makes you explode and die on the spot.",
         "mouthdsc": "You have a mouth (just for show) and God is chasing you down for your universe-breaking antics. Enemies are constantly spawning, all moving towards you.",
         "g4adsc": "You consider yourself everything but a Shelly. Stats randomized to a different species' every layer (Shellies not included).",
-        "talldsc": "You were made significantly taller and thicker than other Shellies. Not as much as Momma Shelly, but still."
+        "talldsc": "You were made significantly taller and thicker than other Shellies. Not as much as the original, but still."
     },
     "other": {
         "layertitletutorial": "Earth\nTraining hell",
         "layertitle4": "Shellyland",
         "layertitle10": "WHERE I MUST REACH",
         "layertitle12": "OUTER SHELL",
+        "layertitle14": "OUTER SPACE-LLY",
+        "layertitle15": "LAYER 1: LIMBO.",
         
         "FootFShort": "Foot",
         "FootBShort": "Foot",
@@ -151,8 +159,8 @@
                 "(This place is chilly! -Thought it would be a bit warmer.)",
                 "(Fuck... Whats with all this cold..?)",
                 "(This place is like... A beach party! ...I guess?)",
-                "(This place looks much drier than I thought. Good for me.)",
-                "(I keep seeing spiders EVERYWHERE, but no Velvets. Pity.)",
+                "(This place looks much more like a desert than a cave. Good for me.)",
+                "(I keep seeing spiders EVERYWHERE, but no Velvets. Pity, shame, sucks to suck.)",
                 "(I didn't know I'd be sent into a... A Rain World like this...)",
                 "*Sniffing* (... Eewwugh, the air here is HORRID.)",
                 "(Why do I feel a headache already? And wheres the status panel from training?)"
@@ -1558,7 +1566,7 @@
                 "(Do Albino Shellies exist?)",
                 "()",
                 "(ProtogensareliketheDIYikeacatalogversionoffurryidentities,exceptinsteadofallenwrenchsyougetapremadehelmetandtheillusionoforiginality,andit'swildlyhilarioushowthey'vebecomeasortofcookiecutteridentityfactorywhereanyonewho'sunsurehowtostandoutinthecommunitygravitatesstraightto\"beepboopgenericcyberdog.\"Everytimeyouseeoneitfeelslikeyourwatchingthefurryequivalentofastockphoto,likeif\"badidentitymanagement\"and\"ctrl+cctrl+vcharacterdesign\"hadababy,itwouldcomeoutwearingavisorandcallingitselfunique.Imeanhowmanyfuturisticdogslothcyberthingsexistbeforeyourealizethisarchetypeissaturatingthecommunityharderthantheworstoverusedmemes?Theytrytosellthevibeofbeingcuttingedgeandtechsavvybutreallyit'sjustcoveringupthefactthatprotogenisasynonymfor\"identitydefaultsettings.\"It'snotedgy,it'snotnew,it'sliterallyanoverprocessedarchetypethatpeoplepickwhencreativityhaspackeditsbagsandlefttheroom.Ifbeingaprotogenisaboutselfexpressionthenwhydoeslookingaroundfeelmorelikebrowsingtheclearancebinatabadlythemedconvention?Atthispointprotogensaren'tevencharacters-they'rejustcollectiveproofthatsometimesbadidentityandoverusedfurryarchetypescombineintothesamepredictable,plastic-wrappedpackage.)",
-                ":D                       (How the fuck did I do that..?)",
+                ":D             (How the fuck did I do that..?)",
                 "(What is this? Am I...                      TASTING something??)               *...No*",
                 "(*Thunder sound effect*)",
                 "**",
@@ -1571,19 +1579,19 @@
                 "(Nn-Not like this... N-Not like this... Please...)",
                 "(Anyone out there... P-Please... Hh... Hh-Help...)",
                 "(N-No... No-no... Nononono... God... P-Please...)",
-                "Not... Not like this... Please... Help me...",
-                "H-help... Someone... I don't w-want to die...",
-                "I don't... I don't want to leave this world...",
-                "Save me... Save me... S-save me... Please...",
-                "This.. Is... H-h... Is this how... How it ends...",
-                "All... Everything I've done... To... To lead up to t-this... Save m-me...",
-                "No.. No.... N-no... Please... Please... I don't... I-I don't want to d-die... Help me...",
-                "Ffhh... Gh.... Help me... Please... Anyone...",
-                "Nhh... Not like t-this... Please... P-please... Save me...",
-                "Please... I don't... I don't want to die... Save me... Anyone... Anything... I-I'm not r-ready...",
-                "W-Will it be.. Over s-soon..?",
-                "Stop... Stop... Stop... Please... S-stop... Not l-like this... Save me...",
-                "Fuck... Fuck... Help me... I don't... Want to d-die... H-h.."
+                "(Dying... After s-so much... S-Someone... Hh-Help...)",
+                "(I don't wanna d-die... Help... Hh-Heeelp..!)",
+                "(S-Shelly... Just a l-little further... P-Please... Don't d-die...)",
+                "(This i-is... No w-way to die... Hah... Ha...)",
+                "(Why m-me... W-Why me... Fuck... Aaahhgh...)",
+                "(Sss-Someone... Hh... Help... Fffuuhh... D-Dying...)",
+                "(This c-can't be... H-How it ends... God, p-please...)",
+                "(Is this... H-How I die..? Will it all... Be o-over soon..?)",
+                "(E-Everything... Has n-never b-been... T-This grey...)",
+                "(F-Ffuuuck... Is t-this... What I o-own up to..?)",
+                "Fuck... Fuck... Help me... I don't... Want to d-die... H-h..",
+                "(Aaagh... S-Sorry... For f-fucking w-what... God...)",
+                "(W-Well... This s-stinks...) *Crying*" \\ LOL
             ]
         }
     ],
@@ -1610,6 +1618,10 @@
             {
                 "Item1": "*This note features a drawing of a Shelly biting on the arm of a mouthless Dune. How curious.*",
                 "Item2": "Sprites/noteDrawings/yummers"
+            },
+            {
+                "Item1": "i think i saw a couple of these guys down here earlier? dunno what they were doing and i could be wrong but if you see them then make sure to tell them i said FUHK YOU!\n\n(The misspelling seems accidental.)",
+                "Item2": "Sprites/noteDrawings/scientist"
             },
             {
                 "Item1": "placeholder text",
