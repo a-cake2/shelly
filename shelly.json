@@ -4,10 +4,8 @@
     "main": {
         "armwarmers": "Arm warmers",
         "armwarmersdsc": "A pair of blue arm warmers. Provides some insulation against the cold. Uncomfortable, itchy texture. These also look ugly on you.",
-        "armwarmerspink": "Pink arm warmers",
-        "armwarmerspinkdsc": "A pair of pink arm warmers. Provides a little insulation against the cold. Very soft latex-ish texture. Your poor fashion sense wants this.",
-        "armwarmerslab": "Lab coat arm warmers",
-        "armwarmerslabdsc": "A pair of sleeves torn from a lab coat, repurposed as arm warmers. Provides some insulation against the cold. Makes you feel smarter... In theory..! Joke's over.",
+        "armwarmerslab": "Lab arm warmers",
+        "armwarmerslabdsc": "A pair of sleeves torn from a lab coat, repurposed as arm warmers. Provides some insulation against the cold. Makes you feel smarter... In theory!",
         "mindwipe": "Mindwipe",
         "mindwipedsc": "A synthetic drug that metaphorically kills you; emotions, memories, personality, all gone. Also orally taken, which may or may not be a good thing."
     },
@@ -19,7 +17,7 @@
         "radbarrel": "<color=\"green\"> urvi or",
         "radbarreldsc": "<color=\"green\">A ot  r unluc y v c im. At l   t th  're st ll b ea  in .",
         "radbarrelseen": "Food barrel",
-        "radbarrelseendsc": "Looks yummy. Feast responsibly.",
+        "radbarrelseendsc": "Looks yummy. Feast responsibly."
     },
     "moodles": {
         "vlowrads": "Starving",
@@ -30,8 +28,9 @@
         "decay2": "Decomposing",
         "decay3": "Melting down",
         "decay4": "Cancer-driven",
-        "impairedselfawareness": "Impaired self-awareness",
-        "rippedeye1": "Quarter blidness",
+        "rippedeye": "Half-blind",
+        "rippedeyes": "Blind",
+        "rippedeye1": "Quarter blindness",
         "rippedeye2": "Half blindness",
         "rippedeye3": "Overwhelmingly blind",
         "rippedeye4": "Miserably blind",
@@ -44,35 +43,12 @@
         "decay2dsc": "Decay at problematic levels. Consciousness decreased, weakness ensured.",
         "decay3dsc": "Decay at dangerous levels. Immunity compromised.",
         "decay4dsc": "Decay at life-threatening levels. Your entire body is slowly shutting down.",
-        "impairedselfawareness": "Something is making you mentally and physically unreadable, even by your standards.",
-        "rippedeyedsc": "One of your eyes has been ripped out, blurring some of your vision. Don't lose the rest!",
+        "rippedeyedsc": "Two out of four of your eyes have been ripped out, halving your field of view. You are somewhat scarred by the experience. Don't lose the rest.",
+        "rippedeyesdsc": "All of your eyes have been ripped out. You can only get by using feel and sound. At least you no longer need a light source...",
+        "rippedeye1dsc": "One of your eyes has been ripped out, blurring some of your vision. Don't lose the rest!",
         "rippedeye2dsc": "Two of your eyes have been ripped out, blurring a lot of your vision. Traumatizing.",
         "rippedeye3dsc": "Three of four of your eyes have been ripped out, obscuring most of your vision. That one's your last chance.",
-        "rippedeye4dsc": "All of your eyes have been ripped out. Pray that you can still feel your way through the mission.",
-        
-        "male": "Male", \\ ive really got to move this garbage elsewhere... oh wait! the leftovers file exists
-        "notanumber": "Non-binary",
-        "invalid": "Invalid",
-        "synonymfordumb": "Intellectually challenged",
-        "gayfrog": "'Gay Frogger' victim",
-        "neurotypical": "Neurotypical",
-        "shellynt": "Shellyn't",
-        "shame": "Infinite self-shame",
-        "mouth": "Mouthlly",
-        "g4a": "G4-A",
-        "tall": "Tall",
-        
-        "maledsc": "Your upper chest shells are missing. Damage taken on the upper torso massively increased.",
-        "notanumberdsc": "You emit microwaves instead of ionizing radiation. You are much hungrier in comparison to everyone else.",
-        "invaliddsc": "You got contagious-albinism at a young age and never shook it off ever since. Feeding off radiation accelerates decay insanely fast.",
-        "synonymfordumbdsc": "You got F's on every single one of your training tests. All drug/healing items are very ineffective.",
-        "gayfrogdsc": "You recently caught a strain of the poorly-named emotion-removing fungus. All signs of the mood stat removed.",
-        "neurotypicaldsc": "You were born and will die as nothing but a statistic. Inner dialogue and body expressions non-existent.",
-        "shellyntdsc": "A genetic disease has cursed you with an absolutely horrid body shape. Damage taken on your arms and legs significantly increased.",
-        "shamedsc": "You have no mouth and you must scream. Trying to eat an inedible item makes you explode and die on the spot.",
-        "mouthdsc": "You have a mouth (just for show) and God is chasing you down for your universe-breaking antics. Enemies are constantly spawning, all moving towards you.",
-        "g4adsc": "You consider yourself everything but a Shelly. Stats randomized to a different species' every layer (Shellies not included).",
-        "talldsc": "You were made significantly taller and thicker than other Shellies. Not as much as the original, but still."
+        "rippedeye4dsc": "All of your eyes have been ripped out. Pray that you can still feel your way through the mission."
     },
     "other": {
         "layertitletutorial": "Earth\nTraining hell",
@@ -95,7 +71,7 @@
         "tutshe4": "*Points to elevator exit*",
         "tutexp5": "No, I don't feel like it. Go ahead.",
         "tutshe6": "*Slow nod*",
-        "tutshe7": "*Tired sigh*"
+        "tutshe7": "*Tired sigh*",
         
         "haggledsc": "Try to negotiate lower prices. Might upset the trader if done wrong.\n<color=\"orange\">Shellies aren't good with this.",
         "hugdsc": "Give them a hug. You might scare them if they're unsure about you./n<color=\"orange\">Shellies aren't good for this.",
@@ -468,10 +444,10 @@
             ],
             "sepsis": [
                 "(It all hurts...)",
-                "(I'm... Ddd-dying...)",
+                "(I'm... Ddd-Dying...)",
                 "(Hhhrrkkk...)",
-                "(Burning... A-alive...)",
-                "(H-heeelp..!)",
+                "(Burning... A-Alive...)",
+                "(H-Heeelp..!)",
                 "(I'm... Melting down...)",
                 "(*Half-formed gibberish*)",
                 "*Thinking incapability*"
@@ -559,7 +535,7 @@
                 "(I feel like snapping.)",
                 "(I can't make it through this bullshit.)",
                 "(What are they doing to me once I'm done here?)",
-                "(Couldn't they get anyone else!?     ...I'm so fucked.)",
+                "(Couldn't they get anyone else!? ...I'm so fucked.)",
                 "(Now I MISS that damn lab... God...)",
                 "(What did I do to deserve this?)",
                 "(This place is my death warrant.)",
@@ -616,11 +592,11 @@
                 "(That fucking target is not worth my life.)",
                 "(I'm so worthless compared to everyone else...)",
                 "(I swear to god, whoever sent us down here is DEAD.)",
-                "(They got the target already... I'm just here to die...)",
+                "(They got the target a-already... I'm just here to die...)",
                 "(WHY!? WHY WHY WHY WHY!!?)",
-                "(They'll all be laughing... At my dead corpse...)",
+                "(They'll all b-be laughing... At my dead corpse...)",
                 "(Maybe... I deserved this...)",
-                "(None of us deserve to live...)",
+                "(None of us d-deserved to live...)",
                 "(I'M NOT DOING THIS ANYMORE.)",
                 "(...Hoping for a way out... How naive, Shelly...)",
                 "(Shelly!! Shelly!! Kill yourself, Shelly!!)",
@@ -628,19 +604,19 @@
                 "(Time to kick the bucket... Hhahahahahh...)",
                 "(If I rot fast enough, maybe they'll forget about me.)",
                 "(I was never special. Thats why I'm here.)",
-                "(I should claw my 4 eyes out.)",
+                "(I should claw my four eyes out.)",
                 "(I need to die.)",
                 "(I wish I could make my insides burst.)",
                 "(Come on, Shelly. Ending this is easy.)",
                 "(Yeah. Alright. Sure. Why not.)",
                 "(I am THIS CLOSE to doing it.)",
-                "(I should rest my head in one of those teeth machines.)",
+                "(I should rest my head in one of those teeth traps.)",
                 "(...)",
                 "(Yeah. Okay. Alright. Fine. All is well.)",
                 "(She's going to slice her throat. S-She's swearing it.)",
-                "(My time is up. I'm dying down here... Maybe I can see them again...)",
+                "(My time is up. I'm dying down here... Maybe I can s-see them again...)",
                 "(I'm worthless. Everyone would just move on without me.)",
-                "(Nothing to worry about, guys. It's just our garbage disposal, about to go off.)",
+                "(Nothing to worry about, guys. It's just our garbage d-disposal, about to go off.)",
                 "(*Humming*)",
                 "(*TV static noises*)",
                 "(*Picturing suicide*)",
@@ -673,10 +649,10 @@
             ],
             "angeronitem": [
                 "(Piece of SHIT...)",
-                "(EURGH! ENOUGH!)",
                 "(Fucking... Die already...)",
                 "(You little shit...)",
-                "(Ahhahaaha...)"
+                "(Ahhahaaha...)",
+                "*Demonically stabbing the plushie*"
             ],
             "suicide": [
                 "(I ss-shouldn’t have... Shouldn’t h-have... F-Fuck... Fuuuck... W-What did I d-do..?)",
@@ -1324,7 +1300,7 @@
                 "(All this weight on me... Owww...)",
                 "(I might get a leg cramp from all this weight...)",
                 "(My legs feel sore... No shit, with all this weighing me down...)",
-                "(I'm no heavy lifter... Packaging all this is hurting.)",
+                "(I'm no heavy lifter... Packaging all this, is hurting.)",
                 "*Stiffening muscles*",
                 "*Back cracking*"
             ],
@@ -1351,11 +1327,25 @@
             ],
             "murderregret": [
                 "(...)",
+                "(F-Fuck... Why did I...)",
                 "*Shaking*",
                 "*Trembling*",
                 "*Covering face*",
                 "*Hyperventilating*",
                 "*First stage of grief*"
+            ],
+            "murderdesensitized": [
+                "(...)",
+                "(...Hhmph.)",
+                "(...We all die one day.)",
+                "(...It's funny.)",
+                "(You we're no different from the rest.)",
+                "(...Deserved.)",
+                "(...It was you or me.)",
+                "(I... I regret nothing.)",
+                "(...I hate you.)",
+                "*(Humming)*",
+                "*Annoyed shrug*"
             ],
             "tradeemeet": [
                 "*Surprise, waves hand*",
@@ -1506,18 +1496,19 @@
             "traderseehurt": [
                 "*Hand gestures seem to indicate that you may get a bandage for free*",
                 "*Points to you and does a bandaging motion, worriedly*",
-                "*Covers the mouthless region, hand claps to get your attention*"
+                "*Covers the mouthless region, then hand claps to get your attention*"
             ],
             "swingresponse": [
                 "(FUCK OFF!!!)",
                 "(LEAVE ME ALONE!!)",
                 "(AHH--AHAHA-AAHHHH!!!)",
-                "(NOT MY FAULT!!)",
                 "(!!!!!!!)",
                 "(Piece of shit..!)",
                 "(Fuck! Fuck!!)",
                 "(Get off me!! GET OFF MEEEE!!!)",
                 "(NononoNONONO!)",
+                "(You... F-Fuck... Fuck..!)",
+                "(Hhhrgh, you wanna dance, huh!?)",
                 "*Trembling*",
                 "*Confused anger*",
                 "*Chitter scream*"
@@ -1533,7 +1524,6 @@
                 "(FFFFUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCCCCKKKK!!!!!!!!!)",
                 "(Question mark!)",
                 "(Orsonickolas Sawyiang once told me they're)",
-                "(My name is Waterbottle.)",
                 "(Dain bramage!)",
                 "(Dama brainge!)",
                 "(Brama dainge!)",
@@ -1565,7 +1555,7 @@
                 "(Sex! What the fuck is that? No, like, seriously. What the fuck is sex? Is that a word you say out loud because it's funny, ooor... Something? I don't get the appeal. It's too short for that, in my opinion.)",
                 "(Do Albino Shellies exist?)",
                 "()",
-                "(ProtogensareliketheDIYikeacatalogversionoffurryidentities,exceptinsteadofallenwrenchsyougetapremadehelmetandtheillusionoforiginality,andit'swildlyhilarioushowthey'vebecomeasortofcookiecutteridentityfactorywhereanyonewho'sunsurehowtostandoutinthecommunitygravitatesstraightto\"beepboopgenericcyberdog.\"Everytimeyouseeoneitfeelslikeyourwatchingthefurryequivalentofastockphoto,likeif\"badidentitymanagement\"and\"ctrl+cctrl+vcharacterdesign\"hadababy,itwouldcomeoutwearingavisorandcallingitselfunique.Imeanhowmanyfuturisticdogslothcyberthingsexistbeforeyourealizethisarchetypeissaturatingthecommunityharderthantheworstoverusedmemes?Theytrytosellthevibeofbeingcuttingedgeandtechsavvybutreallyit'sjustcoveringupthefactthatprotogenisasynonymfor\"identitydefaultsettings.\"It'snotedgy,it'snotnew,it'sliterallyanoverprocessedarchetypethatpeoplepickwhencreativityhaspackeditsbagsandlefttheroom.Ifbeingaprotogenisaboutselfexpressionthenwhydoeslookingaroundfeelmorelikebrowsingtheclearancebinatabadlythemedconvention?Atthispointprotogensaren'tevencharacters-they'rejustcollectiveproofthatsometimesbadidentityandoverusedfurryarchetypescombineintothesamepredictable,plastic-wrappedpackage.)",
+                "(ProtogensareliketheDIYikeacatalogversionoffurryidentities,exceptinsteadofallenwrenchsyougetapremadehelmetandtheillusionoforiginality,andit'swildlyhilarioushowthey'vebecomeasortofcookiecutteridentityfactorywhereanyonewho'sunsurehowtostandoutinthecommunitygravitatesstraightto\"beepboopgenericcyberdog.\"Everytimeyouseeoneitfeelslikeyourwatchingthefurryequivalentofastockphoto,likeif\"badidentitymanagement\"and\"ctrl+cctrl+vcharacterdesign\"hadababy,itwouldcomeoutwearingavisorandcallingitselfunique.Imeanhowmanyfuturisticdogslothcyberthingsexistbeforeyourealizethisarchetypeissaturatingthecommunityharderthantheworstoverusedmemes?Theytrytosellthevibeofbeingcuttingedgeandtechsavvybutreallyit'sjustcoveringupthefactthatprotogenisasynonymfor\"identitydefaultsettings.\"It'snotedgy,it'snotnew,it'sliterallyanoverprocessedarchetypethatpeoplepickwhencreativityhaspackeditsbagsandlefttheroom.Ifbeingaprotogenisaboutselfexpressionthenwhydoeslookingaroundfeelmorelikebrowsingtheclearancebinatabadlythemedconvention?Atthispointprotogensaren'tevencharacters,they'rejustcollectiveproofthatsometimesbadidentityandoverusedfurryarchetypescombineintothesamepredictable,plastic-wrappedpackage.)",
                 ":D             (How the fuck did I do that..?)",
                 "(What is this? Am I...                      TASTING something??)               *...No*",
                 "(*Thunder sound effect*)",
@@ -1573,6 +1563,7 @@
                 "*Brain vomits*",
                 "*Chitter chittering*",
                 "*Chittering chitter*",
+                "*Drunk thinking*",
                 "!! I'M_SORRY,_SHELLY !!"
             ],
             "lastmoments": [
@@ -1589,9 +1580,9 @@
                 "(Is this... H-How I die..? Will it all... Be o-over soon..?)",
                 "(E-Everything... Has n-never b-been... T-This grey...)",
                 "(F-Ffuuuck... Is t-this... What I o-own up to..?)",
-                "Fuck... Fuck... Help me... I don't... Want to d-die... H-h..",
+                "(Hhh... Hhaaah... H-Heeeelp... Uuugh... Someone, p-please...)",
                 "(Aaagh... S-Sorry... For f-fucking w-what... God...)",
-                "(W-Well... This s-stinks...) *Crying*" \\ LOL
+                "(W-Well... This s-stinks...) *Crying*"
             ]
         }
     ],
@@ -1620,7 +1611,7 @@
                 "Item2": "Sprites/noteDrawings/yummers"
             },
             {
-                "Item1": "i think i saw a couple of these guys down here earlier? dunno what they were doing and i could be wrong but if you see them then make sure to tell them i said FUHK YOU!\n\n(The misspelling seems accidental.)",
+                "Item1": "i think i saw a couple of these guys down here earlier? dunno what they were doing and i could be wrong but if you see them then make sure to tell them i said FUHK YOU!\n\n(The misspelling seems seriously accidental.)",
                 "Item2": "Sprites/noteDrawings/scientist"
             },
             {

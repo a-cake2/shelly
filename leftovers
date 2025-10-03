@@ -7,8 +7,8 @@
                 "Pet rock. We happy. Note record ashellyvements. Shelly sleep bester. Shelly go very down, far. Rock pet hurt but bandage wrapped. Shelly stone and rock. Not joy finally but entertainment act.",
                 "Don't stop writing this message Shelly... If you stop we die, if you die there is nothing left of us, keep writing, please I beg you.. Don't stop writing this message. I've put up with too much to let it all end like this, and it's all your fault. YOU DID THIS TO US SHELLY! DONT STOP WRITING THIS MESSAGE SHELLY! PLEASE, I DONT WANT TO DIE, I DONT WANT TO BE FORGOTTEN, PLEASE KEEP WRITING THIS MES",
                 "*The note has a drawing of a black creature with white highlighted mouth and eyes. They also have what seems to be a little version of themselves growing as a tumor, on the side of their head.*",
-                "*This note has a stylized drawing depicting an Icke, Chik, Chompy and Shelly. They look friendly to eachother.\nReminds you of how isolated you are.",
-                "*Seems like this note *had* a drawing, but it's completely ruined now, thanks to insurmountable and meaningless scribble-overs. Text on the bottom is surrounded by the chaos, and it reads: \"Friends\".\n              \nCreepy.*",
+                "*This note has a stylized drawing depicting an Icke, Chik, Chompy and Shelly. They look friendly to eachother.*\n*Reminds you of how isolated you are.*",
+                "*Seems like this note *had* a drawing, but it's completely ruined now, thanks to insurmountable and meaningless scribble-overs. Text on the bottom is surrounded by the chaos, and it reads: \"Friends\".*\n\n*Creepy.*",
                 "*This note has a drawing depicting a Dune cringing at the sight of a Shelly.*",
                 "*This note features a drawing of a Shelly biting on the arm of a mouthless Dune. How curious.*",
                 "*The Icke in this note drawing looks... Peculiarly romantic. How uncharacteristic. You wonder if one of those ever acted like that.*"
@@ -16,3 +16,26 @@
              "watchlike": [
                 "(Watch thing. Yeah.)"
             ]
+        "male": "Male",
+        "notanumber": "Non-binary",
+        "invalid": "Invalid",
+        "synonymfordumb": "Intellectually challenged",
+        "thepale": "Victim of pale numbness",
+        "neurotypical": "Neurotypical",
+        "shellynt": "Shellyn't",
+        "shame": "Infinite self-shame",
+        "mouth": "Mouthlly",
+        "g4a": "G4-A",
+        "giant": "Giant",
+        
+        "maledsc": "Your upper chest shells are missing. Damage taken on the upper torso massively increased.",
+        "notanumberdsc": "You emit microwaves instead of ionizing radiation. You are much hungrier in comparison to everyone else.",
+        "invaliddsc": "You got contagious-albinism at a young age and never shook it off ever since. Feeding off radiation accelerates decay insanely fast.",
+        "synonymfordumbdsc": "You got F's on every single one of your training tests. All drug/healing items are very ineffective.",
+        "thepaledsc": "You recently caught a strain of an emotion-removing fungus. All signs of the mood stat removed.",
+        "neurotypicaldsc": "You were born and will die as nothing but a statistic. Inner dialogue and body expressions non-existent.",
+        "shellyntdsc": "A genetic disease has cursed you with an absolutely horrid body shape. Damage taken on your arms and legs significantly increased.",
+        "shamedsc": "You have no mouth and you must scream. Trying to eat an inedible item makes you explode and die on the spot.",
+        "mouthdsc": "You have a mouth (just for show) and God is chasing you down for your universe-breaking antics. Enemies are constantly spawning, all moving towards you.",
+        "g4adsc": "You consider yourself everything but a Shelly. Stats randomized to a different species' every layer (Shellies not included).",
+        "giantdsc": "You were made significantly taller and thicker than other Shellies. Not as much as the original, but still."
