@@ -1210,16 +1210,27 @@
                 "*Trembling in pain*"
             ],
             "fallscream": [
+                "(!!!!!!!!!)",
                 "(BUH-UH--!!)",
                 "(BAHBARHG--!!)",
                 "(AAAHH!!)",
                 "(FUUUCK!)",
+                "(RAAAGH..!)",
+                "(BRACE! BRACE!!!)",
+                "(T-TOO FAST!!!)",
+                "(RRRGGGGHHHH!!!!!)",
+                "(NNGGHHH!!!)",
+                "(GGNHHH!!)",
+                "(S-SHIT!!)",
+                "(NONONONOOOO!!)",
+                "(CANNONBALL!!)",
+                "*Shiver*",
                 "*Shock*",
                 "*Fear*",
                 "*Freeze*"
             ],
             "hitbycreature": [
-                "(FFUUUUUCK!!!)",
+                "(FFUUUUUCK!!)",
                 "(GET AWAY!! GET AWAAY!!!)",
                 "(NOOO!!!)",
                 "(!!!!!!!!!!!!!!!)",
@@ -1344,6 +1355,7 @@
                 "(...It was you or me.)",
                 "(I... I regret nothing.)",
                 "(...I hate you.)",
+                "(...Fuck it.)",
                 "*(Humming)*",
                 "*Annoyed shrug*"
             ],
