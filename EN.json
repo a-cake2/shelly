@@ -1,12 +1,12 @@
 {
     "name": "English",
-    "gameVer": 4,
+    "description": "The official developer-created english locale of the game. You can find community translations in the locale repository (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), though those translations are not quality-checked and might be innacurate or out of date.",
     "main": {
-        },
+    },
     "buildings": {
-        },
+    },
     "moodles": {
-        },
+    },
     "other": {
         "tutexp1": "...These Expie OCs sure are--",
         "tutexp2": "Another kind of unoriginal?",
@@ -15,7 +15,7 @@
         "tutexp5": "I won the rock paper scissors game, so you do you.",
         "tutexp6": "Aww maaan.",
         "tutexp7": "...Time to serve my purpose as a fodder videogame character! Yippee..!"
-        },
+    },
     "character": [
         {
             "seeGravel": [
@@ -24,7 +24,7 @@
                 "I'm ready...",
                 "I didn't want to do this...",
                 "Let's go.",
-                "Alright. Lets move fast.",
+                "Alright. Let's move fast.",
                 "Ooh!",
                 "This looks... Grayer than I anticipated.",
                 "How... Gray.",
@@ -38,10 +38,10 @@
                 "Alright...",
                 "Let's move. Quickly.",
                 "That's a cave alright.",
-                "Aye! Lets not waste any time.",
+                "Aye! Let's not waste any time.",
                 "They really didn't leave anything in my pod...",
                 "My pod really is empty...",
-                "Lets step outside.",
+                "Let's step outside.",
                 "*worried frown*",
                 "I'm excited!",
                 "Not excited for this.",
@@ -50,7 +50,7 @@
                 "I'm already missing my peers from up there.",
                 "I don't think they can monitor me down here... Right...?",
                 "I have to go... Down. Straight down.",
-                "Lets go deep.",
+                "Let's go deep.",
                 "Awwa...?",
                 "Hmm...",
                 "Welp. I guess that's it.",
@@ -63,7 +63,7 @@
                 "Wasn't I supposed to get supplies...?",
                 "My ride's over.",
                 "..Mm. What a peculiar landscape...",
-                "Lets hope I remember my training...",
+                "Let's hope I remember my training...",
                 "I'm already missing my friends...",
                 "My parent would be proud...",
                 "Wow! ...Gray.",
@@ -73,18 +73,114 @@
                 "This is gonna be fun.",
                 "Go down... Get the thing if I find it... Okay..."
             ],
-            "seeModifier": [
-                "Jeez, it's REALLY foggy down here!",
-                "Feels a bit toasty in here... Moreso than I would have expected.",
-                "Geez, this place is SO hot... Huff... What happened here..?",
-                "It feels a little more nippy than usual in here...",
-                "Man alive, it is SO MUCH colder here than I expected...",
-                "There's so many pools around here! This place is flooded...",
-                "This place seems strangely... Dry.",
-                "I swear I saw a small horde of spiders somewhere around here...",
-                "It's... It's pouring water down here? Why? How..? Ugh...",
-                "The air in here feels... Weird. Really weird.",
-                "H... Huh? Where'd the status panel go? Uuugghh... They weren't kidding about those solar flares."
+            "eatGood": [
+                "Mmm!",
+                "Tasty.",
+                "Tasty!",
+                "Yum!",
+                "Yummy.",
+                "Mm...",
+                "Neat!",
+                "Yummy!",
+                "Nice!",
+                "Tasty treat...",
+                "Delicious bite...",
+                "Tastes great.",
+                "Satisfying...",
+                "That's the stuff...",
+                "Fueling up...",
+                "Yummy...",
+                "That's pretty good...",
+                "Not bad!...",
+                "Yummers...",
+                "Good for me...",
+                "Mmmmm...",
+                "Never enough of that...",
+                "Yum! I feel better!",
+                "Nom nom nom.",
+                "That was amazing!",
+                "Such good flavor...",
+                "Flavourful!",
+                "Enjoying this...",
+                "More of this...",
+                "Good food...",
+                "Love this taste...",
+                "Delicious...",
+                "Mmm, nice...",
+                "Just what I needed...",
+                "Mmmmm..."
+            ],
+            "eatMediocre": [
+                "Ehh...",
+                "I've eaten better...",
+                "...",
+                "What is this?",
+                "Mhh...",
+                "Gh..",
+                "...?",
+                "Okay...",
+                "...Ew.",
+                "Meh...",
+                "This texture...",
+                "This taste...",
+                "Guh!",
+                "Ugh...",
+                "Really?",
+                "Could be better.",
+                "Tastes... acceptable.",
+                "Not impressive...",
+                "Mhh...",
+                "Hmph.",
+                "Plehh... Bland.",
+                "Pleh.",
+                "Good enough.",
+                "Eeehh...",
+                "Not great.",
+                "What is this?",
+                "Blah...",
+                "Hmm...",
+                "Meh.",
+                "So-so...",
+                "Eh...",
+                "Meh.",
+                "?"
+            ],
+            "eatBad": [
+                "Ew!",
+                "Ack! What is this!",
+                "Yuck!",
+                "I think I'm gonna be sick...",
+                "Why am I eating this!?",
+                "I'd rather starve.",
+                "I'd genuinely rather starve.",
+                "Is this some sort of punishment...?",
+                "This is unacceptable.",
+                "Do I really have to eat this? Ugh.",
+                "Ack! It tastes so bad!",
+                "Ew ew ew! Uugh!",
+                "That tasted terrible!",
+                "I don't want to eat that ever again.",
+                "Uugh! Gross!",
+                "Yuck! Get it out of my mouth!",
+                "That was the worst!",
+                "Gross! Never again!",
+                "That tastes like SHIT!",
+                "This might make me throw up...",
+                "That tasted BAD!",
+                "Out of my mouth! Uugh!",
+                "This SUCKS!",
+                "Ewww!!",
+                "Yucky!!!",
+                "This tastes rotten!",
+                "I HATE that taste!",
+                "That's disgusting...",
+                "Ew.",
+                "This 'food' is upsetting.",
+                "This is upsetting.",
+                "Oouugh! No! Ew!",
+                "Disgusting!",
+                "I didn't want to eat this.",
+                "What the FUCK am I EATING!?"
             ],
             "refuseEat": [
                 "I'm not eating this.",
@@ -254,6 +350,52 @@
                 "I'm poisoned.",
                 "Fuuuuckk... My stomach..."
             ],
+            "vomit": [
+                "Bluughh... uughh...",
+                "Ghghh... *cough*",
+                "There's my... lunch...",
+                "Bllggh... ugh... damn...",
+                "Uuggh... that... felt terrible...",
+                "That WAS dinner.",
+                "Guhhgh... yuck..",
+                "Uughh.. ew...",
+                "I feel... uhhgh... empty...",
+                "Guughhg... hcck... my stomach...",
+                "Uuughgh... I'm too... sick...",
+                "I can't believe... I'm this sick...",
+                "Guuhghh... ughh...",
+                "I'm so weak.. gughh...",
+                "...uughh... gross...",
+                "Ff.... Fuck... ugh...",
+                "Wow... just... threw up...",
+                "Ghhuhh... empty... stomach...",
+                "My body's... revolting...",
+                "This isn't... ghghuh... going great...",
+                "Fuck me... Ough... Damn it..."
+            ],
+            "vomitblood": [
+                "Bluughh... I... Oh. Oh god, that's blood...",
+                "Ghghh... *cough* ...Fuck... That's... Blood...",
+                "There's my... lu... Oh. Oh no no no. Oh no. That's blood I just threw up...",
+                "Bllggh... ugh... I... Oh... God...",
+                "Is that... Is that blood I just... Blugh...",
+                "I'm pretty sure blood isn't supposed to do that.",
+                "Guhhgh... Why is my vomit... So yellow...?",
+                "Uughh... Something's... Very wrong...",
+                "That's... That's not what vomit tastes like... W-wait...",
+                "Guughhg... Hic... That... That wasn't from my stomach. Oh... Oh god.",
+                "Uuughgh... Help... That's blood I just threw up...",
+                "I can't believe... Did I just... Vomit up blood...",
+                "Guuhghh... ughh... This is... Bad...",
+                "I'm so weak.. gughh... That felt... Very odd...",
+                "...uughh... gross- ...Blood. That's blood. I just threw up blood. Oh no. Oh NO.",
+                "Ff.... Fuck... ugh... Blood... That can't be good...",
+                "Wow... just... threw up... Blood?... ..Huh?",
+                "Ghhuhh... Why did I... Just...",
+                "I'm... guugh... ...I'm pretty sure that's blood... I'm bleeding on the inside...",
+                "This isn't... ghghuh... Vomit... This isn't... Oh...",
+                "Fuck me... Ough... Damn it... Not like this..."
+            ],
             "full": [
                 "That's enough.",
                 "Any more and I'll be sick.",
@@ -327,6 +469,50 @@
                 "My stomach's really empty.",
                 "Ghh... I'm STARVING!",
                 "My body is wasting away..."
+            ],
+            "thirsty": [
+                "I'm thirsty.",
+                "I'd love a drink.",
+                "I feel thirsty.",
+                "I'm thirsty!",
+                "Thirsty.",
+                "Need water.",
+                "I need water.",
+                "I want a drink.",
+                "My mouth's dry.",
+                "Water would hit the spot.",
+                "Mouth's a little dry.",
+                "Bah... thirsty...",
+                "I need a drink.",
+                "Never enough water.",
+                "Any water?",
+                "Water?",
+                "Could do with a drink.",
+                "I'd love to quench my thirst.",
+                "Could do with some water."
+            ],
+            "dehydrated": [
+                "I'm really dehydrated.",
+                "I'm really thirsty...",
+                "I'm parched!",
+                "I'm going to dry out.",
+                "I REALLY want a drink!",
+                "I need water... anything...",
+                "I'm so thirsty...",
+                "I might die of thirst...",
+                "I'm going to... waste away...",
+                "I need to find... water... fast...",
+                "I need water... Now.",
+                "I'm getting dizzy... I need water...",
+                "Im seriously dehydrated.",
+                "I've been without water too long.",
+                "Water... fast...",
+                "Need... water...",
+                "Water...",
+                "No water...",
+                "Water? Please...",
+                "I'm so dehydrated...",
+                "I feel like I'm going shrivel up and die..."
             ],
             "limbmuscle": [
                 "I can't move my <limb>!",
@@ -568,7 +754,7 @@
                 "I died the moment I arrived here."
             ],
             "selfharm": [
-            "Hahahaha... FUCK yeah... That's good...",
+                "Hahahaha... FUCK yeah... That's good...",
                 "Thaaatttt's better... Ahahaha... Fucking amazing...",
                 "Oh yeah... Fuck yeah... FUCK yeah...",
                 "Mmhh... Fuck... Hahahaha... This is good...",
@@ -1307,7 +1493,7 @@
                 "I need to clean off all this dirt.",
                 "Way too dirty.",
                 "Really should wash all the dirt off...",
-                "Lets not get THIS unclean...",
+                "Let's not get THIS unclean...",
                 "Time for a bath!",
                 "I'm pretty sure those lifepods have showers in them... I really could use one.",
                 "How'd I get so dirty?",
@@ -1345,8 +1531,7 @@
             "drillend": [
                 "...That took a while.",
                 "I swear that thing had no soundproofing.",
-                "Pretty long ride there...",
-                "My ears hurt after that."
+                "Pretty long ride there..."
             ],
             "loud": [
                 "FUCK! That was loud...",
@@ -1445,6 +1630,10 @@
                 "Aye! Thanks!",
                 "Good!"
             ],
+            "tradergiveitemrefuse": [
+                "Alright... That's enough for today, my bag's all full.",
+                "Hey, enough gifts! I don't want to give out all my stock to you."
+            ],
             "traderbuy": [
                 "Here you are. Cheers!",
                 "Alright! Here's your pick. Good luck out there.",
@@ -1458,6 +1647,10 @@
                 "I'm not going first.",
                 "Hand over a few more things first.",
                 "Pay first!"
+            ],
+            "traderbuyfailmaxvalue": [
+                "Sorry, that's all I'm willing to trade for now.",
+                "Out of stock! Sorry! You've bought so much already..."
             ],
             "traderwarning": [
                 "Leave.",
@@ -1563,6 +1756,347 @@
                 "Gh... Hh-h...",
                 "What was that!?",
                 "Am... Am I imagining things..?"
+            ],
+            "lastmoments": [
+                "I don't... want to die... I don't want to die...",
+                "Please... Please... Someone save... Save me...",
+                "I don't want to die... Please... Please...",
+                "Not... Not like this... Please... Help me...",
+                "H-help... Someone... I don't w-want to die...",
+                "I don't... I don't want to leave this world...",
+                "Save me... Save me... S-save me... Please...",
+                "This.. Is... H-h... Is this how... How it ends...",
+                "All... Everything I've done... To... To lead up to t-this... Save m-me...",
+                "No.. No.... N-no... Please... Please... I don't... I-I don't want to d-die... Help me...",
+                "Ffhh... Gh.... Help me... Please... Anyone...",
+                "Nhh... Not like t-this... Please... P-please... Save me...",
+                "Please... I don't... I don't want to die... Save me... Anyone... Anything... I-I'm not r-ready...",
+                "W-Will it be.. Over s-soon..?",
+                "Stop... Stop... Stop... Please... S-stop... Not l-like this... Save me...",
+                "Fuck... Fuck... Help me... I don't... Want to d-die... H-h.."
+            ]
+        },
+        {
+            "tradermeetnormal": [
+                "Greetings.",
+                "Hello.",
+                "My pleasure to meet you.",
+                "Ah! Hello there!",
+                "Welcome, fellow traveler.",
+                "Greetings to you.",
+                "Welcome.",
+                "Nice to meet you!",
+                "I hope all is well."
+            ],
+            "tradermeetgood": [
+                "I'm honored to see another survivor.",
+                "Oh! Hello! How are you doing, friend?",
+                "Greetings, dear. How are you doing?",
+                "Ah! Greetings. You look very chipper!",
+                "Ah, how happy I am to see someone like you!"
+            ],
+            "tradermeetbad": [
+                "...I am not impressed.",
+                "Ough. Hello...",
+                "...You confound me. Greetings.",
+                "...Hello.",
+                "Greetings. Please refrain from touching me.",
+                "Hello, fellow survivor.",
+                "Greetings. Please use the door next time.",
+                "Welcome.",
+                "Greetings."
+            ],
+            "traderwakegreet": [
+                "Good morning.",
+                "Hey, you're finally awake.",
+                "Greetings, you've awoken.",
+                "Guess who's awake!",
+                "Sleepyhead. Welcome back!",
+                "You were sleeping like a puppy, haha..."
+            ],
+            "tradergiveitem": [
+                "Thank you.",
+                "That'll come in useful.",
+                "Thank you for the contribution.",
+                "I'm taking this.",
+                "Useful.",
+                "My pleasure.",
+                "I'll make good use of this."
+            ],
+            "tradergiveitemrefuse": [
+                "This is enough for now. I have no more space for these trinkets.",
+                "You may stop gifting me things, I'd prefer not giving out everything else on me."
+            ],
+            "traderhagglesuccess": [
+                "Fine.",
+                "I will make an exception for you.",
+                "Ah, you seem nice.",
+                "You make a good point.",
+                "I accept your request.",
+                "I hear you, buddy. Sure.",
+                "I have to agree.",
+                "Affirmative..."
+            ],
+            "traderhagglefail": [
+                "How about no?",
+                "I'm not a damn charity.",
+                "I only accept facts and logic, not uncoordinated pleas.",
+                "No.",
+                "That was the worst argument I've ever heard.",
+                "I have to deny your appeal.",
+                "Negative.",
+                "No exceptions, sorry."
+            ],
+            "traderbuy": [
+                "No refunds.",
+                "Here you are.",
+                "Don't break it.",
+                "Good luck with this.",
+                "I hope you know how to use this.",
+                "Hope it'll be useful.",
+                "Here's your reward."
+            ],
+            "traderbuyfail": [
+                "No.",
+                "I'm not a charity.",
+                "I don't give out things for free.",
+                "Pay up first.",
+                "I'm not giving you anything without an appropriate return.",
+                "Do I look like a charity to you?",
+                "You're joking.",
+                "How insulting."
+            ],
+            "traderbuyfailmaxvalue": [
+                "Enough trading for today. You've bought out a lot already.",
+                "I don't wish to thoroughly swap our possessions. Let's call it a day."
+            ],
+            "traderthreatensuccess": [
+                "It is not in my interests to get hurt. Take whatever and leave.",
+                "Fine. Take your pick and please exit my pod.",
+                "I hope misfortune awaits you. Fine. Take it and leave.",
+                "You are a horrible person, you know that?",
+                "So this is how you solve issues. Mhm. Fine.",
+                "Did it really have to come to this? You know better... Ugh. Fine.",
+                "A robbery was not something present on my bucket list. But, fine. Just don't hurt me."
+            ],
+            "traderwarning": [
+                "Leave at once.",
+                "I do NOT appreciate your presence. Leave.",
+                "OUT.",
+                "Do you not think I'm serious? Out.",
+                "Get. Out.",
+                "Please. Leave.",
+                "Leave.",
+                "I'm not dealing with you right now.",
+                "Please leave my pod in peace. I got here first."
+            ],
+            "tradercombat": [
+                "I didn't want it to come to this.",
+                "Fucking imbecile.",
+                "Get the fuck out.",
+                "Oh, FUCK you!",
+                "GET OUT!",
+                "This is MY POD! OUT!",
+                "I'm NOT tolerating another moment of YOUR presence!"
+            ],
+            "traderhugsuccess": [
+                "Ahh... I'll... I'll allow it.",
+                "How affectionate...",
+                "Awww. You really needed that...",
+                "Aww, what a nice person you are.",
+                "Mmmhh...",
+                "What a display of affection..."
+            ],
+            "traderhugfail": [
+                "NO TOUCHIES!",
+                "Refrain.",
+                "Cease. Do not embrace me.",
+                "No. Stop. Do not touch me.",
+                "Ew! Get your hands off of me."
+            ],
+            "traderseegun": [
+                "Before we talk, please remove that gun from your person. Anyway...",
+                "I hope this isn't a robbery. If not, put the gun away... Either way...",
+                "Get that gun away from me, this isn't an active shootout. Anyway...",
+                "Are you TRYING to make yourself a threat to me or do you just think the gun looks cool..?"
+            ],
+            "tradermeetimpairedspeech": [
+                "What are you saying..? I can't understand you.",
+                "Your speech is extremely muffled. Just letting you know.",
+                "I can barely make out what you're saying to me."
+            ],
+            "traderseehurt": [
+                "You appear to be injured and bleeding... You can take a bandage if you wish.",
+                "Ew! Please don't bleed all over my floor. Grab a bandage and treat yourself if you see one, mine are free.",
+                "That doesn't look good... You may take a bandage for free if you can find one on me."
+            ],
+            "traderlightbreak": [
+                "...Dude. I have eyes. Thief... Leave!",
+                "Oh, you idiot! Leave, now! OUT!",
+                "EY! Fuck you! Get the fuck out!",
+                "Why the fuck would you do that!? Get out! I needed that light!",
+                "Why are you destroying my pod!? Get OUT! LEAVE!"
+            ]
+        },
+        {
+            "tradermeetnormal": [
+                "Mmm... Hell-o....",
+                "Well-come... Fri-end...",
+                "F-riend... Hell-o... Have s-it...",
+                "H-i-y... Fr-iend... Per-son...",
+                "Come... He-re... Fri-end...",
+                "Here... Fri-end..."
+            ],
+            "tradermeetgood": [
+                "GGack! H-i!",
+                "Mmmm... Fri-end... Well-come to... Safe...",
+                "Fri-end! Hel-lo...! How is...",
+                "Dune find... Go-od fri-end!...",
+                "Hel-loo!... Frie-nd... App-ro-ach...",
+                "Ne-w fri-end?.. Dune ha-ppy..."
+            ],
+            "tradermeetbad": [
+                "Grrr... Per-son...",
+                "Nggghhrr... Hel-lo... Per-son...",
+                "Grrrrr... Fri-end... No look tas-ty...",
+                "Grrrr... Bad per-son!.. Grrr...",
+                "Grrrpmh.. Bad!... Not fri-end...",
+                "Dune dis-li-ke... This fri-end!..."
+            ],
+            "traderwakegreet": [
+                "Frien-d... Wake from nap...",
+                "No mo-re slee-p... Hel-lo..! Wake...",
+                "Awake... Goo-d mor-ning...",
+                "Wake... Fri-end...",
+                "Wa-ke up.. Friend...",
+                "Fri-end slee-p... Wake... Dune gr-eet!"
+            ],
+            "tradergiveitem": [
+                "Dune will ta-ke.",
+                "Accept thin-g..!",
+                "Dune ta-ke thing..!",
+                "Than-k... Fri-end...",
+                "Du-ne nee-d...",
+                "Goo-d... Tha-nk...",
+                "Fri-end gi-ves... Good..."
+            ],
+            "tradergiveitemrefuse": [
+                "No more take!",
+                "Is eno-ugh...",
+                "Fri-end.. Not.. Get it.. En-ough...",
+                "Dune n-ot... Take mo-re!",
+                "No! Dune ha-ve eno-ugh..."
+            ],
+            "traderbite": [
+                "Good... Enjoy tast-e. Like fri-end more!",
+                "Yes... Than-k for... Du-ne din-ner...",
+                "Hmmhhm... Than-k... Good tas-te... Grab any-thing..!",
+                "Eat good... Fri-end good...",
+                "Dune lo-ves fri-end taste...",
+                "Go-od fri-end... Ate we-ll..."
+            ],
+            "traderbuy": [
+                "Have thing. Friend des-erve!",
+                "Take thi-ng! As rew-ard...",
+                "Dune gi-ve back gif-t! Fri-end have...",
+                "Du-ne give...",
+                "Dune... Pa-y ba-ck...",
+                "Fri-end give... Once... Dune give too...",
+                "You... Ta-ke thing! Fri-end good..."
+            ],
+            "traderbuyfail": [
+                "Grrrr!",
+                "No! Ggrhhr...",
+                "No! Gi-ve own!",
+                "Grrrr... Dune need thi-ng too!",
+                "Du-ne not gif-t... Giv-e now!... Grrrr...",
+                "Fri-end gi-ve fir-st..."
+            ],
+            "traderbuyfailmaxvalue": [
+                "Gave enough! Go a-way now!",
+                "Dune give so mu-ch... Too much... Fri-end stop...",
+                "Dune not give... Big...",
+                "Grrr... Du-ne kee-p big! Grrrmph...",
+                "Dune ke-ep... Dune nee-d... Mo-re..."
+            ],
+            "traderthreatensuccess": [
+                "Not need eff-ort... Take thing... Me-an...",
+                "Dune not take up com-bat... Take thi-ng and leave... Ggrhhr...",
+                "Fri-end gr-eat.. Hunter! Dune... Fear... Y-ou take...",
+                "Dune weak-er... Dune give... Up... Ta-ke and lea-ve...",
+                "Don't hu-rt Dune... Ta-ke thi-ng... Lea-ve...",
+                "Dune all-ow evil fri-end take thi-ng... But Dune ha-te fri-end..."
+            ],
+            "traderwarning": [
+                "Go aw-ay! Or bit-e! Now!",
+                "Mnnnhh... Pre-y is ask for it...",
+                "Gghhrr! LEAVE... AW-AY...",
+                "Go... Away! Fa-r...",
+                "Dune hate fri-end!",
+                "Dune not let fri-end in!... Out!...",
+                "Dune want fri-end out!... No-w!..."
+            ],
+            "tradercombat": [
+                "Nggrrrrr! Grrrrrrr! GAAAAHHH!",
+                "GGHHRRAHHH!",
+                "GNNGHRHHRRRRR!",
+                "FRI-END REGRET CHO0I-CE!",
+                "NGGHHRRR...",
+                "GRRRR! DUNE HATE!",
+                "NGHHRRRR... NO MO-RE FRI-END!",
+                "DUNE HA-TE EVIL FRI-END! GRRRR!",
+                "DUNE... FIND... E-NE-MY! M-ON-STER!"
+            ],
+            "traderhugsuccess": [
+                "Why is fri-end touch...",
+                "Wh-at is fri-end doing..?",
+                "Gnhghr..? Why fri-end touch..?",
+                "Why tou-ch..? Du-ne not get...",
+                "Uhh... Grr... Du-ne not get... Dune allow...",
+                "Fri-end... Why?... Okay...",
+                "Dune not know... Why fri-end... Fri-end can do...",
+                "Dune and fri-end clo-se?... Wh-at..."
+            ],
+            "traderhugfail": [
+                "GRRR! Away! Ggrrn...",
+                "Ngghrr! No! Aw-ay!",
+                "No! Dune not let...",
+                "Dune dis-like fri-end close...",
+                "Grrr! No! Ngghr...",
+                "Fri-end do not app-ro-ach! Grrr... Dune dis-like..."
+            ],
+            "traderseegun": [
+                "What friend hold..? St-op!",
+                "Du-ne not com-fort with boom-stick...",
+                "N-no... Dune fear... loud rod...",
+                "Fri-end... Dune f-ear you... Lo-ud sti-ck...",
+                "Why fri-end ho-ld... thing of pain?...",
+                "Dune... Fear in-st-ant... Hurt thing...",
+                "Why fri-end ho-ld... Click-boom... Dune... Dislike...",
+                "Dune fear... Fee-mee-jee?... Pain... Not get...",
+                "Un-fair fi-ghter... Dune... Dislike... Gu-n..."
+            ],
+            "tradermeetimpairedspeech": [
+                "Dune not under-stand... Word bet-ter! Fri-end word bad...",
+                "What is fri-end say..? Voice is muf-fle...",
+                "Dune word ba-d... Fri-end word bad... Bad bad!...",
+                "Du-ne hard talk... Fri-end talk... ba-d...",
+                "Dune no-t unde-r-stand... You...",
+                "Du-ne tro-uble hear fri-end!"
+            ],
+            "traderseehurt": [
+                "Fri-end hurt... Ngghhgrr... Take fix thin-g... Free...",
+                "Why hurt?.. Dune can... gi-ve li-fe thing... Free...",
+                "Fri-end i-nj-ure... Dune give thing-help... Free...",
+                "Th-is fri-end bo-dy bad... Dune ca-n gift fix...",
+                "Fri-end feel pain... Dune gift help..."
+            ],
+            "traderlightbreak": [
+                "NNGGHHRR! Why fri-end steal! Go away! GGrrhhhhhh... BAD..!",
+                "GRRR! EVIL! GE-T OUT!",
+                "BAD! Grrrr... Fri-end bad... Bad! Lea-ve!",
+                "Dune NOT SEE! BAD FRI-END! GO AWAY... AW-AY!",
+                "Fri-end steal! Not fri-end..."
             ]
         }
     ],
@@ -1631,7 +2165,7 @@
                 "Item2": ""
             },
             {
-                "Item1": "i really need to stop losing my lights. anything does the job, even those weird glowy plant things. i keep leaving forgetting about them, then tripping up and getting hurt by accident. not good.",
+                "Item1": "i really need to stop losing my lights. anything does the job, even those weird glowy plant things. i keep leaving and forgetting about them, then tripping up and getting hurt by accident. not good.",
                 "Item2": "Sprites/noteDrawings/glowplant"
             }
         ],
@@ -1645,7 +2179,7 @@
                 "Item2": ""
             },
             {
-                "Item1": "(There is a poorly made drawing of what looks to be one of your captors. They are holding what you can make out as a tazer. Their face is scratched out with a big X. The weapon brings back horrible memories.)",
+                "Item1": "(There is a poorly made drawing of what looks to be one of your captors. They are holding what you can make out as a taser. Their face is scratched out with a big X. The weapon brings back horrible memories.)",
                 "Item2": "Sprites/noteDrawings/scientist"
             },
             {

@@ -1,6 +1,6 @@
 {
     "name": "Shelly",
-    "gameVer": 5,
+    "description": "Shelly Shelly Shelly-Shelly Shelly Shelly Shelly Shelly Shelly. Shelly Shelly Shelly Shelly Shelly Shelly Shelly Shelly Shelly (<color=\"blue\">https://github.com/a-cake2/shelly</color>), Shelly Shelly Shelly Shelly Shelly Shelly-Shelly Shelly Shelly Shelly Shelly Shelly Shelly Shelly Shelly.",
     "main": {
         "armwarmers": "Arm warmers",
         "armwarmersdsc": "A pair of blue arm warmers. Provides some insulation against the cold. Uncomfortable, itchy texture. These also look ugly on you.",
@@ -46,11 +46,13 @@
         "rippedeyedsc": "Two out of four of your eyes have been ripped out, halving your field of view. You are somewhat scarred by the experience. Don't lose the rest.",
         "rippedeyesdsc": "All of your eyes have been ripped out. You can only get by using feel and sound. At least you no longer need a light source...",
         "rippedeye1dsc": "One of your eyes has been ripped out, blurring some of your vision. Don't lose the rest!",
-        "rippedeye2dsc": "Two of your eyes have been ripped out, blurring a lot of your vision. Traumatizing.",
+        "rippedeye2dsc": "Two of your eyes have been ripped out, obscuring some of your vision. Traumatizing.",
         "rippedeye3dsc": "Three of four of your eyes have been ripped out, obscuring most of your vision. That one's your last chance.",
         "rippedeye4dsc": "All of your eyes have been ripped out. Pray that you can still feel your way through the mission."
     },
     "other": {
+        "fullmouthchars": "",
+        "underwaterchars": " -h",
         "layertitletutorial": "Earth\nTraining hell",
         "layertitle4": "Shellyland",
         "layertitle10": "WHERE I MUST REACH",
@@ -73,7 +75,11 @@
         "tutshe6": "*Slow nod*",
         "tutshe7": "*Tired sigh*",
         
+        "handswitchwarning": "<color=\"orange\">BRUH\n</color>This mechanic is fucking stupid.",
+        
         "haggledsc": "Try to negotiate lower prices. Might upset the trader if done wrong.\n<color=\"orange\">Shellies aren't good with this.",
+        "haggleickedsc": "Engage in a playful bear fight with the trader in exchange for reputation and value. They *shouldn't* try to kill you.\n<color=\"orange\">Shellies should be able to sustain their attacks with ease.",
+        "haggledunedsc": "Let the trader bite a small chunk out of either of your extremities in exchange for reputation and value. They should be careful enough to avoid any serious harm.\n<color=\"orange\">Shellies are horrible for this.",
         "hugdsc": "Give them a hug. You might scare them if they're unsure about you./n<color=\"orange\">Shellies aren't good for this.",
         "threatendsc": "Threaten them to get a free item or two. Might backfire significantly.\n<color=\"green\">Shellies look menacing this close.",
         "jsonthing": "jasãodatinga"
@@ -1433,11 +1439,15 @@
             ],
             "tradergiveitem": [
                 "*Singular nod*",
-                "*Registering the value of all this before slightly nodding*",
+                "*Cashing in all this before slightly nodding*",
                 "*No response, they're checking what they just got*",
                 "*Thumbs up*",
                 "*Hand rubbing*",
                 "*No response*"
+            ],
+            "tradergiveitemrefuse": [
+                "*Politely declining*",
+                "*Shyly shakes head*"
             ],
             "traderbuy": [
                 "*Hand heart*",
@@ -1455,11 +1465,15 @@
                 "*Disappointed glare*",
                 "*Chitters, arms crossed*"
             ],
+            "traderbuyfailmaxvalue": [
+                "*Energetically shakes head*",
+                "*Double open palm shaking disapproval*"
+            ],
             "traderwarning": [
                 "*Angry foot tapping*",
                 "*Arms crossed*",
                 "*Angrily pointing you outside*",
-                "*Glancing you towards the door*",
+                "*Angry hand clapping*",
                 "*Furrowing 4-eyebrows*",
                 "*Narrowing 4-eyes*",
                 "*Unease*",
