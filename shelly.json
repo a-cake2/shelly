@@ -55,14 +55,21 @@
         "underwaterchars": " -h",
         "layertitletutorial": "Earth\nTraining hell",
         "layertitle4": "Shellyland",
+        "layertitle6": "Cooling system",
+        "layertitle9": "The Reactor",
         "layertitle10": "WHERE I MUST REACH",
         "layertitle12": "OUTER SHELL",
         "layertitle14": "OUTER SPACE-LLY",
         "layertitle15": "LAYER 1: LIMBO.",
-        
+        "layermodifier5": "Shelly storage",
+        "layermodifier9": "Shelloids' resting place",
+        "layermodifier5dsc": "The terrain here is unusally flooded.",
+        "layermodifier9dsc": "Nuclear waste has been dumped in this site. Don't green yourself out.",
+                
         "FootFShort": "Foot",
         "FootBShort": "Foot",
         "shelly": "Shelly",
+        "shellytraderdsc": "<sprite index=20>",
         "mouth": "Neck",
         "napinfo2": "Sleep quality is determined by the ground you sleep on\nCan't sleep if in pain/sick/not tired\n<color=\"red\">Sadness affects your acceptance to sleep",
         "discretionwarning": "This game contains <color=\"purple\">Shellies\n<color=\"grey\">Press LMB to continue",
@@ -75,12 +82,12 @@
         "tutshe6": "*Slow nod*",
         "tutshe7": "*Tired sigh*",
         
-        "handswitchwarning": "<color=\"orange\">BRUH\n</color>This mechanic is fucking stupid.",
+        "handswitchwarning": "<color=\"orange\">WARNING\n</color>This weaker left arm mechanic is fucking stupid. blow my brains out before the day i'd make this a real thing in any game ever created or soon to be imagined.",
         
         "haggledsc": "Try to negotiate lower prices. Might upset the trader if done wrong.\n<color=\"orange\">Shellies aren't good with this.",
-        "haggleickedsc": "Engage in a playful bear fight with the trader in exchange for reputation and value. They *shouldn't* try to kill you.\n<color=\"orange\">Shellies should be able to sustain their attacks with ease.",
-        "haggledunedsc": "Let the trader bite a small chunk out of either of your extremities in exchange for reputation and value. They should be careful enough to avoid any serious harm.\n<color=\"orange\">Shellies are horrible for this.",
+        "haggledunedsc": "Let the trader bite a small chunk out of either of your extremities in exchange for reputation and value. They should be careful enough to avoid any serious harm.\n<color=\"orange\">Shellies taste horrible.",
         "hugdsc": "Give them a hug. You might scare them if they're unsure about you./n<color=\"orange\">Shellies aren't good for this.",
+        "hugickedsc": "Engage in a playful bear fight with the trader in exchange for reputation and value. They *shouldn't* try to kill you.\n<color=\"green\">Shellies should be able to sustain their attacks with ease.",
         "threatendsc": "Threaten them to get a free item or two. Might backfire significantly.\n<color=\"green\">Shellies look menacing this close.",
         "jsonthing": "jasãodatinga"
     },
@@ -1637,7 +1644,7 @@
                 "Item2": "Sprites/noteDrawings/yummers"
             },
             {
-                "Item1": "i think i saw a couple of these guys down here earlier? dunno what they were doing and i could be wrong but if you see them then make sure to tell them i said FUHK YOU!\n\n(The misspelling seems seriously accidental.)",
+                "Item1": "i think i saw a couple of these guys down here earlier? dunno what they were doing and i could be wrong but if you see them then make sure to tell them i said FUHK YOU!\n\n(The misspelling seems genuine.)",
                 "Item2": "Sprites/noteDrawings/scientist"
             },
             {
