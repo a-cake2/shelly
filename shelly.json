@@ -2,6 +2,8 @@
     "name": "Shelly",
     "description": "Shelly Shelly Shelly-Shelly Shelly Shelly Shelly Shelly Shelly. Shelly Shelly Shelly Shelly Shelly Shelly Shelly Shelly Shelly (<color=\"blue\">https://github.com/a-cake2/shelly</color>), Shelly Shelly Shelly Shelly Shelly Shelly-Shelly Shelly Shelly Shelly Shelly Shelly Shelly Shelly Shelly.",
     "main": {
+        "dogfood": "Dog food",
+        "dogfooddsc": "Smells awful and a lot like an Experiment. Bound to sell for quite a bit, atleast.",
         "armwarmers": "Arm warmers",
         "armwarmersdsc": "A pair of blue arm warmers. Provides some insulation against the cold. Uncomfortable, itchy texture. These also look ugly on you.",
         "armwarmerslab": "Lab arm warmers",
@@ -68,27 +70,40 @@
                 
         "FootFShort": "Foot",
         "FootBShort": "Foot",
+        "dunespecialtradershellydsc": "Not food.",
         "shelly": "Shelly",
         "shellytraderdsc": "<sprite index=20>",
         "mouth": "Neck",
         "napinfo2": "Sleep quality is determined by the ground you sleep on\nCan't sleep if in pain/sick/not tired\n<color=\"red\">Sadness affects your acceptance to sleep",
         "discretionwarning": "This game contains <color=\"purple\">Shellies\n<color=\"grey\">Press LMB to continue",
-        
-        "tutshe1": "...",
+        "char0name": "[SAW-13] \"Shelly\"",
+        "char0desc": "[FAMILY] \"Arachnid\"\n[CALLOUT_QUOTE] \"*Activates red heat mode*\"\n[SUCCESS_PREDICTION] \"ERR %\"\n[NOTES] \"Lesbian\"",
+        "char0quirks": "[ARACHNID] - This jit cracks velvets.\n[BIOLUMINESCENT_ORIENTATION] - In an emergency, you're straight.",
+        "presetdeath": "Instant death",
+        "presetendlessdsc": "Everything that kills you cranked to the max hell yeah *Insert badass as fuck Shelly*",
+        "tutorialwarningno": "Shut the fuck up, Orson!",
+        "gamesetskipintro": "Skip intro",
+        "gamesetskipintrodsc": "Oh my fucking god, PLEASE...",
+
+        "tutexp1": "...",
         "tutexp2": "Not much for talking, I assume.",
-        "tutshe3": "*Chitter + Head shake*",
-        "tutshe4": "*Points to elevator exit*",
+        "tutexp3": "*Chitter + Head shake*",
+        "tutexp4": "*Points to elevator exit*",
         "tutexp5": "No, I don't feel like it. Go ahead.",
-        "tutshe6": "*Slow nod*",
-        "tutshe7": "*Tired sigh*",
+        "tutexp6": "*Slow nod*",
+        "tutexp7": "*Tired sigh*",
         
-        "handswitchwarning": "<color=\"orange\">WARNING\n</color>This weaker left arm mechanic is fucking stupid. blow my brains out before the day i'd make this a real thing in any game ever created or soon to be imagined.",
+        "handswitchwarning": "<color=\"orange\">WARNING\n</color>This weaker left arm mechanic is fucking stupid. blow my brains out before the day I'd make this a real thing in any game ever created or soon to be imagined.",
+        "tutorialspecieslock": "Can only enter with Experiment speci- OH ORSON FUCK OFF",
         
         "haggledsc": "Try to negotiate lower prices. Might upset the trader if done wrong.\n<color=\"orange\">Shellies aren't good with this.",
         "haggledunedsc": "Let the trader bite a small chunk out of either of your extremities in exchange for reputation and value. They should be careful enough to avoid any serious harm.\n<color=\"orange\">Shellies taste horrible.",
         "hugdsc": "Give them a hug. You might scare them if they're unsure about you./n<color=\"orange\">Shellies aren't good for this.",
         "hugickedsc": "Engage in a playful bear fight with the trader in exchange for reputation and value. They *shouldn't* try to kill you.\n<color=\"green\">Shellies should be able to sustain their attacks with ease.",
         "threatendsc": "Threaten them to get a free item or two. Might backfire significantly.\n<color=\"green\">Shellies look menacing this close.",
+        "tradermovedsc": "Politely ask the trader to Fuck Off! In case they're blocking something important.",
+
+        "tutnice": "Kill yourself!",
         "jsonthing": "jasãodatinga"
     },
     "character": [
@@ -410,6 +425,50 @@
                 "(I'm gonna melt into a spicy green paste at this point.)",
                 "*Feeling lots of weakness*",
                 "*Frustration over starvation*"
+            ],
+            "thirsty": [
+                "I'm thirsty.",
+                "I'd love a drink.",
+                "I feel thirsty.",
+                "I'm thirsty!",
+                "Thirsty.",
+                "Need water.",
+                "I need water.",
+                "I want a drink.",
+                "My mouth's dry.",
+                "Water would hit the spot.",
+                "Mouth's a little dry.",
+                "Bah... thirsty...",
+                "I need a drink.",
+                "Never enough water.",
+                "Any water?",
+                "Water?",
+                "Could do with a drink.",
+                "I'd love to quench my thirst.",
+                "Could do with some water."
+            ],
+            "dehydrated": [
+                "(Let's ignore the fact I'm a Shelly and get me some water.)",
+                "(I NEED coolant.)",
+                "(I'm dry as a river... Wait.)",
+                "(These lines are so fucking out of character I frankly don't care.)",
+                "(I NEED THE SLURPITTY SLURPY SLURP!!)",
+                "(I NEED TO GLUGLUGLUG RIGHT NOW.)",
+                "I'm so thirsty...",
+                "I might die of thirst...",
+                "I'm going to... waste away...",
+                "I need to find... water... fast...",
+                "I need water... Now.",
+                "I'm getting dizzy... I need water...",
+                "I'm seriously dehydrated.",
+                "I've been without water too long.",
+                "Water... fast...",
+                "Need... water...",
+                "Water...",
+                "No water...",
+                "Water? Please...",
+                "I'm so dehydrated...",
+                "I feel like I'm going to shrivel up and die..."
             ],
             "limbmuscle": [
                 "(<limb> feels kinda funny.)",
@@ -1328,6 +1387,9 @@
                 "*Stiffening muscles*",
                 "*Back cracking*"
             ],
+             "watchlike": [
+                "(I agree, watch thing.)"
+            ],
             "watchdislike": [
                 "(This watch thing is annoying.)"
             ],
@@ -1531,6 +1593,15 @@
                 "*Points to you and does a bandaging motion, worriedly*",
                 "*Covers the mouthless region, then hand claps to get your attention*"
             ],
+            "tradermove": [
+                "*Nods*",
+                "*Slow nod*"
+            ],
+            "tradermovefail": [
+                "*Furrowed eye, arms crossed*",
+                "*Slow head shake*",
+                "*Head shake, shrug*"
+            ],
             "swingresponse": [
                 "(FUCK OFF!!!)",
                 "(LEAVE ME ALONE!!)",
@@ -1616,6 +1687,83 @@
                 "(Hhh... Hhaaah... H-Heeeelp... Uuugh... Someone, p-please...)",
                 "(Aaagh... S-Sorry... For f-fucking w-what... God...)",
                 "(W-Well... This s-stinks...) *Crying*"
+            ],
+            "magicheal": [
+                "(Uh... Why am I... Better..?)",
+                "(I'm feeling better... Thank... You..?)",
+                "Ahh..! ...Huh. That feels... That feels better. I liked that."
+            ],
+            "selfdestruct": [
+                "...Uuuhh... ...What is this beeping...?",
+                "...Oh. Oh. OH. OH! NO. NO NO NO. WAIT. WHY? WHAT DID I DO!?",
+                "...A-ah... Alright... W-well... G-goodbye, t-then..."
+            ],
+            "endlessloop0": [
+                "(...You've got to be kidding me. How far down do these caves go?? And why is this place all too familiar???)"
+            ], 
+            "endlessloop1": [
+                "...This is not going like I hoped it would...I don't know what else I could do... Well. Ugh. Third time's the charm, I guess..?"
+            ],
+            "endlessloop2": [
+                "<spoiler> na na naw orson we aint doing this <spoiler> shit naw fuck off"
+            ], 
+            "endlessloop3": [
+                "Well! I'm not getting out of here, am I... I think I'm getting used to this."
+            ],
+            "endlessloopdefault": [
+                "(Oh, round and round we go... Holding on to pain... Driven by our egos... Feelings, feelings untold... Spinning our own versions of the past... That you could never know...)"
+            ],  
+            "vomitresponse": [
+                "Uuuhmm... You good..?"
+            ],
+            "vomitbloodresponse": [
+                "Ack! Did you just... Oh... Hey, you know you just... Threw up blood, right?"
+            ],
+            "hungryresponse": [
+                "There's a bunch of food out there, you know...",
+                "Well, I could give you food in exchange for something..?"
+            ],
+            "thirstyresponse": [
+                "I'd wager you can find some water out...",
+                "Last I heard you can only go for three \"days\" without water, haha..."
+            ],
+            "sadresponse": [
+                "Hey, it's okay... You're still alive and kicking, right..."
+            ],
+            "depressedresponse": [
+                "...Calm down, please... It'll be fine..."
+            ],
+            "selfharmresponse": [
+                "...W-why... Did you..."
+            ],
+            "braindamagedresponse": [
+                "...You don't sound... Very well.",
+                "*Blank stare... Thumbs up*"
+            ],
+            "hotresponse": [
+                "*Jokingly paper fans you*"
+            ],
+            "coldresponse": [
+                "You know, we do have a heater here..."
+            ],
+            "bleedingresponse": [
+                "It... Does look bad... But, I... I'm sure you can fix it...",
+                "H-hey, calm down. You'll be okay."
+            ],
+            "painresponse": [
+                "Are you okay..? Why do you hurt?",
+                "Did you step on something?"
+            ],
+            "dirtyresponse": [
+                "*Visible annoyance... Points to you, holds 'nose', fans smell*"
+            ],
+            "encumberedresponse": [
+                "Wouldn't hurt to leave some of your stuff with me.",
+                "I'll take good care of your things!"
+            ],
+            "dyingresponse": [
+                "Crap... Uh... I never learned how to resuscitate others...",
+                "I... Uh... I hope you'll be alright..."
             ]
         }
     ],
@@ -1642,10 +1790,6 @@
             {
                 "Item1": "*This note features a drawing of a Shelly biting on the arm of a mouthless Dune. How curious.*",
                 "Item2": "Sprites/noteDrawings/yummers"
-            },
-            {
-                "Item1": "i think i saw a couple of these guys down here earlier? dunno what they were doing and i could be wrong but if you see them then make sure to tell them i said FUHK YOU!\n\n(The misspelling seems genuine.)",
-                "Item2": "Sprites/noteDrawings/scientist"
             },
             {
                 "Item1": "placeholder text",

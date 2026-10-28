@@ -1002,7 +1002,7 @@
         "clawdamage2dsc": "Your claws are severely damaged from excessive use, severely reducing your damage output. You might damage your hands if you keep using them without a tool.",
         "keratinboosterdsc": "Your claws regrow three times as fast. (<>)",
         "impendingdoomdsc": "You can't help but feel sudden, overwhelming fear. Your skin has goosebumps all over. It's as if the nature around you abruptly fell silent...",
-        "horrifieddsc": "CAN'T FOCUS. CAN'T THINK. NOTHING ELSE MATTERS. RUN FOR YOUR LIFE OR FIGHT FOR IT!"
+        "horrifieddsc": "CAN'T FOCUS. CAN'T THINK. NOTHING ELSE MATTERS. RUN FOR YOUR LIFE OR FIGHT FOR IT!",
 
         
         "vlowrads": "Starving",
@@ -1670,7 +1670,7 @@
         "healthchipradalert2": "PUNISHMENT\nPROTOCOL ACTIVE",
         "healthchipradalert3": "PICK UP\nTHE PACE",
         "startlorenote": "Year 2XXX \n<>\nHumanity has technologically progressed to a significant extent. \n<>\nOne corporation began to put research into bio-engineering, combining animal and human DNA. \n<>\nThis lead to their creation of the Experiment species, along with dozens of later offshoots. \n<>\nAfter years of unethical private testing in labs, they set their sights on something bigger. \n<>\nThey knew of a gray planet with thriving flora, fauna and an easy space travel path. \n<>\nSoon, thousands of specimens, buildings and miscellaneous cargo were sent. \n<>\nWhile most was shipped correctly, a large amount of cargo was mistakenly sent to the planet's expansive cave network due to a calibration error. \n<>\nThis includes a mistakenly sent piece of important experimental technology, which now sat deep in the underground systems, without an easy way to get it back. \n<>\nThis, however, was seen as an opportunity by the scientists to do more behavioural research by sending thousands of specimens down to retrieve the lost tech. \n<>\nThe chance of it working were low, but shipment is cheap and their breathing fodder is plenty. \n<>\nYou are one unlucky specimen.\nResistance is not an option.",
-        "jsonthing": "hi, this is here so i can copy json text without it annoying me about commas. this entry is not needed :)"
+        "jsonthing": "hi, this is here so i can copy json text without it annoying me about commas. this entry is not needed :)",
 
         
         "fullmouthchars": "",

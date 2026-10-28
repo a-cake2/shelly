@@ -13,9 +13,6 @@
                 "*This note features a drawing of a Shelly biting on the arm of a mouthless Dune. How curious.*",
                 "*The Icke in this note drawing looks... Peculiarly romantic. How uncharacteristic. You wonder if one of those ever acted like that.*"
             ],
-             "watchlike": [
-                "(Watch thing. Yeah.)"
-            ]
         "male": "Male",
         "notanumber": "Non-binary",
         "invalid": "Invalid",
@@ -39,3 +36,9 @@
         "mouthdsc": "You have a mouth (just for show) and God is chasing you down for your universe-breaking antics. Enemies are constantly spawning, all moving towards you.",
         "g4adsc": "You consider yourself everything but a Shelly. Stats randomized to a different species' every layer (Shellies not included).",
         "giantdsc": "You were made significantly taller and thicker than other Shellies. Not as much as the original, but still."
+
+
+            {
+                "Item1": "i think i saw a couple of these guys down here earlier? dunno what they were doing and i could be wrong but if you see them then make sure to tell them i said FUHK YOU!\n\n(The misspelling seems genuine.)",
+                "Item2": "Sprites/noteDrawings/scientist"
+            },
